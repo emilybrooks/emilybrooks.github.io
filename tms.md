@@ -1833,7 +1833,7 @@ Sell:
 		Large Gold Bar
 Buy:
 		Itsuki Trickster
-		Tsubasa Trickster
+		Tsubasa Pegasus Earrings
 
 Walk to lesson studio
 
@@ -1863,7 +1863,7 @@ Dolph    3500HP Lv. 52
 Macellan 3500HP Lv. 52
 
 Itsuki Tyrfing, Trickster
-Tsubasa Tonbo-Kiri, Trickster
+Tsubasa Tonbo-Kiri, Pegasus Earrings
 Kiria Thyrsus, Immobility Talisman
 Yashiro Masamune, Martial Gloves
 
@@ -1898,7 +1898,7 @@ Ogma  3800HP Lv. 53
 Jagen 4100HP Lv. 53
 
 Itsuki Tyrfing+1, Trickster
-Tsubasa Tonbo-Kiri, Trickster
+Tsubasa Tonbo-Kiri, Pegasus Earrings
 Kiria Thyrsus, Immobility Talisman
 Yashiro Masamune, Martial Gloves
 
@@ -1968,8 +1968,8 @@ Buy:
 	
 Buy:
 
-            Yashiro Iron Guard
-            Kiria Trickster
+			Yashiro Trickster
+			Kiria Trickster
 	
 ##    Bloom Palace
 	
@@ -1992,9 +1992,9 @@ Fire Drn. / Ice  Null / Elec ー / Wind Wk.
 Mind  Null / Body Null
 
 Itsuki Tyrfing+1, Trickster
-Tsubasa Tathlum, Trickster
+Tsubasa Tathlum, Pegasus Earrings
 Kiria Thyrsus, Trickster
-Yashiro Masamune, Iron Guard
+Yashiro Masamune, Trickster
 
 --------------------------------------------------
 r1
@@ -2047,8 +2047,8 @@ Fire Wk. / Ice  Res. / Elec Res. / Wind ー
 Mind  Null / Body Wk.
 
 Itsuki Tyrfing+1, Trickster
-Tsubasa Tathlum, Trickster
-Yashiro Murasame, Martial Glove
+Tsubasa Tathlum, Pegasus Earrings
+Yashiro Murasame, Trickster
 
 --------------------------------------------------
 r1
@@ -2098,7 +2098,7 @@ Fire Res. / Ice  ー / Elec Wk. / Wind Wk.
 Mind  ー / Body ー
 
 Itsuki Tyrfing+1, Trickster
-Tsubasa Tathlum, Trickster
+Tsubasa Tathlum, Pegasus Earrings
 Kiria Thyrsus, Trickster
 
 --------------------------------------------------
@@ -2188,7 +2188,7 @@ Mind  ー / Body ー
 
 Itsuki Exhalted Fachion, Trickster
 Tsubasa Gradivus, Roaring Ear Plugs
-Yashiro Murasame, Martial Glove
+Yashiro Murasame, Trickster
 
 --------------------------------------------------
 itsuki and yashiro heatwave the warriors until they're dead
@@ -2206,7 +2206,7 @@ tsubasa could mediarama or piercing void if you have the extra turn
 
 Coordinate:
 
-            Tsubasa Trickster
+            Tsubasa Pegasus Earrings
 
 Casting:
 
@@ -2289,8 +2289,8 @@ Warp to 434m
 Excellus  10000HP Lv. 61
 
 Itsuki Exhalted Fachion+1, Trickster
-Tsubasa Karura, Trickster
-Yashiro Murasame, Martial Glove
+Tsubasa Karura, Pegasus Earrings
+Kiria Mjolnir, Trickster
 
 --------------------------------------------------
 r1
@@ -2326,43 +2326,56 @@ Before medeus:
 		5 dekunda stones
 		energy drinks
 		revival curry
-	Amrita shower
+		Amrita shower
 
 Coordinate:
-		Itsuki Iron Guard
-		Tsubasa Gradivus
-		Kiria Mjolnir
-		Yashiro Trickster
+
+			Tsubasa Gradivus
+			Kiria Mjolnir
+		
 Artist:
-	Move tsubasa's healing skills close together
-	Move kiria's naga and concentrate next to each other
+
+			Move tsubasa's healing skills close together
+			Move kiria's naga and concentrate next to each other
 
 --------------------------------------------------
 Medeus (Phase 1) 20000HP Lv. 61
 
-Itsuki Exhalted Fachion+1, Iron Guard
-Tsubasa Gradivus, Trickster
+Itsuki Exhalted Fachion+1, Trickster
+Tsubasa Gradivus, Pegasus Earrings
 Kiria Mjolnir, Trickster
 Yashiro Murasame, Trickster
 
 --------------------------------------------------
+The ads will respawn if one of them dies, starting with the sorcerer then alternating between druid and sorcerer
+
+The goal of this phase is to kill the sorcerer twice, resulting in 2 druids on the battlefield.
+
+The sorcerer is particularly nasty and can concentrate megido, but the druids can safely be ignored. 
+
 r1
+Note: ideally kiria goes after medeus on round 1, if not you'll have to improvise
 tsubasa rakukaja stone
 itsuki strike a pose + charge
-kiria makajamaon + makajamaon
+kiria dekunda + concentrate
 
 r2
-tsubasa dekunda stone, heal/tarukaja
-itsuki wyrmicide medeus
-kiria makajamaon if the ads aren't sealed, otherwise concentrate 
+tsubasa heal / tarukaja / fogbreath
+itsuki wyrmicide sorcerer
+kiria naga medeus
 
-rest of fight:
-itsuki charge wyrmicide
+r3
+itsuki charge
+kiria concentrate
 
-kiria keep seal up on ads
-concentrate naga medeus
+r4
+itsuki wyrmicide sorcerer
+kiria naga
 
-tsubasa heal, in a pinch can sexy dance the ads
+from here you can just ignore the ads and focus down medeus with charge>wyrmicide and concentrate>naga
+
+(Assuming you don't proc firm resolve and kill all the druids. if that happens just make sure to kill the third sorcerer and eat the timeloss)
+
 
 --------------------------------------------------
 Medeus (Phase 2) 27000HP Lv. 63
@@ -2388,5 +2401,7 @@ naga's blessing
 chakra drop to recover ep
 clap track (need to get back to 2sp)
 
-Epilogue
+after medeus's mabufudyne phase he will only use tail, so have yashiro use diamondsplitter instead of counter
+
+# Epilogue
 Go to bloom palace
