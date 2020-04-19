@@ -1,2 +1,4 @@
 markdown: kramdown
-hardwrap: true
+
+kramdown:
+  hard_wrap: true
