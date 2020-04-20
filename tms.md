@@ -1,6 +1,12 @@
+---
+title: TMS#FE
+layout: default
+permalink: /tms/
+---
+
 # Emily's Tokyo Mirage Sessions ♯FE Encore NG+ No Transfers (Switch) Notes
 
-# General Notes
+## General Notes
 - The dialog choices are to get falling star. You have zero points of leeway. 
     
 - A lot of the fights are guidelines rather than hard rules. The turn order is sometimes random so you will have to improvise.
@@ -15,7 +21,7 @@
 
 - The best way to get stage rank is to use party buff spells (tarukaja etc), or party healing. Items work too, so first aid kits and ice packs are useful in the earlygame. Each chapter has a multiplier, so your stage rank points are doubled in ch3, tripled in ch4 etc.
 
-attack mirrors:
+## Attack mirrors:
 - when using attack mirrors, the user's mirrors will last until their next turn.
 - the other party member's mirrors will last until their second turn (starting from when the mirror was used)
 - Reflects the raw damage you would have taken back to the enemy

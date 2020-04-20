@@ -1,4 +1,24 @@
+title: emilybrooks.github.io
+url: "https://emilybrooks.github.io"
 markdown: kramdown
-
 kramdown:
-  hard_wrap: true
+    hard_wrap: true
+
+remote_theme: pmarsceill/just-the-docs
+
+# Set a path/url to a logo that will be displayed instead of the title
+#logo: "/assets/images/just-the-docs.png"
+
+# Enable or disable the site search
+search_enabled: false
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "twitch.tv/emilybrooks":
+    - "//twitch.tv/emilybrooks"
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: dark
