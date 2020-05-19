@@ -19,6 +19,8 @@ heading_anchors: true
 aux_links:
   "twitch.tv/emilybrooks":
     - "//twitch.tv/emilybrooks"
+  "Revision history and stuff on GitHub":
+    - "//github.com/emilybrooks/emilybrooks.github.io"
 
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: dark
+color_scheme: nil

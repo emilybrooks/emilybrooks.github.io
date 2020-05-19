@@ -2,13 +2,14 @@
 title: TMS#FE
 layout: default
 permalink: /tms/
+nav_order: 2
 ---
 
-# Emily's Tokyo Mirage Sessions ♯FE Encore NG+ No Transfers (Switch) Notes
+# Tokyo Mirage Sessions ♯FE Encore NG+ No Transfers Notes
 
 ## General Notes
-- The dialog choices are to get falling star. You have zero points of leeway. 
-    
+- The dialog choices are to get falling star. You have zero points of leeway.
+
 - A lot of the fights are guidelines rather than hard rules. The turn order is sometimes random so you will have to improvise.
 
 - If you're low on sp before a fight use clap tracks. Theres not unlimited of them but I've gotten away with only five left for Medeus.
@@ -17,7 +18,7 @@ permalink: /tms/
 
 - Luck increases your chance of avoiding enemy attacks, and certain fights make use of attack mirrors where you want to get hit. Because of this specific vending machine drinks are noted to avoid raising the luck of characters being used.
 
-- The best way to get carnage mastery is to use certain aoe attacks. The base amount is multiplied by the amount of enemies in the encounter. 
+- The best way to get carnage mastery is to use certain aoe attacks. The base amount is multiplied by the amount of enemies in the encounter.
 
 - The best way to get stage rank is to use party buff spells (tarukaja etc), or party healing. Items work too, so first aid kits and ice packs are useful in the earlygame. Each chapter has a multiplier, so your stage rank points are doubled in ch3, tripled in ch4 etc.
 
@@ -54,16 +55,16 @@ Settings:
             Vertical camera: normal
 
 Note: You need to press A to confirm the options, B will cancel changes.
-	
+
 Tsubasa prompt: top (Yeah, pretty awesome. うん、すごい。)
 
 ##    Illusory Daitama
-	
+
 Auto every fight
 Revival bead x2 chest
 Heal before taking the elevator
 Chakra drop x2 chest
-First aid kit x2 chest 
+First aid kit x2 chest
 Zio caspars since they're bulky
 Heal at green orb
 
@@ -71,7 +72,7 @@ Heal at green orb
 Gojuin 650HP Lv. 6
 Sword ー / Spear Wk. / Axe Res. / Bow ー
 Fire Wk. / Ice  Res. / Elec ー / Wind ー
-Mind  Wk. / Body Wk. 
+Mind  Wk. / Body Wk.
 
 Itsuki Falchion, Favorite Watch
 Tsubasa Iron Feather, Special Hairpin
@@ -102,20 +103,20 @@ Maiko dialog prompt: top (I'll do it. 分かりました)
 # Chapter 1
 
 ##    Bloom Palace
-	
+
 Carnage:
 
             Itsuki Iron Sword (equip)
-	
+
 ##    Fortuna Entertainment
-	
+
 Talk to maiko
 
 ##    Lesson Studio
 
-Tsubsa dialog prompt: bottom 
+Tsubsa dialog prompt: bottom
 (About Ayaha? もしかして…アヤハさんのこと？)
-Kiria dialog prompt: top 
+Kiria dialog prompt: top
 (I thought she was really good. うまかったと思います。)
 Second kiria dialog prompt: top (What's this? これは？)
 Talk to tsubasa in front of lesson studio
@@ -126,11 +127,11 @@ Fight first enemy at entrance
 Need:
 
             Nickelwise Force クラウンフォース
-		    
+
 -   Use auto
 
 Blue dress
-Blue switch right, blue dress 
+Blue switch right, blue dress
 
 Blue switch middle
 Chakra drop chest
@@ -170,7 +171,7 @@ Fight the encounter after exiting the dress
 Need:
 
             Cursed Doll 怨念人形のイド
- 
+
 -   Itsuki slash sadako
     Touma fire strike sadako
     Tsubsa skewer sadako
@@ -184,7 +185,7 @@ Heal before fight
 Umber Pegasus Knight 290HP Lv. 13
 Sword Res. / Spear ー / Axe Wk. / Bow Wk.
 Fire Wk. / Ice  ー / Elec ー / Wind Wk.
-Mind  ー / Body ー 
+Mind  ー / Body ー
 
 Itsuki Falchion, Favorite Watch
 Tsubasa Iron Feather, Special Hairpin
@@ -261,15 +262,15 @@ Detritus x10 chest
 Use traport stone
 
 heal at vending machine
-	
+
 ##    Bloom Palace
-	
+
 Carnage:
 
             Itsuki Epee (equip)
             Tsubasa Radiant Lance (equip)
             Touma Spear or Wind Spear (equip)
-	
+
 Radiant:
 
             Itsuki Director Itsuki
@@ -282,7 +283,7 @@ Buy:
 
             Itsuki Power Bangle
             Tsubasa Mage Ring
-	
+
 Walk to illusory 106 entrance
 
 ##    Illusory 106
@@ -306,14 +307,14 @@ Warp to 7F
 Aversa 1400HP Lv. 16
 Sword Res. / Spear ー / Axe ー / Bow Wk.
 Fire Res. / Ice  ー / Elec Wk. / Wind Wk.
-Mind  ー / Body Res. 
+Mind  ー / Body Res.
 
 Itsuki Epee, Power Bangle
 Tsubasa Radiant Lance, Mage Bangle
 Touma Spear, Silver Chain
 
 --------------------------------------------------
-Notes: 
+Notes:
 After dark envy, enemies will only attack that unit. Aversa always targets tsubasa first.
 
 After 3 rounds she will pick a different target (rounds 4, 7, 10, 13 etc)
@@ -382,11 +383,11 @@ Second prompt: bottom (You'd look great in anything. どんな服でも似合う
 Carnage:
 
             Itsuki Death Bringer (equip)
-        
+
 Radiant:
 
             Itsuki Open Audition
-            
+
 Daitama observatory
 Touma cutscene
 Fortuna entertainment
@@ -406,14 +407,14 @@ Fight enemy near patra stone chest
 
 Patra stone x5 chest
 
-Drop down in the second room 
-    
+Drop down in the second room
+
 fight enemy near stairs
 Need:
 
             cleric force
             hadal zone
-                
+
 -   Itsuki slash cleric, slash abyss
     Tsubasa switch to touma, fire strike cleric
     kiria bufu abyss
@@ -431,7 +432,7 @@ Fight enemy after walking down the stairs
 Need:
 
             Fever Chain Cell
-        
+
 -   Tsubasa zan bacillus
     Kiria flux bacillus
 
@@ -442,7 +443,7 @@ Roaring Ear Plugs Chest
 Go right at fork
 bacillus fight near the 10,000 yen chest
 10,000 yen chest
-Warp back with camera 
+Warp back with camera
 Backtrack through shortcut
 Go left at fork
 Balm of life chest
@@ -453,7 +454,7 @@ Wardrobe:
     		Itsuki Roaring Ear Plugs
     		Tsubasa Special Hairpin
     		Kiria Mage Ring
-		
+
 (party should be itsuki tsubasa kiria)
 heal with tsubasa's dia
 Need 2sp (you should have this from doing fights, might have to do a few extra)
@@ -521,15 +522,15 @@ Yashiro concert
 Talk to kiria (Kiria Side Story 1)
 
 ##    Daitama Observatory
-	
+
 Pick up gen
 
 ##    Fortuna Entertainment
-	
+
 Examine shelves
 
 ##    Bloom Palace
-	
+
 Carnage:
 
             Tsubasa Killer Lance (equip)
@@ -540,29 +541,29 @@ Radiant:
             Kiria Endless Song
             Itsuki HP Fitness
             Tsubasa Feel My Soul
-	
+
 ##    Fortuna Entertainment
-	
+
 Talk to ayaha
 
 ##    Central Shibuya
-	
+
 Talk to kiria
 
 ##    Bloom Palace
-	
+
 Radiant:
 
             Kiria: Door of Wandering
 
 Talk to Tiki (Tiki Side Story 1)
-	
+
 ##    Hee Ho Mart
 
 Sell:
 
             1 Treasure Key
-		
+
 Buy:
 
             Attack Mirrors (4 total)
@@ -648,11 +649,11 @@ Buy:
             Smoke Machines (5 total)
             Ice Packs (20 Total)(press dpad right twice)
             Attractor Sprays (2 Total)
-	
+
 ##    Cafe Seiren
 
 Cutscene
-	
+
 ##    Illusory 106
 
 Warp to 3F
@@ -678,11 +679,11 @@ Ellie stagerank 3 grind:
 -   Ellie use 11 ice packs
     Tsubasa 11 tarukajas
     Kiria guard
-    
+
 Casting:
 
             Ellie > Itsuki
-            
+
 Talk to shaman
 
 North door
@@ -711,7 +712,7 @@ Need:
 -   itsuki cleave
     tsubasa mazan
     kiria agi
-    
+
 Heal after the fight
 Talk to the shaman
 Activate teleporter
@@ -727,7 +728,7 @@ Enter west room
 Take a light
 Talk to the mirage
 Backtrack to the center room
-        
+
 Fight the balrogs again (you need to have 6 3-star prestiege before leaving)
 
 Exit south
@@ -752,7 +753,7 @@ Radiant:
 
             Itsuki Smash Hit
             Tsubasa EP Fitness
-        
+
 ##    Hee Ho Mart
 
 Buy:
@@ -816,7 +817,7 @@ Buy:
             Tarukaja Stone
             5 stamina drinks
 
-        
+
 Talk to ellie
 Walk to the front of the cafe
 Talk to ellie
@@ -865,11 +866,11 @@ Need:
 	Kiria zan
 
 Talk to second shaman
-        
+
 Casting:
 
             Tsubasa > Ellie
-        
+
 need 2sp
 
 --------------------------------------------------
@@ -902,7 +903,7 @@ Tsubasa attack mirror
 
 If makarakarn isn't active:
     kiria flux
-    
+
 otherwise finish off the fight on itsuki's next turn
 
 Go to fortuna office
@@ -916,7 +917,7 @@ Lesson studio
 Class:
 
         Tsubasa Wyvern Knight
-        
+
 Radiant:
 
         Mamori Riberama
@@ -938,7 +939,7 @@ Wardobe:
         ellie floral earring
         Itsuki Wind Anklet
         Mamori Sister Lionheart
-        
+
 Casting:
 
         itsuki tsubasa touma
@@ -965,7 +966,7 @@ r1
 Itsuki swap for mamori, guard
 Tsubasa mazan (alternate targets)
 Touma heal or auto (he should hopefully die)
-    
+
 r2
 mamori guard
 tsubasa grand finale (alternate targets)
@@ -981,25 +982,25 @@ if tsubasa dies during the zombie bite phase, you should in theory be fine. zomb
 casting
 
         touma > mamori
-        
+
 heal with mamori's media
-        
+
 Go through the door to teleport back
 Left hallways
 
 Enter the left hallways
 Fight encounter to the right
-Need: 
+Need:
 
             Bloodwing Force ペガサスフォースR
-			
+
 -	Itsuki cleave mages
 	Tsubasa mazan pegasus knight
 	Mamori mighty chop pegasus knight
-	
+
 Enter the panel room
 Go to right side, press button twice
-Backtrack across panels and cut across middle	
+Backtrack across panels and cut across middle
 Claptrack x2 chest
 Activate teleporter
 Enter door
@@ -1014,19 +1015,19 @@ Heal at vending machine
         	Veggie Juice EX サラダジュース極
         	Beauty Bomb キクイモエール
         	Strawberry Mochi Drink 飲むいちご大福
-	
+
 ##    Bloom Palace
 
 Start Tiki Side Story 2
 Carnage unity:
 
 		    Tsubasa Dragoon Lance
-		
+
 Radiant Unity:
 
 		Itsuki Great Director Itsuki
 		Tsubasa Feel My Heart
-		
+
 ##    Hee Ho Mart
 
 Buy:
@@ -1036,7 +1037,7 @@ Buy:
             Stamina Drinks (5 total)
             Revival Curry (5 total)
             Buy Donuts
-        
+
 Walk to cafe
 
 ##    Illusory Daitou TV
@@ -1046,7 +1047,7 @@ Warp to door 1
 Casting:
 
             Mamori > Kiria
-		
+
 
 --------------------------------------------------
 Culprit Mirage 4400HP Lv. 40
@@ -1082,17 +1083,17 @@ Panel room 2
 Casting
 
         kiria > mamori
-        
+
 Fight encounter
 Need:
 
             Knight Force R アーマーフォースR
             Bloodwing force
-	
+
 -	Itsuki armorslayer the armor knight
 	Tsubasa mazan the pegasus knight
 	Kiria agilao armor knight
-	
+
 casting
 
         mamori > kiria
@@ -1109,11 +1110,11 @@ Need:
 
             Hirudinean Force ヒルゴンフォース
             Fire Carrier ともしびのキャリアー
-			
+
 -	Itsuki mazio
 	Tsubasa mazan
 	Kiria mabufu
-	
+
 first switch twice
 second switch once
 third switch twice
@@ -1129,18 +1130,18 @@ Heal at vending machine:
     	Veggie Juice EX サラダジュース極
     	Strawberry Mochi Drink 飲むいちご大福
     	Beauty Bomb キクイモエール
-	
+
 ##    Bloom Palace
 
 Finish tiki side story 2
 Class:
 
     	    Itsuki Conquerer
-    	
+
 Carnage:
 
     	    Itsuki Balmung
-    	
+
 ##    Hee Ho Mart
 
 Buy:
@@ -1153,7 +1154,7 @@ Buy:
             Smoke Machines (5 total)
             Stamina Drinks (5 total)
             Revival Curry (5 total)
-            
+
 ##    Illusory Daitou Studio
 
 Warp to door 2
@@ -1176,7 +1177,7 @@ Notes:
         r1 suku/counter
         r2 attack/counter
         r3 attack/attack
-	
+
 - Excellus will shift to his final phase (black) when he is lower than 40% hp.
 - Once he is under 40% hp he will not retake again.
 - If Yashiro is defeated he will run away, and Excellus will shift to his final phase.
@@ -1226,7 +1227,7 @@ Intermission
 Talk to barry in front of lesson studio (barry side story 1)
 
 ##    Hee Ho Mart
-	
+
 Buy:
 
             Magic Mirrors (5 total)
@@ -1234,11 +1235,11 @@ Buy:
             Buy Mamorin Charm
 
 ##    Fortuna Entertainment
-	
+
 Talk to maiko
 
 ##    Shibuya Station
-	
+
 Talk to barry (sidestory done)
 Talk to barry (barry side story 2)
 Lesson studio
@@ -1246,7 +1247,7 @@ Lesson studio
 # Chapter 5
 
 ##    Daiba Studio
-	
+
 Talk to tsubasa
 Dialog prompt: top (Yeah. そうだよ。)
 
@@ -1255,11 +1256,11 @@ Cosmic egg
 Cosmic egg cutscene
 
 ##    Bloom Palace
-	
+
 Class:
 
             Ellie Sniper
-		
+
 Radiant:
 
             todo: kiria elusive distance. idk when she has enough stage rank but she should get this after excellus
@@ -1270,22 +1271,22 @@ Radiant:
             Itsuki Ray of Light
 
 ##    Illusory Daitou TV
-	
+
 Casting:
 
     	Kiria > Ellie
-	
+
 Warp to Set A 2F
 
 todo: could i swap itsuki for someone else to make the session chain longer?
 
 Fight the red mage encounter outside
 	Note: You're getting 10 sessions here for barry's side story. Stop after that
-	
+
 	itsuki guard
 	tsubasa skewer mage
 	ellie elec strike yomatsu
-	
+
 Warp to Set B 1F
 
 West door
@@ -1308,7 +1309,7 @@ Fight sword master encounter:
 			S. Master Force Sマスターフォース
 			Cerberus Force 	ケルベロスフォース
 			3 5-star Prestige
-	
+
 	yashiro heatwave the cerberus.
 	itsuki use 1 attack mirror, can zio sword master or heal
 	tsubasa assault dive sword master
@@ -1321,7 +1322,7 @@ Vending machine heal
 Carnage:
 
             Tsubasa Kaishu Yari (equip)
-		
+
 Radiant:
 
             Itsuki Prize Winner (if you couldn't before)
@@ -1340,7 +1341,7 @@ Fight first encounter
 
 -	poltergeist is weak to sword
 	dragon weak to wind
-	
+
 Red dress
 Red switch middle
 Red dress
@@ -1394,7 +1395,7 @@ check if you have 5 5-star prestiges
 another fight for scarlet scale if you need it
 - can swap yashiro for kiria to zan the dragons
 Warp to 3F
-Get cursed doll + nickelwise force 
+Get cursed doll + nickelwise force
 	auto battle
 
 Red dress
@@ -1436,9 +1437,9 @@ Buy:
 	Smoke Machines (5 total)
 	Energy drinks (10 total)
 	Fresh Spicy Curry (10 total)
-	
+
 ##    Illusory Urahara
-	
+
 Talk to mirage in front of counter (skip the tutorial)
 Cancel out of menu
 Talk to him behind counter
@@ -1458,7 +1459,7 @@ Fight regan encounter
 Need:
 
             Cleric Force R シスターフォースR
-			
+
 -	itsuki heatwave
 	yashiro heatwave
 	tsubasa auto
@@ -1475,7 +1476,7 @@ Enter right side hallways
 You want to pick up stuff as you go through the doors:
 	master seal: bottom half to the right
 	soma: bottom half far left
-	
+
 Fight encounter after first door
 Need:
 
@@ -1527,17 +1528,17 @@ Class:
 
             Tsubasa Falcon Knight
             Yashiro Swordmaster
-        
+
 Carnage:
 
             Tsubasa Winged Lance
             Tsubasa Hayanie (equip)
-        
+
 Radiant:
 
             yashiro 4 star stuff?
             clean up skills you weren't able to get before
-        
+
 ##    Hee Ho Mart
 
 Buy:
@@ -1548,14 +1549,14 @@ Buy:
             Smoke Machines (10 total)
             Energy drinks (10 total)
             Fresh Spicy Curry (10 total)
-            
+
 ##    Carabia
 
 Buy:
 
             Kiria Idaten Anklet
             Yashiro Martial Gloves
-            
+
 ##    Illusory Urahara
 
 Phantom mirage:
@@ -1592,8 +1593,8 @@ Enter side room next to stairs
 Master seal chest
 Gold bar chest
 Immobility talisman chest
-Skill book x2 chest	
-	
+Skill book x2 chest
+
 Wardrobe:
 
             Itsuki Deathbringer+1
@@ -1605,7 +1606,7 @@ Talk to shaman
 Activate teleporter
 Soma chest
 East door
-	
+
 Enter east room
 Talk to mirage
 Backtrack to center
@@ -1626,7 +1627,7 @@ Need:
 	tsubasa sexydance/fogbreath/mediarama
 	yashiro heatwave carrietta, flame strike colossus
 	kiria agilao colossus
-	
+
 South door
 Watch cutscene
 Talk to poltergeist
@@ -1640,7 +1641,7 @@ Vending machine heal
 Class:
 
             Kiria Sorcerer
-            
+
 Carnage:
 
             Itsuki Tyrfing
@@ -1649,13 +1650,13 @@ Carnage:
             Yashiro Masamune (equip)
             Kiria Thyrsus (equip)
 
-		
+
 Radiant:
 
             Yashiro Open Audition
 
 	-- Illusory Daitou TV --
-	
+
 Warp to Set B 2F
 North door
 
@@ -1663,7 +1664,7 @@ Miniboss
 	itsuki heatwave skull head
 	yashiro flame strike hierophants
 	tsubasa piercing void hierophant
-	
+
 check if you got a grisly piercing if you needed it
 
 Backtrack to center room
@@ -1676,7 +1677,7 @@ itsuki
 	grand rapier master
 		learn rakunda over focused blade
 	switch to tyrfing, you don't have to master it now
-	
+
 tsubasa
 	hayanie master
 	winged lance master
@@ -1686,7 +1687,7 @@ tsubasa
 yashiro:
 	masamune up to str amplify
 	murasame master
-	
+
 kiria:
 	thyrsus master
 
@@ -1695,7 +1696,7 @@ tsubasa piercing void carrietta, sexydance, zandyne pegasus knight
 yashiro heatwave carrietta, flame strike colossus
 kiria lullaby song/makajamaon/agilao colossus/mazandyne when you get it
 
-	
+
 make sure you have 6 5-star prestige before leaving
 
 !!!If you're missing a grisly piercing get it from daiba studio now!!!
@@ -1708,9 +1709,9 @@ vending machine heal
 Carnage:
 
     		Tsubasa Tonbo-kiri (equip)
-		
+
 	-- Illusory Daitou TV --
-	
+
 Warp to Set B 2F
 Talk to shaman
 Go down stairs
@@ -1775,9 +1776,9 @@ mazandyne
 counter
 
 Vending machine heal
-	
+
 	-- Cosmic Egg --
-	
+
 Coordinate:
 
             Tsubasa Wind Anklet
@@ -1834,7 +1835,7 @@ Buy:
 Talk to Mamori in front of the cafe
 
 ##    Carabia
-	
+
 Sell:
 		Large Gold Bar
 Buy:
@@ -1861,7 +1862,7 @@ Coordinate:
 Casting:
 
             Yashiro > Tsubasa
-            
+
 --------------------------------------------------
 Linde    1700HP Lv. 52
 Gordin   2000HP Lv. 52
@@ -1897,7 +1898,7 @@ Activate teleporter
 Casting:
 
             itsuki tsubasa kiria
-            
+
 --------------------------------------------------
 Palla 2600HP Lv. 53
 Ogma  3800HP Lv. 53
@@ -1934,7 +1935,7 @@ Need:
             Arcane Wisdom 至高魔道のウィズダム
             Pale Recurve 白き射手のブレイク
             Argent Habit 白巫女のアンサンブル
-			
+
 -	itsuki heatwave cleric/sorcerer
 	yashiro flame strike mage, frost strike cleric
 	kiria bufula cleric, agilao sorcerer
@@ -1942,17 +1943,17 @@ Need:
 Casting:
 
 		Yashiro > Tsubasa
-		
+
 Fight encounter near red chest
 Need:
 
             Fujin Force ストームフォース
             Raijin's Gleam 雷神のスパークル
-            
+
 -	itsuki thunder strike fujin, heatwave raijin
 	tsubasa piercing voice fujin
 	kiria attack mirror, makajamaon, mazandyne raijin (keep in mind this will heal the fujin)
-	
+
 Luck incense chest
 Use luck incense on kiria
 Activate teleporter
@@ -1961,7 +1962,7 @@ Traport
 Vending machine heal
 
 ##    Hee Ho Mart
-	
+
 Buy:
 
             Amrita Sodas (5 total)
@@ -1969,28 +1970,28 @@ Buy:
             Tarukaja Stones (5 total)
             Energy Drinks (10 total)
             Revival Curry (10 total)
-	
+
 ##    Carabia
-	
+
 Buy:
 
 			Yashiro Trickster
 			Kiria Trickster
-	
+
 ##    Bloom Palace
-	
+
 Carnage:
 
             Itsuki Tyrfing+1
             Tsubasa Tathlum
-		
+
 Radiant:
 
             Tsubasa Smash Hit
             Tsubasa Command Repertoire
             Yashiro Smash Hit
 
-            
+
 --------------------------------------------------
 Gharnef 14000HP Lv. 55
 Sword Res. / Spear ー / Axe ー / Bow ー
@@ -2023,13 +2024,13 @@ Note: You should get falling star here.
 Vending machine heal
 
 ##    Hee Ho Mart
-	
+
 Buy:
             todo: i might be able to skip this?
             Attack Mirrors (5 total)
 
 ##    Illusory Dolhr
-	
+
 ###    48m
 go to the left side
 go down the left ladder
@@ -2041,11 +2042,11 @@ Wardrobe:
 
             Yashiro Murasame
             Yashiro Martial Glove
-            
+
 Casting:
 
             Kiria > Yashiro
-		
+
 --------------------------------------------------
 Garrick 5000HP Lv. 55
 Sword ー / Spear Wk. / Axe ー / Bow ー
@@ -2077,7 +2078,7 @@ Fight encounter on the middle platform
 Need:
 
             Dark Knight Force ダークナイトフォース
-			
+
 -	itsuki thunder strike dark knights
 	yashiro frost strike dark knights, flame strike mages
 	kiria bufu dark knights, aglilao mages
@@ -2126,7 +2127,7 @@ Heal party
 Casting:
 
             Tsubasa > Yashiro
-            
+
 Teleport maze
 
 Fight encounter near the chakra pot chest
@@ -2161,9 +2162,9 @@ Carnage:
 Radiant:
 
             Tsubasa Command Repertoire (if you couldn't get it before)
-		
+
 ##    Hee Ho Mart
-	
+
 Buy:
 
             Attack Mirrors (5 total)
@@ -2181,7 +2182,7 @@ Warp to 238m
 Wardrobe:
 
             Tsubasa Roaring Ear Plugs
-		
+
 Casting:
 
             Kiria > Tsubasa
@@ -2338,7 +2339,7 @@ Coordinate:
 
 			Tsubasa Gradivus
 			Kiria Mjolnir
-		
+
 Artist:
 
 			Move tsubasa's healing skills close together
@@ -2357,7 +2358,7 @@ The ads will respawn if one of them dies, starting with the sorcerer then altern
 
 The goal of this phase is to kill the sorcerer twice, resulting in 2 druids on the battlefield.
 
-The sorcerer is particularly nasty and can concentrate megido, but the druids can safely be ignored. 
+The sorcerer is particularly nasty and can concentrate megido, but the druids can safely be ignored.
 
 r1
 Note: ideally kiria goes after medeus on round 1, if not you'll have to improvise
