@@ -1,5 +1,5 @@
 ---
-title: TMS#FE
+title: Tokyo Mirage Sessions ♯FE Notes
 layout: default
 permalink: /tms/
 nav_order: 2
