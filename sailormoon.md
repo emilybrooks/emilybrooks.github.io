@@ -37,7 +37,7 @@ Go to Jewelry OSA*P
 
 --------------------------------------------------
 ### Persian Cut
-HP 21 Yen 500 EXP 3
+21 HP / 500 Yen / 3 Exp
 Drop: Life Water
 
 --------------------------------------------------
@@ -63,12 +63,12 @@ North to exit screen
 
 --------------------------------------------------
 ### Combater
-HP 50 Yen 400 EXP 26
+50 HP / 400 Yen / 26 Exp
 Drop: Life Water
 
 --------------------------------------------------
 t1
-Jupiter: Supreme Thunder
+Jupiter: Attack
 Mars: Defend
 Moon: Moon Tiara Action
 Mercury: Defend
@@ -135,7 +135,7 @@ Buy:
 		1 Cologne コロン
 		2 All-Cures よくきくくすり
 		8 Manicures マニキュア
-		1 F.Creams ファンデーション
+		1 F.Cream ファンデーション
 
 Leave the store
 Go to Jewelry OSA*P
@@ -168,7 +168,7 @@ Talk to neptune
 
 --------------------------------------------------
 ### Palmacon
-HP 95 Yen 200 EXP 3
+95 HP / 200 Yen / 3 Exp
 Drop: Bandage
 
 Moon: Bracelet, Bracelet, Bracelet
@@ -202,7 +202,7 @@ Talk to the monster
 
 --------------------------------------------------
 ### Cureney Green
-HP 200 Yen 2500 EXP 5
+200 HP / 2500 Yen / 5 Exp
 Drop: Bandage
 
 Moon: Bracelet, Bracelet, Bracelet
@@ -306,7 +306,7 @@ Trigger the cutscene
 
 --------------------------------------------------
 ### Nabu (Phase 1)
-HP 150 Yen 10 EXP 30
+150 HP / 10 Yen / 30 Exp
 Drop: Moon Shard
 
 Mercury: Saphire Earring, Saphire Ring, Bracelet
@@ -317,7 +317,7 @@ Mercury: Shine Aqua Illusion
 
 --------------------------------------------------
 ### Nabu (Phase 2)
-HP 220 Yen 2500 EXP 270
+220 HP / 2500 Yen / 270 Exp
 
 --------------------------------------------------
 Notes:
@@ -397,7 +397,7 @@ Examine the statue from the front
 
 --------------------------------------------------
 ### Daisoujou
-HP 250 Yen 300 EXP 100
+250 HP / 300 Yen / 100 Exp
 Drop: App. Medic todo: what item is this?
 
 Mars: Tiara, Tiara, Bracelet
@@ -467,7 +467,7 @@ todo: you can menu equips on the end of chapter screens
 
 --------------------------------------------------
 ### Nergal
-HP 300 Yen 900 EXP 300
+300 HP / 900 Yen / 300 Exp
 Drop: Moon Shard
 
 Mars: Ruby Bracelet, Ruby Tiara, Tiara
@@ -567,7 +567,7 @@ Marduk cutscene:
 
 --------------------------------------------------
 ### Marduk
-HP 530 Yen 3000 EXP 300
+530 HP / 3000 Yen / 300 Exp
 
 Jupiter: Bracelet, Emerald Earrings, Emerald Ring
 
@@ -595,9 +595,9 @@ Enter mary's house
 
 ## Chapter 2 (Venus)
 
-All Cure
-cologne chest
-topaz bracelet chest
+All-Cure chest
+Cologne chest
+Topaz bracelet chest
 
 Accessories:
 Venus:
@@ -614,7 +614,7 @@ Talk to everyone outside
 
 <img src="resources/9da25b6a49de4e2daa31bcbafe1cc3ae.png" width="407px">
 
-Enter the temple
+Enter kunzite temple
 After cutscene, go north to exit screen
 
 Henchmen fight:
@@ -622,422 +622,467 @@ Venus: Crescent Beam Shower
 
 South to exit temple
 
-Path to Sariel village
+Go to sariel village
 - Fight enemies along the way with crescent beam shower (already have it menu'd)
 
 <img src="resources/bced28f27b294a028110660a4143c1b1.png" width="581px">
 
 Attempt to enter temple, trigger cutscene
 Exit the temple
+
 Go to zagsen
-- fight enemies on the way
-- before leaving the screen you should have either 22 def or 40 atk
+- Fight enemies on the way
 
-![e1c5304f45f9eb06df65b436e3c161b2.png](resources/2faa1ddd6fc843569c0a69f926eb7131.png)
+<img src="resources/2faa1ddd6fc843569c0a69f926eb7131.png" width="376px">
 
-before entering
+Before entering
+Accessories:
+Venus:
 
-equips
-if you have less than 22 def:
-
-		Bracelet -> tiara
-		Anklet -> tiara
-
-
-if you have 22 def:
-
+		Bracelet -> Tiara
 		Anklet -> Tiara
 
-Zagsen
+###    Zagsen
 
-fight enemies along the way
-- crescent beam shower
-- after each fight, heal with yaga soup
-- though leveling up heals you
+Fight enemies along the way
+- Crescent Beam Shower
+- After each fight, heal with yaga soup ヤガスープ if needed
+- (Leveling up full heals you)
 
-![bd22898cc0330065e4989f7180d94e6c.png](resources/5d65876a320d45b88e4e2c1f24ba7a04.png)
+<img src="resources/5d65876a320d45b88e4e2c1f24ba7a04.png" width="327px">
 
-![5b7c93a7a538f346d32a904e4aa5b96a.png](resources/ddf5d0c99d9641628fc33c53470fd3d5.png)
+<img src="resources/ddf5d0c99d9641628fc33c53470fd3d5.png" width="403px">
 
-if you have 2 tiaras equipped
-grind until at least 41 atk
+Before fighting radina grind to level 10 (I don't think stats thresholds are too important?)
 
-if you have 1 tiara equipped
-grind until at least 31 def
-
-todo: simplify this to just say get to level 11 and have 41atk and 31def
-
-todo: i think i actually need 33 def, not 31?
-
-safety save before radina
-
+Safety save before radina
 Walk onto pedastal to trigger fight
 
-todo: maybe experiment always having 2 tiaras, and using a manicure to make up attack
+--------------------------------------------------
+### Radina
+400 HP / 300 Yen / 100 Exp
+Drop: RiasTopaz
 
+Venus: Tiara, Tiara, Topaz Bracelet
 
-
-RADINA (400 HP)
-If you get poisoned, use all cure
-If 60hp or under, heal w/ rice ball pack
+--------------------------------------------------
+If you get poisoned, use All-Cure よくきくくすり
 
 t1
-Venus Wink Chain Sword
+Venus: Manicure マニキュア
 
-t2
-Venus Wink Chain Sword
+t2 - t4
+Venus: Venus Love Me Chain
 
-t3
-Cologne
+If that doesn't kill, attack
 
-t4
-Venus Wink Chain Sword
+--------------------------------------------------
 
-t5
-Venus Wink Chain Sword
-
-Exit Zagsen (pause to reset encounters)
+Exit Zagsen
+- Pause to reset encounters
+- Once you're outside the castle, you don't have to pause until the next screen
 
 Go back to Medias Village (the first village)
-- pause skip battles
+- Pause to reset encounters
 
-enter the temple
+Enter kunzite temple
+Item:
 
-Heal with Yaga Soup
+		Yaga Soup ヤガスープ Venus
 
 North to exit screen
 
-Henchman battle:
-venus wink chain sword
-backup if you don't kill:
-onigiri set
-attack twice
+Henchman fight:
+Venus Love Me Chain 2-3 times
 
-Exit the temple
-
-note: you get a manicure and a cologne from the cutscene i think
+Exit kunzite temple
 
 Go to the ark cave
-- pause skip battles
+- Pause to reset encounters
 
-![677501028a20d518650fdd1dcfa77e3d.png](resources/c40eb75d681a402291a085152768c5bb.png)
+<img src="resources/c40eb75d681a402291a085152768c5bb.png" width="428px">
 
 Walk into teleporter to get on ark
+Walk left
+Topaz tiara chest (the one on the bottom)
 
-Walk left, Topaz Tiara chest (the one on the bottom)
+Items:
 
-equip
-venus
+		Yaga Soup ヤガスープ Venus
 
-		swap tiara for topaz tiara
+Accessories:
+Venus:
 
-go right to exit screen
-south to exit screen
-north to exit screen
+		Tiara -> Bracelet
+		Tiara -> Bracelet
 
-ISHTAR (300 HP)
-1st: Venus Wink Sword
+Go right to exit screen
+Go south to exit screen
+After cutscene, north through the door you came through
 
-todo: revisit this chapter and find a better grind/battle route
+--------------------------------------------------
+### Ishtar
+300 HP / 700 Yen / 50 Exp
+Drop: Nakayoshi
+
+Venus: Bracelet, Bracelet, Topaz Bracelet
+
+--------------------------------------------------
+t1
+Venus: Venus Wink Chain Sword
+
+--------------------------------------------------
 
 ## Chapter 3
 
-Mugen Academy
+Enter mugen academy
 
-![9926e51eb900b7f9c6a9d869596a0487.png](resources/1e4df113b9ea41ab83063a038cf779cb.png)
+<img src="resources/1e4df113b9ea41ab83063a038cf779cb.png" width="433px">
 
-go through door 1
-try to open door 2
-go through door 3
+Go through door 1
+Try to open door 2
+Go through door 3
 
-boxi fight:
-- attack
+Boxi fight:
+Chibi: Attack
 
-back to door 2
+Go through door 2
 
-juuban
-
-exit building
-- go right for 2 screens
-- go to bus stop
-
-go to tomoe labs (have to pause skip on the tomoe labs exterior)
-- safety save to the left of the entrance
-
-![36622b6694a04cf64aca1393c51d5884.png](resources/2287e76c876b4d2db41881a1edde3284.png)
-
-tomoe labs
-
-accessories:
-moon:
+Save dialog prompt: Yes
+Accessories:
+Moon:
 
 		Bracelet -> Tiara
 
-- go left to end of hall
-- go down stairs
+###    Azabu-Juban
 
-todo: implement moon chalice strats?
-would have to have bracelet, bracelet, tiara equipped
+Exit building
+Go right for 2 screens
+Take the bus to mugen academy
+Trigger cutscene
+South to exit screen
 
-MISTRESS 9 (550 HP)
-t1 manicure
+Enter tomoe labs
+- Pause to reset encounters
+- Safety save to the left of the entrance
 
-t2 moon chalice
-t3 rainbow moon heart ache
+<img src="resources/2287e76c876b4d2db41881a1edde3284.png" width="440px">
 
+Go left to the end of the hall
+Go down stairs
 
-KAOLINITE (650 HP)
+--------------------------------------------------
+### Mistress 9
+500 HP / 12,000 Yen / 65 Exp
 
+Moon: Tiara, Bracelet, Bracelet
+
+--------------------------------------------------
 t1
-manicure
+Moon: Manicure マニキュア
 
 t2
-moon chalice
+Moon: HolyGrail1 ムーンカリス
+
+Note: Since it's always at the top of your item list, you can press R to quickly menu to it
 
 t3
-rainbow moon heart ache
+Moon: Rainbow Moon Heart Ache
 
-accessories:
-saturn:
+--------------------------------------------------
+### Kaolinite
+650 HP / 10,000 Yen / 65 Exp
+Drop: Earrings
 
-		tiara
-		anklet
-		anklet
+Moon: Tiara, Bracelet, Bracelet
 
-formation:
-Cluster -> positions:
-
-		move saturn to top right
-
-note: i think this is just so she doesn't die? as someone in the backrow takes less damage
-
-!!! don't forget to equip etc !!!
-south to exit screen
-
-GELMADOID (1000 HP)
+--------------------------------------------------
 t1
-saturn: use manicure on moon
-moon: moon spiral heart attack
+Moon: F.Cream
 
-rest of fight
-saturn: defend
-moon: moon spiral heart attack
-(can use turbo after you set it up)
+t2
+Moon: Manicure マニキュア
 
-enter north door (have to pause skip starting here)
-destruction tiara chest (in the top left corner of the room)
-safety save
+t3-t4
+Moon: Moon Spiral Heart Attack
 
-south to exit room
-continue through the hallway
-amulet chest (in top left corner)
+Note: Not using the holy grail because at 24 atk moon doesn't do enough damage to one shot. The animation for the F.Cream is faster than the moon chalice, so it's technically also faster
 
-door in the top right corner
-- !!! Say no to dialog prompt to skip boss fight !!!
+--------------------------------------------------
 
+Accessories:
+Saturn:
 
-todo: strat where you do fight the boss for free exp
-equip saturn bracelet, amulet, destruction tiara
-formation, swap saturn and moon
-death reborn 2 times
+		Tiara
+		Anklet
+		Anklet
 
-after cutscenes:
-exit house
-right 2 screens
-take the bus
+South to exit screen
 
-back to tomoe labs (still pause skip)
+--------------------------------------------------
+### Gelmadoid
+1000 HP / 13,000 Yen / 65 Exp
 
-in forest:
-buy stuff from merchant
+Moon: Tiara, Bracelet, Bracelet
+Saturn: Tiara, Anklet, Anklet
 
-		9 cologne
-		1 toilette
-		19 manicure
-		3 foundation creams
+--------------------------------------------------
+t1
+Moon: Moon Spiral Heart Attack
+Saturn: Manicure マニキュア on moon
 
-todo: i should have 8 lifesyrups here
+rest of fight:
+Moon: Moon Spiral Heart Attack
+Saturn: Defend
 
+--------------------------------------------------
 
-pause skip in the forest
-Amber earrings chest (near the top right)
-walk up to the north part of the forest
-talk to chibi usa
+Pause to reset encounters for the rest of tomoe labs
+Enter north door
+Ruin tiara chest (top left corner)
 
-![c06d962a10978beafec31b1104b8744c.png](resources/6b31382a3ffa487b93660c985bd8119c.png)
+South to exit room
+Continue through the hallway
+Amulet chest (top left corner)
 
-accessories:
-saturn:
+Door in the top right corner
+- Don't use turbo
+- Say no to dialog prompt to skip boss fight
 
-		swap tiara for ruin tiara
-		swap anklet for amulet
+###    Azabu-Juban
 
-moon:
+Exit house
+Go right 2 screens
+Take the bus to mugen academy
+Return to tomoe labs entrance
+- Pause to reset encounters outside of tomoe labs
 
-		swap bracelet for anklet
-		swap bracelet for anklet
+###    Mt. Fuji
 
-chibi:
+Talk to merchant
+Buy:
 
-		anklet
-		anklet
-		tiara
+		9 Colognes コロン
+		1 Toilettes トワレ
+		8 Life Syrups のむくすり
+		19 Manicures マニキュア
+		3 F.Creams ファンデーション
 
-uranus:
+Pause to reset encounters in the forest
+Amber earrings chest
+Talk to chibi
 
-		bracelet
-		tiara
+<img src="resources/6b31382a3ffa487b93660c985bd8119c.png" width="390px">
+
+Accessories:
+Moon:
+
+		Bracelet -> Anklet
+		Bracelet -> Anklet
+
+Saturn:
+
+		Tiara -> Ruin Tiara
+		Anklet -> Amulet
+
+Chibi:
+
+		Anklet
+		Anklet
+		Tiara
+
+Neptune:
+
+		Tiara
+		Tiara
+
+Uranus:
+
+		Bracelet
+		Tiara
 		AmEarring
 
-neptune:
+Formation:
+Cluster -> Positions
 
-		tiara
-		tiara
+		Moon   Chibi
+		   Saturn
+		Uranus   Neptune
 
-formation:
-Cluster - > Positions
+Win 3 fights
+- Saturn Death Reborn Revolution, everyone else defend
 
-moon   chibi
-   saturn
-uranus   neptune
+Enter the cave
+- There are no random encounters in the cave
 
-grind until saturn has at least 40 atk
-moon: defend
-chibi: defend
-saturn: death reborn revolution
-uranus: defend
-neptune: defend
+<img src="resources/3d5ad471564a4d91bdc53ce79e3bc617.png" width="433px">
 
-go north to exit screen
+--------------------------------------------------
+### DD Girls 1
+1,600 HP / 5,000 Yen / 89 Exp
+Drop: Life Water
 
-follow hallway to fight a bunch of people
-- don't have to pause skip
+Moon: Tiara, Anklet, Anklet
+Chibi: Anklet, Anklet, Tiara
+Saturn: Ruin Tiara, Amulet, Anklet
+Uranus: Bracelet, Tiara, AmEarring
+Neptune: Tiara, Tiara
 
-![9898d711db74a190117725b24ce3b565.png](resources/3d5ad471564a4d91bdc53ce79e3bc617.png)
-
-todo: get the diamond tiara chest in here
-
-DD Girls 1
-
+--------------------------------------------------
 t1
-moon: defend
-chibi: use manicure on saturn
-saturn: death reborn revolution
-uranus: defend
-neptune: use lifesyrup on saturn
-
-t2
-moon: defend
-chibi: defend
-saturn: death reborn revolution
-uranus: defend
-neptune: use lifesyrup on saturn
-
-should only need one more death reborn revolution after this
-
-DD Girls 2
-
-t1
-moon: defend
-chibi: use manicure on saturn
-saturn: death reborn revolution
-uranus: defend
-neptune: use lifesyrup on saturn
-
-t2
-moon: defend
-chibi: defend
-saturn: death reborn revolution
-uranus: defend
-neptune: use lifesyrup on saturn
-
-DD girls 3
-moon: f.cream saturn
-chibi: use manicure on saturn
-saturn: death reborn revolution
-uranus: defend
-neptune: defend
-
-t2
-moon: defend
-chibi: defend
-saturn: death reborn revolution
-uranus: defend
-neptune: defend
-
-manicure chest
-
-DD girls 4
-t1
-moon: defend
-chibi: use manicure on saturn
-saturn: death reborn revolution
-uranus: defend
-neptune: defend
+Moon: Defend
+Chibi: Manicure マニキュア on saturn
+Saturn: Death Reborn Revolution
+Uranus: Defend
+Neptune: Life Syrup のむくすり on saturn
 
 rest of fight
-moon: defend
-chibi: defend
-saturn: death reborn revolution
-uranus: defend
-neptune: defend
+Moon: Defend
+Chibi: Defend
+Saturn: Death Reborn Revolution
+Uranus: Defend
+Neptune: Life Syrup のむくすり on saturn
 
-heal saturn with yaga soup
+--------------------------------------------------
+### DD Girls 2
+1,720 HP / 6,500 Yen / 104 Exp
 
-DD Girls 5
+--------------------------------------------------
+Same strat
+Note: use All-Cure よくきくくすり if saturn is put to sleep
+
+--------------------------------------------------
+### DD Girls 3
+1,600 HP / 7,200 Yen / 99 Exp
+Drop: S.Cake
+
+--------------------------------------------------
 t1
-moon: defend
-chibi: use manicure on saturn
-saturn: death reborn revolution
-uranus: defend
-neptune: defend
+Moon: F.Cream ファンデーション on saturn
+Chibi: Manicure マニキュア on saturn
+Saturn: Death Reborn Revolution
+Uranus: Defend
+Neptune: Life Water リターンのみず on saturn
 
 rest of fight
-moon: defend
-chibi: defend
-saturn: death reborn revolution
-uranus: defend
-neptune: defend
+Moon: Defend
+Chibi: Defend
+Saturn: Death Reborn Revolution
+Uranus: Defend
+Neptune: Defend
 
-safety save
+--------------------------------------------------
 
-from savepoint move right to trigger cutscene with fake wall
+Manicure chest
 
-queen beryl
+--------------------------------------------------
+### DD Girls 4
+1,780 HP / 7,200 Yen / 104 Exp
+Drop: Sugar Star Candy
+
+--------------------------------------------------
 t1
-moon: defend
-chibi: use manicure on saturn
-saturn: death reborn revolution
-uranus: defend
-neptune: defend
-
-note: use an all cure to get rid of charm
+Moon: Defend
+Chibi: Manicure マニキュア on saturn
+Saturn: Death Reborn Revolution
+Uranus: Defend
+Neptune: Defend
 
 rest of fight
-moon: defend
-chibi: defend
-saturn: death reborn revolution
-uranus: defend
-neptune: defend
+Moon: Defend
+Chibi: Defend
+Saturn: Death Reborn Revolution
+Uranus: Defend
+Neptune: Defend
 
-beryl 2
-- just hold a to throw the fight, its scripted
+--------------------------------------------------
 
+Items:
 
-beryl 3
+		Yaga Soup ヤガスープ on saturn
+		Yaga Soup ヤガスープ on chibi
+
+--------------------------------------------------
+### DD Girls 5
+2400 HP / 10,000 Yen / 110 Exp
+Drop: Yaga Soup
+
+--------------------------------------------------
 t1
-moon: use manicure on saturn
-chibi: use manicure on uranus
-saturn: death reborn revolution
-uranus: space sword blaster
-neptune: defend
+Moon: Defend
+Chibi: Manicure マニキュア on saturn
+Saturn: Death Reborn Revolution
+Uranus: Defend
+Neptune: Defend
+
+If saturn was attacked:
+Moon: Defend
+Chibi: Defend
+Saturn: Defend
+Uranus: Defend
+Neptune: Life Water リターンのみず on saturn
+
+rest of fight:
+Moon: Defend
+Chibi: Defend
+Saturn: Death Reborn Revolution
+Uranus: Defend
+Neptune: Defend
+
+--------------------------------------------------
+
+From savepoint, move right to trigger cutscene with fake wall
+
+--------------------------------------------------
+### Queen Beryl
+2200 HP / 5,000 Yen / 120 Exp
+Drop: Perfume
+
+--------------------------------------------------
+Note: Use an All-Cure to get rid of charm
+
+t1
+Moon: Defend
+Chibi: Manicure マニキュア on saturn
+Saturn: Death Reborn Revolution
+Uranus: Defend
+Neptune: Defend
 
 rest of fight
-moon: defend
-chibi: defend
-saturn: death reborn revolution
-uranus: space sword blaster
-neptune: defend
+Moon: Defend
+Chibi: Defend
+Saturn: Death Reborn Revolution
+Uranus: Defend
+Neptune: Defend
+
+--------------------------------------------------
+### Queen Beryl 2
+8,000,000 HP / 255 Atk / 255 Def / 255 Spd
+
+--------------------------------------------------
+Hold A to throw the fight, scripted loss
+
+--------------------------------------------------
+### Queen Beryl 3
+5,000 HP / 30,000 Yen / 1,000 Exp
+Drop: Manicure
+
+--------------------------------------------------
+t1
+Moon: Defend
+Chibi: Manicure マニキュア on saturn
+Saturn: Death Reborn Revolution
+Uranus: Defend
+Neptune: Defend
+
+rest of fight
+Moon: Defend
+Chibi: Defend
+Saturn: Death Reborn Revolution
+Uranus: Defend
+Neptune: Defend
+
+--------------------------------------------------
 
 ## Chapter 4
 
@@ -1052,21 +1097,19 @@ pick jupiter, venus, saturn
 formation
 cluster -> positions:
 
-jupiter   moon
+jupiter   chibi
    saturn
-venus   chibi
+venus   moon
 
 go north to time space door
 
 nergal
 t1
 defend
-defend
+manicure saturn
 death reborn revolution
 defend
-manicure saturn
-
-todo move chibi to top right
+defend
 
 pause skip after the fight
 
@@ -1127,7 +1170,10 @@ pick jupiter, venus, pluto, saturn
 
 Black ufo
 
-register healing shower link
+press start to open the link menu
+move venus to the right, so both moon and venus are there
+press y to register healing shower
+
 accessories:
 moon:
 
@@ -1143,8 +1189,6 @@ pluto:
 		garnet pin
 		tiara
 		garnet earrings
-
-todo: replace garnet pin with tiara later
 
 formation:
 
@@ -1165,16 +1209,6 @@ enter the door on the right
 - for the warp doors, take the left door each time
 
 spectre sisters fights:
-
-fight 1 and 2:
-venus: defend
-pluto: time stop
-jupiter: defend
-saturn: manicure jupiter
-moon: healing shower
-
-then sparkling wide pressure twice, everyone else defend
-
 fight 3 4 and 5:
 venus: defend
 pluto: time stop
@@ -1182,10 +1216,10 @@ jupiter: defend
 saturn: manicure jupiter
 moon: healing shower
 
-venus: venus wink chain sword
+venus: defend
 pluto: cologne
 jupiter: sparkling wide pressure
-saturn: death reborn revolution
+saturn: defend
 moon: defend
 
 venus: defend
