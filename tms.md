@@ -1313,7 +1313,7 @@ Kiria attack mirror
 
 r3
 If tsubasa goes first and yashiro is still weak to wind, zan
-otherwise maca leaf
+otherwise macca leaf
 
 Itsuki raging blast
 
@@ -2308,7 +2308,7 @@ Vending machine heal
 
 Carnage:
 
-			Itsuki Exhalted Falchion (equip)
+			Itsuki Exalted Falchion (equip)
 			^check how many argent habits you have
 			Tsubasa Gradivus (equip)
 			Kiria Mjolnir (equip)
@@ -2348,7 +2348,7 @@ Sword ー / Spear Wk. / Axe ー / Bow ー
 Fire ー / Ice  Wk. / Elec ー / Wind Res.
 Mind  ー / Body ー
 
-Itsuki Exhalted Fachion, Trickster
+Itsuki Exalted Fachion, Trickster
 Tsubasa Gradivus, Roaring Ear Plugs
 Yashiro Murasame, Trickster
 
@@ -2392,7 +2392,7 @@ Need:
 
 - try to kill the parasites as quickly as possible with physical attacks, because they will use tetrakarn and make you sad.
 - kiria should sleep song
-- after you get the performa, you should master the exhalted falchion, itsuki should use rakunda
+- after you get the performa, you should master the Exalted falchion, itsuki should use rakunda
 - 6 rounds of rakunda is 2 skills
 
 talk to the right statue
@@ -2443,7 +2443,7 @@ Heal at vending machine
 
 Carnage:
 
-		Itsuki Exhalted Falchion +1 (you can power it up if tiki asks)
+		Itsuki Exalted Falchion +1 (you can power it up if tiki asks)
 
 ##    Illusory Dolhr
 
@@ -2453,7 +2453,7 @@ Warp to 434m
 ### Excellus
 10000HP Lv. 61
 
-Itsuki Exhalted Fachion+1, Trickster
+Itsuki Exalted Fachion+1, Trickster
 Tsubasa Karura, Pegasus Earrings
 Kiria Mjolnir, Trickster
 
@@ -2470,51 +2470,80 @@ check excellus's health
 if it's below 40%:
 magic mirror before excellus' turn
 
-kiria shouldn't have trouble staying alive in this fight
-
 --------------------------------------------------
 
-final farm:
-fight an enemy and spam rakunda, sexy dance, and makajamaon to master everyone's weapon
+Take the lift back down
+Go down the ladder
+Take the block back to the entrance
+Take the block on the left
 
-make sure to get parasite sucker if you don't have one
+Fight the enemy
+-	Itsuki rakunda
+	Tsubasa sexy dance
+	Kiria makajamaon
 
-kiria needs naga, would be nice to get true casting and hygieia's protection
+- Itsuki should master exalted falchion +1
+- Tsubasa should master karura
+- Kiria should master the mjolnir
+- make sure to get parasite sucker if you don't have one
 
-tsubasa needs prayer
+Traport
 
-you can use all the skill books after learning the first skill on karura+1
+##    Bloom Palace
 
-use 2 magic tomes on kiria
+Carnage:
 
-itsuki ideally gets fighting spirit
+		Tsubasa Karura+1
 
-Before medeus:
-Restock at hee ho mart
+Coordinate:
+Kiria:
 
-		5 Amrita shower
-		5 dekunda stones
-		5 tarukaja stones
-		5 rakukaja stones
-		energy drinks (max amount)
-		revival curry (max amount)
+		Asclepius
+
+##    Illusory Area of Memories
+
+Fight the first enemy
+- Auto so that tsubasa and kiria attack
+- Smoke machine
+
+Items:
+
+		Skill Book on Tsubasa
+		2 Magic Tomes on Itsuki
+
+Repeat running away from the encounter and using the skill book until tsubasa masters the karura +1
+
+Note: If you for some reason don't have enough skill books, you can just have tsubasa use sexy dance on this encounter, it's not worth finding a 5 encounter
+
+Traport
+
+##    Hee Ho Mart
+
+Buy:
+
+		Amrita Showers (10 Total)
+		Dekunda Stones (5 Total)
+		Tarukaja Stones (5 Total)
+		rakukaja Stones (5 Total)
+		Energy Drinks (Max Amount)
+		Fresh Spicy Curry (Max Amount)
 
 Coordinate:
 
-			Tsubasa Gradivus
-			Kiria Mjolnir
-			Yashiro Trickster
+		Tsubasa Gradivus
+		Kiria Mjolnir
+		Yashiro Trickster
 
 Artist:
 
-			Move tsubasa's healing skills close together
-			Move kiria's naga and concentrate next to each other
+		Move tsubasa's healing skills close together
+		Move kiria's naga and concentrate next to each other
 
 --------------------------------------------------
 ### Medeus (Phase 1)
 20000HP Lv. 61
 
-Itsuki Exhalted Fachion+1, Trickster
+Itsuki Exalted Fachion+1, Trickster
 Tsubasa Gradivus, Pegasus Earrings
 Kiria Mjolnir, Trickster
 Yashiro Murasame, Trickster
