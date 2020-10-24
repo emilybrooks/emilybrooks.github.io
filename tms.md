@@ -422,13 +422,13 @@ Central City
 
 ##    Illusory Shibuya
 
-Note: if you weren't able to craft the deathbringer, do a 3 count session with itsuki's zio or tsubasa's zan until you get a 2-star prestiege, then craft it
+Note: if you weren't able to craft the deathbringer, do a 3 count session with itsuki's zio or tsubasa's zan until you get a 2-star prestige, then craft it
 
 Casting:
 
 			Touma > Kiria
 
-In the first room of the dungeon, fight every enemy as you walk by to get 2-star prestiege
+In the first room of the dungeon, fight every enemy as you walk by to get 2-star prestige
 - Apparitions are weak to zio and flux
 - Worms are weak to zio and lance
 - Shamans are weak to ice and sword
@@ -526,7 +526,7 @@ Need:
 	Touma fire strike cleric
 
 !!! make sure you have 6 2-star prestige !!!
-You could use the attracter spray to fight this over and over again to get more.
+You could use the attractor spray to fight this over and over again to get more.
 
 Note: Kiria should have stage rank 5 before you continue
 
@@ -716,12 +716,12 @@ Enter the building through the west door
 Talk to the shaman
 Go up the stairs
 
-Fight encounter near south door
+Fight encounter near south door (use an attractor spray)
 Barbarian encounter
 Need:
 
 			Leviathan Force リヴァイアフォース
-			Barbarian Force バンディフォースR
+			Barbarian Force R バンディフォースR
 			Barbaric Furs 赤き蛮力のライオット
 
 -   Itsuki cleave
@@ -732,21 +732,17 @@ Notes:
 - You want to kill the barbarian first
 - If tsubasa dies, wait until you kill the barbarian to revive her
 
+todo: It might be better to get the knight force after you learn armor slayer
+this would require finding a consistent armor encounter in the second half of illusory daitou tv
+
 Armor knight encounter
 Need:
 
 		Knight force アーマーフォース
 
 -	itsuki armorslayer
-	tsubasa tarukaja
+	tsubasa tarukaja / guard
 	kiria bufu
-
-
-Atracter spray
-If you get the armor encounter, fight that too for knight force
--	Itsuki cleave
-	Tsubasa tarukaja
-	Kiria bufu
 
 Casting:
 
@@ -758,7 +754,7 @@ Keep fighting this until ellie is stage rank 3
 	Ellie ice pack
 	Tsubasa tarukaja
 
-You need to have 6 3-star prestiege before leaving
+You need to have 6 3-star prestige before leaving
 
 Casting:
 
@@ -799,7 +795,7 @@ Carnage:
 
 			Itsuki Regal Sword (equip)
 			Tsubasa Stingray (equip)
-			If you have enough 3-star prestiege, you can craft kiria's Yggdrasil Rod. if not, don't worry you can craft it after the miniboss
+			If you have enough 3-star prestige, you can craft kiria's Yggdrasil Rod. if not, don't worry you can craft it after the miniboss
 
 Radiant:
 
@@ -902,7 +898,7 @@ Need:
 	Kiria mazan
 
 Notes:
-- Make sure you have 13 3-star prestiege before you leave (keep fighting the blackscale rider encounter)
+- Make sure you have 13 3-star prestige before you leave (keep fighting the blackscale rider encounter)
 - Itsuki should also have armorslayer
 
 Traport
@@ -1257,9 +1253,6 @@ Class:
 
 			Itsuki Conquerer
 
-Carnage:
-
-			Itsuki Balmung
 
 ##    Hee Ho Mart
 
@@ -1381,7 +1374,7 @@ Carnage:
 
 			Itsuki Balmung (equip)
 
-Radiant:
+Radiant
 
 			Kiria Elusive Distance
 			Yashiro Riberaon
@@ -1393,15 +1386,15 @@ Casting:
 
 		Kiria > Ellie
 
-Warp to Set B, 1F
-Fight enemies in the corner of the hallway
-Note: You're getting 10 sessions for Barry's side story. Tsubasa and Ellie have to particpate in the session for it to count.
+Warp to Set A, 2F
+Fight the 3 balrog encounter
+Note: You're getting 10 sessions for Barry's side story. Tsubasa and Ellie have to participate in the session for it to count.
 
--	Itsuki mazio yomatsu, cleave mage
-	Tsubasa skewer mage
-	Ellie elec strike yomatsu
+-	Itsuki mazio
+	Ellie elec strike
+	Tsubasa auto
 
-Keep fighting enemies until you have 10 3-star prestiege as well
+Keep fighting enemies until you have 10 3-star prestige as well
 
 West door
 
@@ -1497,7 +1490,7 @@ Tsubasa Kaishu Yari, Wind Anklet
 Yashiro Killing Edge, Wind Anklet
 
 --------------------------------------------------
-Note: Don't use charged heatwaves in order to get more 5-star prestiege
+Note: Don't use charged heatwaves in order to get more 5-star prestige
 
 r1
 Itsuki strike a pose
@@ -1512,7 +1505,7 @@ Tsubasa keep sexy dancing, or tarukaja / heal if they're all charmed
 
 --------------------------------------------------
 
-Note: You need 5 5-star prestiege before teleporting
+Note: You need 5 5-star prestige before teleporting
 
 Backtrack to the teleporter
 Warp to 3F
@@ -1685,7 +1678,7 @@ Phantom mirage:
 Heal at the green orb
 
 No trade list:
-- 3 star prestiege
+- 3 star prestige
 - Cleric Force R
 - Inky Feather
 - Archer Force
@@ -1704,17 +1697,19 @@ Traport
 
 Class:
 
-			Tsubasa Falcon Knight
+		Tsubasa Falcon Knight
 
 Carnage:
 
-			Tsubasa Winged Lance
-			Tsubasa Hayanie (equip)
+		Tsubasa Winged Lance
+		Tsubasa Hayanie (equip)
 
 Radiant:
 
-			yashiro 4 star stuff
-			todo: fill this out
+		Yashiro Vendetta
+		Yashiro HP Fitness
+		Yashiro Endless Act
+		Yashiro Vengeance
 
 ##    Illusory Daitou TV
 
@@ -2325,7 +2320,7 @@ Buy:
 			Magic Mirrors (5 total)
 			Tarukaja stones (5 total)
 			Smoke Machines (10 total)
-			Dekunda Stone
+			Dekunda Stone (1 Total)
 			Stamina Drinks (10 total)
 			Revival Curry (10 total)
 
@@ -2524,7 +2519,7 @@ Buy:
 		Amrita Showers (10 Total)
 		Dekunda Stones (5 Total)
 		Tarukaja Stones (5 Total)
-		rakukaja Stones (5 Total)
+		Rakukaja Stones (5 Total)
 		Energy Drinks (Max Amount)
 		Fresh Spicy Curry (Max Amount)
 
