@@ -235,7 +235,7 @@ Need:
 
 
 fight the enemy behind you for another cav spawn
--   Need:
+Need:
 
 		Troll Force トロルフォース
 
@@ -2093,7 +2093,6 @@ Fight encounter in the hallway
 Need:
 
 		Sorcerer Force ソーサラーフォース
-		Arcane Wisdom 至高魔道のウィズダム
 		Pale Recurve 白き射手のブレイク
 		Argent Habit 白巫女のアンサンブル
 
@@ -2101,13 +2100,18 @@ Need:
 	Yashiro flame strike mage, frost strike cleric
 	Kiria mazandyne archers, bufu cleric, agi sorcerer
 
+Notes:
+- If you're missing the argent habit, the fight after the portal will also have a cleric
+- Both the sorcerer and the sniper will appear in the fujin raijin fight
+
 Fight encounter near red chest
 Need:
 
 		Fujin Force ストームフォース
-		Raijin's Gleam 雷神のスパークル
+		(sorcer force/arcane wisdom if needed)
+		(pale recurve if needed)
 
-in the battle swap out yashiro for tsubasa
+In the battle swap out yashiro for tsubasa
 
 -	Itsuki thunder strike fujin, heatwave raijin
 	Tsubasa piercing void fujin
@@ -2134,7 +2138,7 @@ Buy:
 
 Buy:
 
-		Kiria Trickster
+		Kiria Ring of the Soultaker
 		Yashiro Trickster
 
 ##    Bloom Palace
@@ -2142,7 +2146,7 @@ Buy:
 Carnage:
 
 		Itsuki Tyrfing+1
-		Tsubasa Tathlum
+		Tsubasa Tathlum (equip)
 
 Radiant:
 
@@ -2159,7 +2163,7 @@ Mind  Null / Body Null
 
 Itsuki Tyrfing+1, Trickster
 Tsubasa Tathlum, Pegasus Earrings
-Kiria Thyrsus, Trickster
+Kiria Thyrsus, Ring of the Soultaker
 Yashiro Masamune, Trickster
 
 --------------------------------------------------
@@ -2178,8 +2182,10 @@ You should be able to kill him before both of the spirits explode. He will use i
 --------------------------------------------------
 
 Dialog prompt: Top (We have to calm down! 落ち着くんだ！)
-Dialog prompt: Top (t's not over yet. まだ終わりじゃありません。)
 
+##    Fortuna Entertainment
+
+Dialog prompt: Top (It's not over yet. まだ終わりじゃありません。)
 Note: You should get falling star here.
 
 Vending machine heal
@@ -2188,20 +2194,26 @@ Vending machine heal
 
 Buy:
 		Attack Mirrors (5 total)
+		Magic Mirrors (5 total)
+		Dekunda Stone (1 Total)
+		Tarukaja stones (5 total)
+		Smoke Machines (10 total)
+		Stamina Drinks (10 total)
+		Revival Curry (10 total)
 
 ##    Illusory Dolhr
 
 ###    48m
-go to the left side
-go down the left ladder
-ride the block
-proceed to the end
-pickup the crystal
+Go to the left side
+Go down the left ladder
+Ride the block
+Proceed to the end
+Pickup the crystal
 
 Wardrobe:
 
 		Yashiro Murasame
-		Yashiro Martial Glove
+		Yashiro Martial Gloves
 
 Casting:
 
@@ -2216,7 +2228,7 @@ Mind  Null / Body Wk.
 
 Itsuki Tyrfing+1, Trickster
 Tsubasa Tathlum, Pegasus Earrings
-Yashiro Murasame, Trickster
+Yashiro Murasame, Martial Gloves
 
 --------------------------------------------------
 r1
@@ -2241,6 +2253,8 @@ Fight encounter on the middle platform
 Need:
 
 		Dark Knight Force ダークナイトフォース
+		(check if you get 1 or 2 of them)
+		Need 2sp before the aversa fight
 
 -	itsuki thunder strike dark knights
 	yashiro frost strike dark knights, flame strike mages
@@ -2254,6 +2268,8 @@ Walkway to center platform
 Take the block lift
 Take the block elevator up
 Balm of life chest
+
+Activate the teleporter
 
 Casting:
 
@@ -2270,50 +2286,35 @@ Mind  ー / Body ー
 
 Itsuki Tyrfing+1, Trickster
 Tsubasa Tathlum, Pegasus Earrings
-Kiria Thyrsus, Trickster
+Kiria Thyrsus, Ring of the Soultaker
 
 --------------------------------------------------
 r1
 strike a pose, wyrmicide whitescale rider
 zandyne whitescale rider
 mazandyne whitescale rider
+(both whitescale should die)
 
-maybe tarukaja rakunda round 2
+r2
+tsubasa tarukaja
+itsuki rakunda
 
 rest of fight:
 itsuki elec strike
 tsubasa mediarama/zandyne
 kiria mazandyne
 
-Note: you want a Whitescale Force Dマスターフォース
+Note: you should get
+- Whitescale Force Dマスターフォース
+- Pale Scale 白竜のネメシス
 
 --------------------------------------------------
 
-Heal party
 Casting:
 
 		Tsubasa > Yashiro
 
-Teleport maze
-
-Fight encounter near the chakra pot chest
-Need:
-
-		General Force ジェネラルフォース
-		Ashen Dreadplate 白将のドレッドノート
-		(you can get a whitescale force here if you didn't get one from aversa)
-
--	yashiro frost strike armors
-	itsuki heatwave armors
-	kiria makajamaon first, then  bufula armors, agilao druid, mazandyne archer
-
-Chakra pot chest
-Magic tome chest
-corner the heirophant for the crystal
-activate teleporter
-bead chain chest
-traport
-
+Traport
 Vending machine heal
 
 ##    Bloom Palace
@@ -2322,31 +2323,47 @@ Carnage:
 
 		Itsuki Exalted Falchion (equip)
 		^check how many argent habits + whitescale forces you have
-		Tsubasa Gradivus (equip)
-		Kiria Mjolnir (equip)
+		Yashiro Masakado's Sword (equip)
+		^ Check how many dark knight forces you have
 
 Radiant:
 
 		Tsubasa Command Repertoire (if you couldn't get it before)
 
-##    Hee Ho Mart
-
-Buy:
-
-		Attack Mirrors (5 total)
-		Magic Mirrors (5 total)
-		Tarukaja stones (5 total)
-		Smoke Machines (10 total)
-		Dekunda Stone (1 Total)
-		Stamina Drinks (10 total)
-		Revival Curry (10 total)
-
 ##    Illusory Dolhr
 
-Warp to 238m
+Warp to 146m
 
+##    232m
+
+If you need another dark knight force, fight the first encounter
+
+Teleport maze
+
+Fight encounter near the chakra pot chest
+Need:
+
+		Ashen Dreadplate 白将のドレッドノート
+
+-	yashiro diamond splitter generals
+	itsuki heatwave generals
+	kiria seal the generals with makajamaon first, then bufula armors, agilao druid, mazandyne archer
+
+Notes:
+- Don't learn wallbreaker
+- Learn null fire over pierce
+
+Note: You can get a whitescale force or pale scale from a fight here if you didn't get them from aversa
+
+Chakra pot chest
+Magic tome chest
+Corner the hierophant for the crystal
+Bead chain chest
+
+Heal party
 Wardrobe:
 
+		Tsubasa Tonbo-Kiri
 		Tsubasa Roaring Ear Plugs
 
 Casting:
@@ -2375,13 +2392,14 @@ swap in touma, attack mirror
 Note: you want tsubasa to still be in the party, so if you swap her out have yashiro swap for tsubasa
 
 rest of fight:
-each round you should revive touma and attack mirror
+every round revive touma and attack mirror
 tsubasa could mediarama or piercing void if you have the extra turn
 
 --------------------------------------------------
 
 Coordinate:
 
+		Tsubasa Tathlum
 		Tsubasa Pegasus Earrings
 
 Casting:
@@ -2389,23 +2407,24 @@ Casting:
 		Touma > Kiria
 
 ###    428m
-claptrack x2 chest
-third walkway
-take the block back
-fourth walkway
+Claptrack x2 chest
+Third walkway
+Take the block back
+Fourth walkway
+
+TODO: the exalted falchion might already be mastered
 
 Fight encounter
 Need:
 
-		Parasite Force パラサイトフォース
 		Parasite Sucker 寄生怪虫のカラミティ
 		6x 6-star prestige
 		you might get the whitescale force here depending on which enemies show up
 
-- try to kill the parasites as quickly as possible with physical attacks, because they will use tetrakarn and make you sad.
-- kiria should sleep song
-- after you get the performa, you should master the Exalted falchion, itsuki should use rakunda
-- 6 rounds of rakunda is 2 skills
+-	try to kill the parasites as quickly as possible with physical attacks, because they will use tetrakarn and make you sad.
+	kiria should sleep song
+	after you get the performa, you should master the Exalted falchion, itsuki should use rakunda
+	6 rounds of rakunda is 2 skills
 
 talk to the right statue
 warp back
@@ -2430,32 +2449,26 @@ Vending machine heal
 
 ##    Bloom Palace
 
-Class:
-
-		Kiria Sage
-
 Carnage:
 
 		Tsubasa Karura (equip)
 		^check how many fujin forces you have
-		Kiria Asclepius (don't equip)
+		Itsuki Exalted Falchion +1 (if you can craft it now)(power it up if tiki asks)
+
+If you need to get either the fujin force or the argent habit, go into area of memories.
+otherwise skip ahead and go to illusory dolhr
 
 ##    Illusory Area of Memories
 
 Warp to second relief
 
-get argent habit (if you didn't have one before)
-get fujin force (if you don't have one)
+get an argent habit
+get a fujin force
 need at least 3 6-star prestige
 
 Traport
 Heal at vending machine
-
-##    Bloom Palace
-
-Carnage:
-
-		Itsuki Exalted Falchion +1 (you can power it up if tiki asks)
+Craft the exalted falchion if you didn't before
 
 ##    Illusory Dolhr
 
@@ -2465,17 +2478,25 @@ Warp to 434m
 ### Excellus
 10000HP Lv. 61
 
-Itsuki Exalted Fachion+1, Trickster
+Itsuki Exalted Fachion +1, Trickster
 Tsubasa Karura, Pegasus Earrings
-Kiria Mjolnir, Trickster
+Kiria Thyrsus, Ring of the Soultaker
 
 --------------------------------------------------
+Notes:
+- Don't use sword or electric skills with itsuki, to avoid adlibs
+- Adlibs will likely kill the hero
+- You want to keep the hero alive to prevent excellus from going to their final phase early
+
 r1
-itsuki thunder strike hero
+itsuki rakunda
 tsubasa mediarama/zandyne if everyone's healthy
 kiria mazandyne
 
-r2 repeat
+r2
+itsuki tarukaja stone
+tsubasa mediarama/zandyne if everyone's healthy
+kiria mazandyne
 
 r3
 check excellus's health
@@ -2497,30 +2518,27 @@ Fight the enemy near the middle of the island
 
 - Itsuki should master exalted falchion +1
 - Tsubasa should master karura
-- Kiria should master the mjolnir
-- make sure to get parasite sucker if you don't have one
+- make sure to get a parasite sucker if you don't have one
 
 I think a smart way to do this is do 3 rounds of aoe spells, then run away and see how many skills you learned
 
 Traport
+Vending machine heal
 
 ##    Bloom Palace
 
 Carnage:
 
-		Tsubasa Karura+1
-
-Coordinate:
-Kiria:
-
-		Asclepius
+		Tsubasa Gradivus
+		Tsubasa Karura +1 (equip)
 
 ##    Illusory Area of Memories
 
 Fight the first enemy
-- Auto so that tsubasa and kiria attack
+- Auto so that tsubasa attacks
 - Smoke machine
 
+Use riberama
 Items:
 
 		Skill Book on Tsubasa
@@ -2529,6 +2547,20 @@ Items:
 Repeat running away from the encounter and using the skill book until tsubasa masters the karura +1
 
 Note: If you for some reason don't have enough skill books, you can just have tsubasa use sexy dance on this encounter, it's not worth finding a 5 encounter
+
+Coordinate:
+
+		Tsubasa Gradivus
+		Yashiro Murasame
+		Yashiro Trickster
+
+Casting:
+
+		Kiria > Yashiro
+
+Artist:
+
+		Move tsubasa's healing skills next to each other
 
 Traport
 
@@ -2543,16 +2575,9 @@ Buy:
 		Energy Drinks (Max Amount)
 		Fresh Spicy Curry (Max Amount)
 
-Coordinate:
+##    Illusory Dolhr
 
-		Tsubasa Gradivus
-		Kiria Mjolnir
-		Yashiro Trickster
-
-Artist:
-
-		Move tsubasa's healing skills close together
-		Move kiria's naga and concentrate next to each other
+Warp to 434m
 
 --------------------------------------------------
 ### Medeus (Phase 1)
@@ -2560,7 +2585,6 @@ Artist:
 
 Itsuki Exalted Fachion+1, Trickster
 Tsubasa Gradivus, Pegasus Earrings
-Kiria Mjolnir, Trickster
 Yashiro Murasame, Trickster
 
 --------------------------------------------------
@@ -2570,27 +2594,32 @@ The goal of this phase is to kill the sorcerer twice, resulting in 2 druids on t
 
 The sorcerer is particularly nasty and can concentrate megido, but the druids can safely be ignored.
 
-Note: ideally kiria goes after medeus on round 1, if not you'll have to improvise
+Tsubasa has prayer if you need to both heal and get rid of sealing flame at the same time
 
 r1
 tsubasa rakukaja stone
 itsuki strike a pose + charge
-kiria dekunda + concentrate
+yashiro charge + flame strike sorceror
 
 r2
-tsubasa heal / tarukaja / fogbreath
-itsuki wyrmicide sorcerer
-kiria naga medeus
+itsuki dekunda stone if first, otherwise wyrmicide medeus
+tsubasa dekunda stone / heal / tarukaja / fogbreath
+yashiro charge / flame strike sorceror
 
 r3
 itsuki charge
-kiria concentrate
+yashiro charge / heal / tarukaja stone
 
 r4
 itsuki wyrmicide sorcerer
-kiria naga
+yashiro flame strike sorceror
 
-from here you can just ignore the ads and focus down medeus with charge>wyrmicide and concentrate>naga
+from here you can just ignore the ads and focus down medeus
+
+rest of fight:
+tsubasa heal
+itsuki charge wyrmicide
+yashiro charge frost strike
 
 (Assuming you don't proc firm resolve and kill all the druids. if that happens just make sure to kill the third sorcerer and eat the timeloss)
 
@@ -2601,9 +2630,9 @@ from here you can just ignore the ads and focus down medeus with charge>wyrmicid
 
 --------------------------------------------------
 r1
-swap kiria for yashiro, counter
+yashiro counter (before medeus' attack)
 itsuki charge
-tsubasa chakra pot
+tsubasa chakra pot / fog breath
 
 r2
 itsuki wyrmicide
