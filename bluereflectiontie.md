@@ -131,7 +131,7 @@ enter second layer
 ## stealth section
 collect the 3 key items
 
-![94dfb59decf382819f8026ba46706550.png](_resources/94dfb59decf382819f8026ba46706550.png)
+![94dfb59decf382819f8026ba46706550.png](img/94dfb59decf382819f8026ba46706550.png)
 
 note: after collecting the item after the crawlspace, you need to pay attention to the large enemy. when he is moving to the left, pass by the right side of him. then just take a straight line to the last item.
 
@@ -517,7 +517,7 @@ enter hinako's heartscape second layer
 party
 (ao, shiho, kokoro, hinako support)
 
-![aaaab260cdae656afe1713de0a446c5d.png](_resources/aaaab260cdae656afe1713de0a446c5d.png)
+![aaaab260cdae656afe1713de0a446c5d.png](img/aaaab260cdae656afe1713de0a446c5d.png)
 
 ## Wailbranch and Sorrowful Persona
 
@@ -997,7 +997,7 @@ enter final layer
 return to school
 enter kirara's heartscape final layer
 
-![2d828fa3fb113119ccac9f8c806a0d6a.png](_resources/2d828fa3fb113119ccac9f8c806a0d6a.png)
+![2d828fa3fb113119ccac9f8c806a0d6a.png](img/2d828fa3fb113119ccac9f8c806a0d6a.png)
 
 ## Leporem
 shiho should focus on healing instead of attacking
@@ -1269,7 +1269,7 @@ rena クランマラン Courant Marin to finish
 enter final layer
 leave, reenter
 
-![503b07ecd726bf8cd63f01bf08a823ea.png](_resources/503b07ecd726bf8cd63f01bf08a823ea.png)
+![503b07ecd726bf8cd63f01bf08a823ea.png](img/503b07ecd726bf8cd63f01bf08a823ea.png)
 
 ## The One Who Came from Nothing
 
@@ -1460,7 +1460,7 @@ leave and reenter to heal
 top left
 the path is narrow, so attack enemies that are in the way and run away
 
-![85140e2560267cf0e2e1020744834716.png](_resources/85140e2560267cf0e2e1020744834716.png)
+![85140e2560267cf0e2e1020744834716.png](img/85140e2560267cf0e2e1020744834716.png)
 
 ## fear zone boss
 shiho あかつき Akatsuki on rena
@@ -1600,7 +1600,7 @@ craft origin gate
 
 enter origin route
 
-![ddbbb9435de39562bceeb120b64eb9a4.png](_resources/ddbbb9435de39562bceeb120b64eb9a4.png)
+![ddbbb9435de39562bceeb120b64eb9a4.png](img/ddbbb9435de39562bceeb120b64eb9a4.png)
 
 rotate center 3 times
 gear puzzle
@@ -1617,7 +1617,7 @@ warp to roof
 enter origin route
 
 
-![898c094199ac932eb9696f9513bd6eb2.png](_resources/898c094199ac932eb9696f9513bd6eb2.png)
+![898c094199ac932eb9696f9513bd6eb2.png](img/898c094199ac932eb9696f9513bd6eb2.png)
 
 slide
 
@@ -1629,13 +1629,13 @@ zipline
 terminal 4
 
 
-![15714a176e5404789faf7e05dad69e69.png](_resources/15714a176e5404789faf7e05dad69e69.png)
+![15714a176e5404789faf7e05dad69e69.png](img/15714a176e5404789faf7e05dad69e69.png)
 
 crawlspace
 terminal 5
 return to school
 
-![c2c65d525a085b87142fd287b9486574.png](_resources/c2c65d525a085b87142fd287b9486574.png)
+![c2c65d525a085b87142fd287b9486574.png](img/c2c65d525a085b87142fd287b9486574.png)
 
 up the stairs
 
