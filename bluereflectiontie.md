@@ -1545,13 +1545,14 @@ run to final layer
 >Shaula
 >
 >wait until after ads attack
->3x piena
->sparkle ball 2x buzzing pulse
->4x yaguruma
+>3x piena (target boss)
+>sparkle ball 3x buzzing pulse
+>4x yaguruma (do this last so shiho breaks the final barrier)
 >
 >shiho infight
+>do finisher
 >
->after infight
+>rest of fight:
 >piena
 >buzzing pulse
 >yaguruma
