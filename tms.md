@@ -5,6 +5,15 @@ permalink: /tms/
 nav_order: 2
 ---
 
+<details markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 # Tokyo Mirage Sessions ♯FE (New Game, Easy) Notes
 
 ## General Notes

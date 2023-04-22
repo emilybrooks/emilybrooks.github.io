@@ -4,6 +4,16 @@ layout: default
 permalink: /ff7/
 nav_order: 2
 ---
+
+<details markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 # Final Fantasy 7 Any% No Slots Notes
 
 Disclaimer: I didn't make these notes to be very fast. Personally I had zero interest in manipulating the step counter or getting super optimized with the battle menuing in order to make some of the riskier strats work. I prioritized consistency and ease of execution for all of the challenging fights. I also left out all the "paralyze dodge" stuff because the risk of soft locking didn't sound appealing. Yuffie is an incredibly slow character because of all the added cutscenes but I kinda just routed her in for fun. 
@@ -61,7 +71,7 @@ Hit the elevator switch
 
 Pick up restore at the end of the reactor
 
-<img src="img/6f9b126ab3a449159d3c1c4cc332ad78.png" width="320">
+<img src="6f9b126ab3a449159d3c1c4cc332ad78.png" width="320">
 
 --------------------------------------------------
 ### Guard Scorpion
@@ -83,7 +93,7 @@ Note: For the first part of this run you're trying to use braver eight times to 
 
 Grab the potion
 
-<img src="img/8f5fdd0aecd74e469ce888180af205db.png" width="320">
+<img src="8f5fdd0aecd74e469ce888180af205db.png" width="320">
 
 Talk to jessie
 
@@ -93,7 +103,7 @@ Talk to biggs
 
 Grab potion
 
-<img src="img/5a525f2955e048308ecb60bd06522e17.png" width="320">
+<img src="5a525f2955e048308ecb60bd06522e17.png" width="320">
 
 Aerith dialog prompt: top
 
@@ -122,13 +132,13 @@ Skip the materia tutorial
 
 Go to the weapon shop
 
-<img src="img/7bedc2cea1fa4c43a199e4ac6a47b01a.png" width="320">
+<img src="7bedc2cea1fa4c43a199e4ac6a47b01a.png" width="320">
 
 Go to the second floor
 
 Grab the all materia
 
-<img src="img/eda02419a65045f8a5f3b6f6a44d4523.png" width="320">
+<img src="eda02419a65045f8a5f3b6f6a44d4523.png" width="320">
 
 Ether from chest
 
@@ -157,7 +167,7 @@ Part 1:
 - After entering the screen move right
 - Line up the point of cloud's hair with the rock on the floor
 
-<img src="img/bb98417c343d4fe8802e38cd6c7e2d8e.png" width="320">
+<img src="bb98417c343d4fe8802e38cd6c7e2d8e.png" width="320">
 
 - Hold cross
 - Hold down, run all the way into the guard
@@ -167,7 +177,7 @@ Part 1:
 
 Tap left and right to nudge cloud into the right spot. He should be facing right and you should see about 2 pixels of clouds's arm to the right of the guard
 
-<img src="img/04f89bf9b4d5442c923e8fdb31eba4d5.png" width="320">
+<img src="04f89bf9b4d5442c923e8fdb31eba4d5.png" width="320">
 
 Part 2:
 - Hold cross
@@ -197,18 +207,18 @@ Talk to person in front of the doors
 Go south 2 screens
 Talk to the materia shop owner
 
-<img src="img/8330f55046a048a4b51059db66beb9fa.png" width="320">
+<img src="8330f55046a048a4b51059db66beb9fa.png" width="320">
 
 Dialog prompt: top (What is it?)
 Dialog prompt: top (I'll go)
 
 Talk to the person in the dress shop
 
-<img src="img/72284ea90c2f4647982ef17ce83c7d27.png" width="320">
+<img src="72284ea90c2f4647982ef17ce83c7d27.png" width="320">
 
 Go to the restaurant
 
-<img src="img/40702a9ea43e482ea3a8be47b1664c48.png" width="320">
+<img src="40702a9ea43e482ea3a8be47b1664c48.png" width="320">
 
 Sit down on the stool
 Buy a meal (it doesn't matter which)
@@ -216,13 +226,13 @@ Dialog prompt: middle (It was all right)
 
 Go to the pharmacy
 
-<img src="img/8d2e7878de9e48db910ea4d9dba264d2.png" width="320">
+<img src="8d2e7878de9e48db910ea4d9dba264d2.png" width="320">
 
 Dialog prompt: bottom (digestive)
 
 Go to the inn
 
-<img src="img/c3d2de0e533b4f2dabe9ffe310010010.png" width="320">
+<img src="c3d2de0e533b4f2dabe9ffe310010010.png" width="320">
 
 Stay the night
 Vending machine prompt: 2nd (Buy the one for 200 Gil)
@@ -232,7 +242,7 @@ Go north one screen
 
 Go to the bar
 
-<img src="img/614828a94fab4f4db7e90fc0edd32bef.png" width="320">
+<img src="614828a94fab4f4db7e90fc0edd32bef.png" width="320">
 
 Talk to the dress shop owner on the right
 Dialog prompt: bottom (That feels soft)
@@ -248,7 +258,7 @@ Talk to the person behind the counter
 Go north one screen
 Go to the gym
 
-<img src="img/65f35589218644269881e3c9c4694a95.png" width="320">
+<img src="65f35589218644269881e3c9c4694a95.png" width="320">
 
 Talk to the person in the middle
 Dialog prompt: bottom (I got it)
@@ -301,18 +311,18 @@ For the rest of the turns, you can hold circle to perfectly input the same actio
 
 Grab the steal materia
 
-<img src="img/1e7a01c52415422c9dd86538dea57e07.png" width="320">
+<img src="1e7a01c52415422c9dd86538dea57e07.png" width="320">
 
 ## Train Graveyard
 
-<img src="img/3abedd011d7948e38f95aaceba847bb1.png">
+<img src="3abedd011d7948e38f95aaceba847bb1.png">
 
 Hi potion on top of train
 left down the ramp
 Potion inside train
 Potion at the end of the screen
 
-<img src="img/a555bb1ce64045a9aa9bcffa0d457845.png">
+<img src="a555bb1ce64045a9aa9bcffa0d457845.png">
 
 Hi potion on top of train
 
@@ -345,7 +355,7 @@ Move into barret to get onto the zipline
 
 South one screen
 
-<img src="img/11f65b153f6843b8913aacb928a17a39.png">
+<img src="11f65b153f6843b8913aacb928a17a39.png">
 
 Note: Be careful on the screen before the sector 5 slums, if you get in an encounter bandits can steal important items. 
 
@@ -358,7 +368,7 @@ Grab the cover materia and ether in the garden
 
 Enter the shop
 
-<img src="img/5a43a7a6f1ce4e4d81228ea6307f9fc2.png" width="320">
+<img src="5a43a7a6f1ce4e4d81228ea6307f9fc2.png" width="320">
 
 Sell
 Items:
@@ -380,7 +390,7 @@ Buy:
 
 Go to the weapon shop
 
-<img src="img/e519a7c7c75a43b6b27eacd114f4857a.png" width="320">
+<img src="e519a7c7c75a43b6b27eacd114f4857a.png" width="320">
 
 Buy the batteries from the bottom left counter
 Exit the shop
@@ -394,7 +404,7 @@ Follow the kids to the right
 
 Talk to the kid in front of the cable
 
-<img src="img/9e6d37f2dbbf468694b875537cb263db.png">
+<img src="9e6d37f2dbbf468694b875537cb263db.png">
 
 Note: The cue to jump to the cable is when you hear the squeak sound
 
@@ -424,7 +434,7 @@ Go to the left to take the stairs
 
 Grab the elixir
 
-<img src="img/7c296bc407cc4e45bdcbe44694540e1e.png" width="320">
+<img src="7c296bc407cc4e45bdcbe44694540e1e.png" width="320">
 
 After exiting the stairs run to the right
 
@@ -452,11 +462,11 @@ Bad stealth section
 Second half:
 Cross the first gap when the guards are on the right
 
-<img src="img/848f96a7d74c4ebca55561200d85a6ed.png">
+<img src="848f96a7d74c4ebca55561200d85a6ed.png">
 
 Cross the second and third when the guards are moving this way
 
-<img src="img/2b5332cbf4eb41418e95247d10526877.png">
+<img src="2b5332cbf4eb41418e95247d10526877.png">
 
 Floor 61:
 Talk to the person at the bottom
@@ -466,7 +476,7 @@ Take the elevator to floor 64
 Library:
 Check this shelf
 
-<img src="img/2383a206bbbe4cc3bfa993cd7906e9c2.png" width="640">
+<img src="2383a206bbbe4cc3bfa993cd7906e9c2.png" width="640">
 
 Answer the password for the elemental materia:
 
@@ -672,7 +682,7 @@ Party:
 
 ## Overworld
 
-<img src="img/bb394dce19104ae7a56b5b780c964a6c.png">
+<img src="bb394dce19104ae7a56b5b780c964a6c.png">
 
 ## Kalm
 Enter the inn
@@ -727,16 +737,16 @@ Southeast to the swamp
 <https://youtu.be/EWgb-Jrk5tQ?t=8930>
 
 Stand here, so the zolom will aim towards you. then move behind the corner of the mountain
-<img src="img/1f0285cdb27f46af9f7dab1b3b3323dd.png" width="320">
+<img src="1f0285cdb27f46af9f7dab1b3b3323dd.png" width="320">
 
 After the zolom bounces, follow behind it
 Angle the camera with L1 or R1 so that the zolom will not bounce off the mountain in front of you
 
-<img src="img/8d02f0b625bd468b88dec8a7168a21fd.png" width="320">
+<img src="8d02f0b625bd468b88dec8a7168a21fd.png" width="320">
 
 Once the zolom is about to run into the corner, run right towards the cave entrance
 
-<img src="img/252a35c92cad418c805aa94470c75bdc.png" width="320">
+<img src="252a35c92cad418c805aa94470c75bdc.png" width="320">
 
 The zolom should try to to follow you right, but get stuck on the mountains in the corner and you can make it safely across
 
@@ -748,14 +758,14 @@ Right one screen
 Climb up the roots
 grab long range materia
 
-<img src="img/573653ed77664540a6d4b491aba533e2.png" width="320">
+<img src="573653ed77664540a6d4b491aba533e2.png" width="320">
 
 Go down one screen
 Go left one screen
 
 ## Overworld
 
-<img src="img/5359d931bfc744cdbf7d9ffcd4ad661d.png">
+<img src="5359d931bfc744cdbf7d9ffcd4ad661d.png">
 
 Safety save before entering junon
 
@@ -877,7 +887,7 @@ Talk to the guard that's blocking the door in the back
 Go down to the basement
 Pick up the enemy skill materia
 
-<img src="img/f063319ce33e47ad981f3311fcf8fac8.png" width="320">
+<img src="f063319ce33e47ad981f3311fcf8fac8.png" width="320">
 
 Exit the building
 Go left five screens to the cargo ship
@@ -892,7 +902,7 @@ Get on the cargo ship
 
 Ether chest
 
-<img src="img/42e930d59cf64e94a5194829327cfc71.png" width="320">
+<img src="42e930d59cf64e94a5194829327cfc71.png" width="320">
 
 Go above deck
 Talk to tifa (climb ladder)
@@ -979,7 +989,7 @@ Leave the room
 
 Enter the door after the bridge
 
-<img src="img/3f9b0a1978f0458a9f1c4d8f86aa92df.png" width="320">
+<img src="3f9b0a1978f0458a9f1c4d8f86aa92df.png" width="320">
 
 Go to the basement
 
@@ -994,18 +1004,18 @@ Underneath the bridge to exit
 
 ## Overworld
 
-<img src="img/a5b09b19a46045c595b3b61c5e738ea2.png">
+<img src="a5b09b19a46045c595b3b61c5e738ea2.png">
 
 ## Mount Corel
 
 Mash circle to jump over the hole in the tracks without falling
 
-<img src="img/307bff5fe4314f0f997c4710621df9e9.png">
+<img src="307bff5fe4314f0f997c4710621df9e9.png">
 
 Hit the switch to lower the bridge
 Go back one screen
 
-<img src="img/63fc9c543c8749c7903f9eb88659f02c.png">
+<img src="63fc9c543c8749c7903f9eb88659f02c.png">
 
 Try to steal a right arm from the bombs
 - Attempt to steal two times before running away
@@ -1015,7 +1025,7 @@ Try to steal a right arm from the bombs
 Talk to barret
 Weapon shop
 
-<img src="img/ec73dfcdbafe4fe88cb2cb399716e7b0.png" width="320">
+<img src="ec73dfcdbafe4fe88cb2cb399716e7b0.png" width="320">
 
 Note: You need at least 3000 gil before going to gold saucer
 
@@ -1095,7 +1105,7 @@ Note: Because we already equipped the fire ring and the power wrist, they can't 
 
 Enter the house
 
-<img src="img/9fda5fb84cf045a6a369d90d5f7162fa.png" width="320">
+<img src="9fda5fb84cf045a6a369d90d5f7162fa.png" width="320">
 
 Barret cutscene
 
@@ -1159,7 +1169,7 @@ Note: The hi potion is to protect you from dyne's final move proccing a crit.
 Elevator dialog prompt: bottom (Not interested)
 Pick up the ramuh materia
 
-<img src="img/66f860225af94a65be3d8b5be0e4f628.png" width="320">
+<img src="66f860225af94a65be3d8b5be0e4f628.png" width="320">
 
 Advance through the text
 Wait for all the npcs to leave the screen
@@ -1211,7 +1221,7 @@ Cloud:
 Avoiding overworld encounters with the buggy:
 - Every second or two, exit and enter the buggy (cross and then circle). This resets the steps counter and you'll never cross the threshold needed to get an encounter on the overworld.
 
-<img src="img/e79ccb2b36b648bf97f1abba31b9d1b4.png">
+<img src="e79ccb2b36b648bf97f1abba31b9d1b4.png">
 
 Drive along the beach to get an encounter
 
@@ -1228,7 +1238,7 @@ Go to the inn behind the campfire
 Enter the room on the second floor
 grab the elixir
 
-<img src="img/e7637148f6bc4f28b30c637edf0dcf77.png" width="320">
+<img src="e7637148f6bc4f28b30c637edf0dcf77.png" width="320">
 
 Use the elixir on cloud to restore his mp
 
@@ -1282,13 +1292,13 @@ Dialog prompt: top (yeah)
 ## Cave of the Gi
 Break open the rock (it's the one closest to the exit)
 
-<img src="img/9e67283dfa5a40cda509672dd06a16b0.png" width="320">
+<img src="9e67283dfa5a40cda509672dd06a16b0.png" width="320">
 
 North one screen
 
-<img src="img/0880032f22a14667bb0a947e28f1401b.png">
+<img src="0880032f22a14667bb0a947e28f1401b.png">
 
-<img src="img/2c1807955069432892f987277275a9fd.png">
+<img src="2c1807955069432892f987277275a9fd.png">
 
 You need to learn death sentence as an enemy skill
 
@@ -1386,16 +1396,16 @@ Leave cosmo canyon
 
 Avoid encounters with the buggy
 
-<img src="img/eca11b92186044ee879371e3ffdc513e.png">
+<img src="eca11b92186044ee879371e3ffdc513e.png">
 
 ## Nibelheim
 Enter the building
 
-<img src="img/7763853a609640aeac3ba443b25500c5.png" width="320">
+<img src="7763853a609640aeac3ba443b25500c5.png" width="320">
 
 Talk to the black robe person in the back for an elixir
 
-<img src="img/a02581fb31f34d97ba7fa6991d2afa7f.png" width="320">
+<img src="a02581fb31f34d97ba7fa6991d2afa7f.png" width="320">
 
 Top right exit of the town
 
@@ -1522,12 +1532,12 @@ Cloud:
 
 ## Overworld
 
-<img src="img/1aa4ec159c924f689468051236c530da.png">
+<img src="1aa4ec159c924f689468051236c530da.png">
 
 ## Rocket Town
 Item shop
 
-<img src="img/d91495067c8441d88dec2c2c31ed1849.png" width="320">
+<img src="d91495067c8441d88dec2c2c31ed1849.png" width="320">
 
 Note: you need at least 8000 gil left
 
@@ -1562,7 +1572,7 @@ If anyone died during Materia keeper, revive them and use a tranquilizer on them
 
 Go to shera's house
 
-<img src="img/b3918b68ec3d4cafacbaba45303eef35.png" width="320">
+<img src="b3918b68ec3d4cafacbaba45303eef35.png" width="320">
 
 Go to the backyard
 Tiny bronco cutscene
@@ -1634,7 +1644,7 @@ Cloud aqualung twice to finish the fight
 
 Get back in the tiny bronco
 
-<img src="img/c5c6cb597ed343049437299693fdcd13.png">
+<img src="c5c6cb597ed343049437299693fdcd13.png">
 
 Get off in the river near golden saucer
 Walk to north corel
@@ -1671,7 +1681,7 @@ Exit the room
 
 Elixir in the hotel room
 
-<img src="img/f9b5978794da4f9fbb206878cba36b3e.png" width="320">
+<img src="f9b5978794da4f9fbb206878cba36b3e.png" width="320">
 
 Exit the room
 Party:
@@ -1686,7 +1696,7 @@ Go back to the tram
 
 Run south to the tiny bronco
 
-<img src="img/c3b2509e6f1a4a0ea200f36ea7ee96ef.png">
+<img src="c3b2509e6f1a4a0ea200f36ea7ee96ef.png">
 
 ## Gongaga
 Get an encounter
@@ -1700,7 +1710,7 @@ Take the right exit to get to the town
 
 Accessory shop
 
-<img src="img/51d4e4480f2541d892fc83b51d280d2f.png" width="320">
+<img src="51d4e4480f2541d892fc83b51d280d2f.png" width="320">
 
 Buy:
 
@@ -1713,7 +1723,7 @@ Exit to the left
 
 ## Overworld
 
-<img src="img/761e6d9a60294ebc80f1310a52e8ad05.png">
+<img src="761e6d9a60294ebc80f1310a52e8ad05.png">
 
 ## Temple of the Ancients
 
@@ -1725,7 +1735,7 @@ Trident chest
 Turbo ether
 Rocket punch
 
-<img src="img/f152806ee4b2493b93d3a2a69fa3ac4c.png">
+<img src="f152806ee4b2493b93d3a2a69fa3ac4c.png">
 
 Rolling rock room
 
@@ -1900,7 +1910,7 @@ Note: Cloud needs to have limit before jenova life.
 
 Get in the tiny bronco
 
-<img src="img/c9ca630e801741ddaee68b3802faca18.png">
+<img src="c9ca630e801741ddaee68b3802faca18.png">
 
 Recruit yuffie from the forests southeast of rocket town
 
@@ -1932,7 +1942,7 @@ Dialog prompt: top (Lunar Harp)
 Press square, then menu to "done"
 Stand here (it's pretty lenient)
 
-<img src="img/4643fcf65aa9462ab1cdd956829a46ae.png" width="320">
+<img src="4643fcf65aa9462ab1cdd956829a46ae.png" width="320">
 
 Close the "select the dig point" textbox
 Press square
@@ -1944,19 +1954,19 @@ Exit through the top of the town
 ## Coral Valley
 Water Ring
 
-<img src="img/82c5700f78a646de9d55f16397c3db41.png" width="320">
+<img src="82c5700f78a646de9d55f16397c3db41.png" width="320">
 
 ## Forgotten Capital
 Right at the fork
 Enter the house
 
-<img src="img/efbc119c26d74254b997537743b48f79.png" width="320">
+<img src="efbc119c26d74254b997537743b48f79.png" width="320">
 
 Climb the ladder
 Rest at the bed
 grab the enemy skill materia
 
-<img src="img/723eebd95007471ab16056ee24f810be.png" width="320">
+<img src="723eebd95007471ab16056ee24f810be.png" width="320">
 
 Config:
 
@@ -2004,7 +2014,7 @@ Take the center path
 Enter the shell building
 Grab the comet materia (you can grab it from below)
 
-<img src="img/ac97fba28b7f435485eafd52f6db703d.png" width="320">
+<img src="ac97fba28b7f435485eafd52f6db703d.png" width="320">
 
 Go down the crystal staircase
 At the stepping stones mash left on dpad
@@ -2067,11 +2077,11 @@ Go counter clockwise to the exit
 Bolt armlet chest (you can grab it from below)
 Mega elixir chest
 
-<img src="img/ca7a7bb336444410a4ebb0096d8d4e61.png">
+<img src="ca7a7bb336444410a4ebb0096d8d4e61.png">
 
 ## Overworld
 
-<img src="img/1feee5e28ef04217842fd22c41570ee3.png">
+<img src="1feee5e28ef04217842fd22c41570ee3.png">
 
 ## Icicle Inn
 
@@ -2106,13 +2116,13 @@ Controls:
 If you fucked up and need a map of the area:
 <https://jegged.com/Games/Final-Fantasy-VII/Walkthrough/Disc-2/26-Great-Glacier.html>
 
-<img src="img/0b19aa22e8cb42a28c17ef0a3a341d26.png" width="320">
+<img src="0b19aa22e8cb42a28c17ef0a3a341d26.png" width="320">
 
-<img src="img/09fa0ce2eaa54d19b75def3f6907bc12.png" width="320">
+<img src="09fa0ce2eaa54d19b75def3f6907bc12.png" width="320">
 
 Added cut materia on the second screen
 
-<img src="img/eddf279651234d159c0395a61e82411b.png" width="320">
+<img src="eddf279651234d159c0395a61e82411b.png" width="320">
 
 Continue left until you get to the snow field
 
@@ -2178,7 +2188,7 @@ todo: does yuffie still die with elemental ramuh? if she does just leave her dea
 Ribbon chest
 Safety strat: Equip ribbon on tifa
 
-<img src="img/f35bedeb8518480688ee4961ae6d53f9.png">
+<img src="f35bedeb8518480688ee4961ae6d53f9.png">
 
 Push down the boulder
 Backtrack and take the other path
@@ -2188,7 +2198,7 @@ Climb the second cliffs
 
 Fire armlet chest
 
-<img src="img/04d1186e29c3425dac14dab04a53f372.png" width="320">
+<img src="04d1186e29c3425dac14dab04a53f372.png" width="320">
 
 Config:
 
@@ -2250,7 +2260,7 @@ Notes:
 
 Enhanced sword chest (we just sell this for money)
 
-<img src="img/fba8b6a3e4ac4211817dce3c0a839202.png" width="320">
+<img src="fba8b6a3e4ac4211817dce3c0a839202.png" width="320">
 
 Third cliff screen:
 - up twice
@@ -2331,7 +2341,7 @@ Note: There is a guy in a black robe blocking the way, talk to him to get past
 
 Grab the neo bahamut materia
 
-<img src="img/ea141d3ceb23409484714536b9f1bb1c.png" width="320">
+<img src="ea141d3ceb23409484714536b9f1bb1c.png" width="320">
 
 Safety save
 
@@ -2340,7 +2350,7 @@ Note: If you mess up and hit the force field, use comet
 
 Kaiser knuckles chest (to sell later)
 
-<img src="img/698c1326ec624123bc53176f018e0d11.png" width="320">
+<img src="698c1326ec624123bc53176f018e0d11.png" width="320">
 
 Second whirlwind
 
@@ -2380,7 +2390,7 @@ Talk to tifa
 Grab the mp turbo materia
 Poison ring chest
 
-<img src="img/e306638801734963ac869974c6e322ec.png" width="320">
+<img src="e306638801734963ac869974c6e322ec.png" width="320">
 
 Third whirlwind
 - Pass after the 4th "gust"
@@ -2444,20 +2454,20 @@ Talk to the pilot
 
 Note: Hold square so you can fly around without turning
 
-<img src="img/d657646cc25a4285912ee544c675f481.png">
+<img src="d657646cc25a4285912ee544c675f481.png">
 
 Safety save before entering mideel
 
 ## Mideel
 Enter the weapon shop
 
-<img src="img/9d25959b0b12464caad492823dee2b53.png" width="320">
+<img src="9d25959b0b12464caad492823dee2b53.png" width="320">
 
 Examine the door in the back
 Exit the shop
 Pick up the "Beat-up Useless Old Key"
 
-<img src="img/09d9395d3ebd4d23907a19c2da60a901.png" width="320">
+<img src="09d9395d3ebd4d23907a19c2da60a901.png" width="320">
 
 Back to the weapon shop
 Use the key on the door
@@ -2477,7 +2487,7 @@ Leave the shop
 
 Enter the materia shop
 
-<img src="img/32e4d0616c214607b383bac259e73836.png" width="320">
+<img src="32e4d0616c214607b383bac259e73836.png" width="320">
 
 Sell:
 Item:
@@ -2547,7 +2557,7 @@ Talk to the pilot
 
 There's a tiny sliver of green southeast of fort condor you can land on
 
-<img src="img/da23cfb370b342299b3c39bfdc308d6c.png">
+<img src="da23cfb370b342299b3c39bfdc308d6c.png">
 
 ## Fort Condor
 
@@ -2580,7 +2590,7 @@ Items:
 		Tranquilizer everyone
 		Tent
 
-<img src="img/26e2f7f8bb0c463ba557efe6a8df499a.png">
+<img src="26e2f7f8bb0c463ba557efe6a8df499a.png">
 
 ## North Corel
 North one screen
@@ -2649,7 +2659,7 @@ Leave north corel
 
 ## Overworld
 
-<img src="img/b0cdf35dc01b4afc845b0285f2f3bf9f.png">
+<img src="b0cdf35dc01b4afc845b0285f2f3bf9f.png">
 
 ## Mideel
 
@@ -2696,7 +2706,7 @@ Talk to the pilot
 
 ## Overworld
 
-<img src="img/d657646cc25a4285912ee544c675f481.png">
+<img src="d657646cc25a4285912ee544c675f481.png">
 
 Equip:
 Yuffie:
@@ -2759,7 +2769,7 @@ Guard fights: aqualung
 
 Safety save at this savepoint
 
-<img src="img/3793f7e9678947be93c1a09fc741b2fa.png" width="320">
+<img src="3793f7e9678947be93c1a09fc741b2fa.png" width="320">
 
 Single guard fight:
 Tifa attack
@@ -2814,7 +2824,7 @@ Submarine Minigame:
 
 ## Overworld
 
-<img src="img/063da07f64434be98c621b0b2629d0e1.png">
+<img src="063da07f64434be98c621b0b2629d0e1.png">
 
 Dive underwater
 - Dpad up to sink
@@ -2838,21 +2848,21 @@ Safety save
 Door north of save point
 Escort guard chest
 
-<img src="img/a394b522db0f48e499e97f6a56b5bed9.png" width="320">
+<img src="a394b522db0f48e499e97f6a56b5bed9.png" width="320">
 
 Double cut materia (behind the chest)
 
-<img src="img/d11ff0cff98a4ed0b2fa46f8d58dea83.png" width="320">
+<img src="d11ff0cff98a4ed0b2fa46f8d58dea83.png" width="320">
 
 Conformer chest
 
-<img src="img/9579233853e541a68da3296bfac9499d.png" width="320">
+<img src="9579233853e541a68da3296bfac9499d.png" width="320">
 
 Leave the ship
 
 Press cross to surface
 
-<img src="img/f082e49c7f2f4d0fa9ece1003fb46f12.png">
+<img src="f082e49c7f2f4d0fa9ece1003fb46f12.png">
 
 Go below the surface
 Grab the key of the ancients in the tunnel
@@ -2874,7 +2884,7 @@ Party:
 
 Get in the highwind
 
-<img src="img/7ec49ed38bc14bf587ab0cc05e481db4.png">
+<img src="7ec49ed38bc14bf587ab0cc05e481db4.png">
 
 ## Rocket Town
 
@@ -2929,7 +2939,7 @@ Talk to the pilot
 
 ## Overworld
 
-<img src="img/a10aedec03b84f0e94aee897f1506e63.png">
+<img src="a10aedec03b84f0e94aee897f1506e63.png">
 
 Land north of cosmo canyon on the grass
 
@@ -2948,7 +2958,7 @@ Talk to pilot
 
 ## Overworld
 
-<img src="img/6f3e711066e542d49e68aa2083edde7d.png">
+<img src="6f3e711066e542d49e68aa2083edde7d.png">
 
 You can next to the city, inside of the crevice
 
@@ -2961,7 +2971,7 @@ Exit forgotten capital
 ## Overworld
 Enter the highwind
 
-<img src="img/53f21c4f3c364da8b0778d3c84317b34.png">
+<img src="53f21c4f3c364da8b0778d3c84317b34.png">
 
 Land, wait for diamond weapon
 
@@ -3106,9 +3116,9 @@ Notes:
 
 Save crystal chest
 
-<img src="img/24c40f13e0bd43a2aac0416c57745621.png">
+<img src="24c40f13e0bd43a2aac0416c57745621.png">
 
-<img src="img/f6a7f531bd524632b9e4eee5d021546e.png">
+<img src="f6a7f531bd524632b9e4eee5d021546e.png">
 
 Save crystal glitch:
 - Stand on the right edge of the second stalactite ladder thing
@@ -3138,17 +3148,17 @@ Second path choices:
 
 Remedy chest
 
-<img src="img/da136c7a0e084616b4c21788f450e47e.png">
+<img src="da136c7a0e084616b4c21788f450e47e.png">
 
 Vaccine chest
 
-<img src="img/09ba14ffec834616a3131294a8bf9e82.png">
+<img src="09ba14ffec834616a3131294a8bf9e82.png">
 
-<img src="img/aa69489d59bd4a63b6f52f1f095ef569.png">
+<img src="aa69489d59bd4a63b6f52f1f095ef569.png">
 
 Safety save with the save crystal at the bottom of the circle
 
-<img src="img/b7656c7068904d3cbda1644cafb2118e.png">
+<img src="b7656c7068904d3cbda1644cafb2118e.png">
 
 Talk to tifa to get the mystile/mythril
 
@@ -3160,7 +3170,7 @@ Party:
 
 Menu on the last platform
 
-<img src="img/9bef7509dc134001a1ef8216bb0da4f8.png">
+<img src="9bef7509dc134001a1ef8216bb0da4f8.png">
 
 Config:
 

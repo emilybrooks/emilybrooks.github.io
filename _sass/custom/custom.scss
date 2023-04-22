@@ -1,0 +1,21 @@
+code 
+{
+	font-size: 1em !important;
+}
+
+.note::before, .note-title > p:first-child,
+.battle::before, .battle-title > p:first-child,
+.menu::before, .menu-title > p:first-child,
+.items::before, .items-title > p:first-child
+{
+	font-size: 1em !important;
+	text-transform: none !important;
+}
+
+.menu strong, .menu-title strong
+{
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #026e57;
+	padding-bottom: .125rem;
+}

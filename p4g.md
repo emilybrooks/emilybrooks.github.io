@@ -5,6 +5,15 @@ permalink: /p4g/
 nav_order: 2
 ---
 
+<details markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 ## General Notes:
 - In battle, when selecting your command you can press cancel to move the cursor to attack
 
@@ -465,7 +474,7 @@ angel
 
 ### Yukiko's Castle, 5F:
 
-<img src="resources/bf2dff8883834526b9b3dc13f014500d.png" width="242px">
+<img src="bf2dff8883834526b9b3dc13f014500d.png" width="242px">
 
 Before miniboss, heal with yosuke's dia
 
@@ -488,7 +497,7 @@ Chie skewer
 
 --------------------------------------------------
 
-<img src="resources/142e4b12ae4c468b99b46491e2df6dc6.png" width="136px">
+<img src="142e4b12ae4c468b99b46491e2df6dc6.png" width="136px">
 
 Go up to 8F
 Heal with yosuke's dia
@@ -736,7 +745,7 @@ note: if you see 3 towels in the 2nd step before a door, it leads to stairs
 
 ### Steamy Bathhouse, Bath #3
 
-<img src="resources/4236783d4f9d4576942e0b54dd621a8c.png" width="198px">
+<img src="4236783d4f9d4576942e0b54dd621a8c.png" width="198px">
 
 ### Steamy Bathhouse, Bath #7
 
@@ -795,7 +804,7 @@ Heal with yu's dia
 
 ### Steamy Bathhouse, Bath #7
 
-<img src="resources/4664a8d7fe7e4ae5a5c70378eb135c82.png" width="174px">
+<img src="4664a8d7fe7e4ae5a5c70378eb135c82.png" width="174px">
 
 --------------------------------------------------
 ### Daring Gigas
@@ -1345,9 +1354,9 @@ Set kanji to direct commands
 
 When opening a door at the end of a hallway, look at the floor texture. You can tell if it leads to a treasure room if the pink glow is missing. Use this to avoid going to treasure rooms
 
-<img src="resources/7039434f74d34587b6c2ad62a3004e37.png" width="640px">
+<img src="7039434f74d34587b6c2ad62a3004e37.png" width="640px">
 
-<img src="resources/453d31be77c24963aae91683d02ceb84.png" width="640">
+<img src="453d31be77c24963aae91683d02ceb84.png" width="640">
 
 Another clue to look at is the design on the wall
 for marukyu striptease
@@ -1358,11 +1367,11 @@ Note: Don't waste time fighting golden hands in this dungeon
 
 ### Marukyu Striptease, 3F
 
-<img src="resources/166d0948940a4636a33d074ef03cbc44.png" width="212px">
+<img src="166d0948940a4636a33d074ef03cbc44.png" width="212px">
 
 ###, Marukyu Striptease, 7F
 
-<img src="resources/00635cd531554f939c27384fe0ec73f4.png" width="183px">
+<img src="00635cd531554f939c27384fe0ec73f4.png" width="183px">
 
 --------------------------------------------------
 ### Amorous Snake
@@ -1906,7 +1915,7 @@ Sword = stairs
 
 ### Void Quest, Chapter 3
 
-<img src="resources/e399bbe2718b4561b850bcc5bbc36f08.png" width="156px">
+<img src="e399bbe2718b4561b850bcc5bbc36f08.png" width="156px">
 
 ### Void Quest, Chapter 7
 
@@ -2067,7 +2076,7 @@ Berith
 
 Continue from chapter 7
 
-<img src="resources/6a0d3790e5084237ae4cb1217179d0b7.png" width="162px">
+<img src="6a0d3790e5084237ae4cb1217179d0b7.png" width="162px">
 
 --------------------------------------------------
 ### Killing Hand
@@ -2086,7 +2095,7 @@ After killing hand dies, guard until the almighty hand runs away
 
 Orb of darkness chest
 
-<img src="resources/24ad1188865b440a821c2e9a44e52af0.png" width="223px">
+<img src="24ad1188865b440a821c2e9a44e52af0.png" width="223px">
 
 Go up to floor 11
 
@@ -2595,11 +2604,11 @@ Party: chie, yukiko
 
 ### Secret Laboratory, B4F
 
-<img src="resources/68905df5760240c5a662de860a8522e5.png" width="188px">
+<img src="68905df5760240c5a662de860a8522e5.png" width="188px">
 
 ### Secret Laboratory, B6F
 
-<img src="resources/e29968886e094fc5a23b1e2c6882ed70.png" width="167px">
+<img src="e29968886e094fc5a23b1e2c6882ed70.png" width="167px">
 
 Grab the research card
 Goho-m
@@ -2829,7 +2838,7 @@ Fight one last gold hand to learn hassou tobi on yoshitsune
 Return to previous floor
 Go down to B4F
 
-<img src="resources/cb9d112e48384866909a8e1d20bc0c5c.png" width="133px">
+<img src="cb9d112e48384866909a8e1d20bc0c5c.png" width="133px">
 
 --------------------------------------------------
 ### Dominating Machine
@@ -2846,7 +2855,7 @@ Navigator menu > move to next floor
 
 Back to B6F
 
-<img src="resources/13dc38ca36164652b3aa441934979179.png" width="109px">
+<img src="13dc38ca36164652b3aa441934979179.png" width="109px">
 
 Go down to B9F
 
@@ -3291,7 +3300,7 @@ Note: You have certain escape on rise, don't use vanish balls
 
 Note: The tell for stairs is the rainbow crossing through the rock, with a small island underneath
 
-<img src="resources/6013546b2eb94ddfb2d0d0bc3ca9f642.png" width="640">
+<img src="6013546b2eb94ddfb2d0d0bc3ca9f642.png" width="640">
 
 ### Heaven, Paradise #4:
 
@@ -3313,13 +3322,13 @@ Yu:
 
 		Tsukuyomi Noshi
 
-<img src="resources/6f170c452515458abd7555def7ca5283.png" width="183px">
+<img src="6f170c452515458abd7555def7ca5283.png" width="183px">
 
 (The chest is circled on the map)
 
 ### Heaven, Paradise #7:
 
-<img src="resources/3bdfb486571846bba09fdefaadc3a381.png" width="121px">
+<img src="3bdfb486571846bba09fdefaadc3a381.png" width="121px">
 
 --------------------------------------------------
 ### World Balance
@@ -3645,7 +3654,7 @@ Party: teddie, chie, yukiko
 enter the dungeon
 go to floor 2
 
-<img src="resources/b66179d7e73241b7b1f41cfd68542c0e.png" width="112px">
+<img src="b66179d7e73241b7b1f41cfd68542c0e.png" width="112px">
 
 Try to open the tape
 Go back
@@ -3653,7 +3662,7 @@ Jump into the hole in the middle
 
 ### Magatsu Mandala, World 3
 
-<img src="resources/baf3e94954cf43a9bfb4362f23e35bb9.png" width="206px">
+<img src="baf3e94954cf43a9bfb4362f23e35bb9.png" width="206px">
 
 --------------------------------------------------
 ### Chaos Fuzz
@@ -3688,7 +3697,7 @@ Chie:
 
 		Angel Skirt
 
-<img src="resources/db66f724ca87439da37d39b260250463.png" width="232px">
+<img src="db66f724ca87439da37d39b260250463.png" width="232px">
 
 --------------------------------------------------
 ### Envious Giant
@@ -3931,7 +3940,7 @@ Open all chests on this floor
 
 ### Memories of Sorrow (Floor 4)
 
-<img src="resources/25d915e7c7aa4752a88fc7f03281343a.png" width="223px">
+<img src="25d915e7c7aa4752a88fc7f03281343a.png" width="223px">
 
 Miniboss is the door circled
 
@@ -3966,7 +3975,7 @@ Switch back to yoshitsune after the fight
 
 ### Memories of Anger (Floor 7)
 
-<img src="resources/c6dbb7d852474e8da8cb5c37b284c1eb.png" width="206px">
+<img src="c6dbb7d852474e8da8cb5c37b284c1eb.png" width="206px">
 
 --------------------------------------------------
 ### Heaven's Giant
@@ -4116,7 +4125,7 @@ Enter the dungeon
 
 ### Yomotsu Hirasaka Path 3
 
-<img src="resources/629a8891e9514065b8822f5b5084ea91.png" width="145px">
+<img src="629a8891e9514065b8822f5b5084ea91.png" width="145px">
 
 --------------------------------------------------
 ### Neo Minotaur
@@ -4154,7 +4163,7 @@ Yukiko:
 
 ### Yomotsu Hirasaka Path 6
 
-<img src="resources/956bbcccfef64bdd936761917f45107f.png" width="235px">
+<img src="956bbcccfef64bdd936761917f45107f.png" width="235px">
 
 --------------------------------------------------
 ### Sleeping Table
