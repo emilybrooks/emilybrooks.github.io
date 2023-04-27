@@ -5,14 +5,11 @@ permalink: /bluereflectiontie/
 nav_order: 2
 ---
 
-<details markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
+Table of contents
+{: .text-delta }
+
 - TOC
 {:toc}
-</details>
 
 {: .no_toc }
 # BLUE REFLECTION TIE Any% (Normal)
@@ -481,8 +478,7 @@ hinako date
 
 enter kokoro heartscape second layer
 
-[video of shiho stealth request](https://www.twitch.tv/videos/1789988597?t=1h3m16s)
-todo: i could make a better video where you get an earlier cycle in the second half
+[video of shiho stealth request](https://youtu.be/j0GphjFuTSE&t=3982)
 
 {: .no_toc }
 ### First Lantern
@@ -662,6 +658,7 @@ kokoro gym date
 >kokoro hinako shiho (ao support)
 >
 >**Fragment**
+>kokoro
 >即席茶番劇 Impromptu Charade
 >運動神経の要因 The Factors of Fitness
 {: .menu }
@@ -1637,18 +1634,24 @@ warp to heartscape
 
 >Tyrfing and Dyneslave Refight
 >
->wait until after left guy's attacks (he casts slow, so you want to build up as much ether before slow happens)
->target right enemy, use however many you can cast
->spinta
->yaguruma
->sparkle ball buzzing pulse
->
->if you can get the infight with shiho go for it, and do finisher
->
->left enemy:
->2x piena
->2x buzzing
+>2x piena (target left enemy)
+>2x buzzing pulse
 >2x yaguruma
+>2 more attacks
+>
+>infight (shiho preferably, hiori is also fine)
+>do finisher
+>
+>wait until after right enemy's charge attack
+>spinta
+>2x yaguruma
+>2x falcon shot
+>spinta
+>
+>after he recovers from knockdown
+>2x yagruma
+>2x buzzing pulse
+>2x spinta
 {: .battle-title }
 
 >Spes Somnia
@@ -1804,12 +1807,12 @@ terminal 8
 
 >Guardian
 >
->3x piena
 >sparkle ball 2x buzzing pulse
+>3x spinta
 >3x yaguruma
 >
 >after knockdown
->3x piena
+>3x spinta
 >4x buzzing pulse
 >4x yaguruma
 {: .battle-title }
