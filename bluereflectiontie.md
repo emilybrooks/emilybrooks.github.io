@@ -5,6 +5,8 @@ permalink: /bluereflectiontie/
 nav_order: 2
 ---
 
+Note: This route is now somewhat out of date.
+
 Table of contents
 {: .text-delta }
 
