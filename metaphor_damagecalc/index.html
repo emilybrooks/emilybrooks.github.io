@@ -1,0 +1,407 @@
+<head>
+    <meta charset="utf-8">
+    <title>Metaphor Damage Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="script.js"></script>
+
+<div id="title_text">
+    <b>Metaphor: ReFantazio Damage Calculator by emilybrooks</b>
+    <br>
+    Based on information from <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3349878187">Metaphor's Math Monstrosity</a> by CTOBN
+</div>
+
+<table class="global_options">
+    <tr>
+        <td class="option_name">Difficulty: </td>
+        <td>
+            <select id="difficulty" value="hard">
+                <option value="storyteller">Storyteller</option>
+                <option value="easy">Easy</option>
+                <option value="normal">Normal</option>
+                <option value="hard" selected>Hard</option>
+                <option value="regicide">Regicide</option>
+            </select>
+        </td>
+    </tr>
+</table>
+
+<!-- Player Side -->
+<div id="player_side">
+
+    <table class="option_table">
+
+    <tr>
+        <td class="option_name">Player Level:</td>
+        <td>
+            <select id="level"></select>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="option_name">Player Stats:</td>
+        <td>
+            St <input type="number" id="player_strength" value="5" min="1" max="99">
+            Ma <input type="number" id="player_magic" value="5" min="1" max="99">
+            En <input type="number" id="player_endurance" value="5" min="1" max="99">
+            Ag <input type="number" id="player_agility" value="5" min="1" max="99">
+            Lk <input type="number" id="player_luck" value="5" min="1" max="99">
+        </td>
+    </tr>
+
+    <tr>
+        <td class="option_name">Archetype Modifier:</td>
+        <td>
+            <input type="radio" name="archetype_modifier" id="archetype_prince" value="0.9">
+            <label for="archetype_prince">Prince (x0.9)</label>
+
+            <input type="radio" name="archetype_modifier" id="archetype_other" value="0.85">
+            <label for="archetype_other">Other (x0.85)</label>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="option_name">Weapon:</td>
+        <td>
+            <select id="weapon"></select>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="option_name">Armor:</td>
+        <td>
+            <select id="armor"></select>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="option_name">Gear:</td>
+        <td>
+            <select id="gear"></select>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="option_name">Accessory:</td>
+        <td>
+            <select id="accessory"></select>
+        </td>
+    </tr>
+
+    <tr><td><br><br></td></tr><!-- blank row -->
+
+    <tr>
+        <td class="option_name">Attack:</td>
+        <td>
+            <select id="attack"></select>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="option_name">Row:</td>
+        <td>
+            <input type="radio" name="player_row" id="player_front_row" value="front">
+            <label for="player_front_row">Front row</label>
+
+            <input type="radio" name="player_row" id="player_back_row" value="back">
+            <label for="player_back_row">Back row</label>
+        </td>
+    </tr>
+
+    <!-- <tr>
+        <td class="option_name">Protective Formation:</td>
+        <td>
+            <input type="radio" name="protective_formation" id="protective_formation_on" value="0.5">
+            <label for="protective_formation_on">On</label>
+
+            <input type="radio" name="protective_formation" id="protective_formation_off" value="1.0">
+            <label for="protective_formation_off">Off</label>
+        </td>
+    </tr> -->
+
+    <tr>
+        <td class="option_name">Tarukaja Multiplier:</td>
+        <td>
+            <select id="attack_multiplier">
+                <option value="0.6">-3 (x0.6)</option>
+                <option value="0.7">-2 (x0.7)</option>
+                <option value="0.8">-1 (x0.8)</option>
+                <option value="1.0" selected>0 (x1.0)</option>
+                <option value="1.2">+1 (x1.2)</option>
+                <option value="1.3">+2 (x1.3)</option>
+                <option value="1.4">+3 (x1.4)</option>
+            </select>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="option_name">Sukukaja Multiplier:</td>
+        <td>
+            <select id="suku_multiplier">
+                <option value="0.7">-3 (x0.7)</option>
+                <option value="0.8">-2 (x0.8)</option>
+                <option value="0.9">-1 (x0.9)</option>
+                <option value="1.0" selected>0 (x1.0)</option>
+                <option value="1.1">+1 (x1.1)</option>
+                <option value="1.2">+2 (x1.2)</option>
+                <option value="1.3">+3 (x1.3)</option>
+            </select>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="option_name">Charge/Hyper:</td>
+        <td>
+            <input type="radio" name="player_focus_multiplier" id="player_focus_yes" value="2.25">
+            <label for="focus_yes">Yes (x2.25)</label>
+
+            <input type="radio" name="player_focus_multiplier" id="player_focus_no" value="1.0">
+            <label for="focus_no">No (x1.0)</label>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="option_name">Attack Modifier:</td>
+        <td>
+            <input type="radio" name="attack_modifier" id="player_attacks_normal" value="normal">
+            <label for="player_attacks_weak">None</label>
+
+            <input type="radio" name="attack_modifier" id="player_attacks_weak" value="weak">
+            <label for="player_attacks_weak">Override Weakness</label>
+
+            <input type="radio" name="attack_modifier" id="player_attacks_crit" value="crit">
+            <label for="player_attacks_crit">Critical</label>
+        </td>
+    </tr>
+
+    <tr><td><br><br></td></tr><!-- blank row -->
+
+    <tr>
+        <td class="option_name">Sense of Kinship:</td>
+        <td>
+            <select id="kinship">
+                <option value="1.0">Not equipped (x1.0)</option>
+                <option value="1.1">0 archetypes of the same lineage (x1.1)</option>
+                <option value="1.2">1 archetype of the same lineage (x1.2)</option>
+                <option value="1.3">2 archetypes of the same lineage (x1.3)</option>
+                <option value="1.5">3 archetypes of the same lineage (x1.5)</option>
+            </select>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="option_name">Ironclad Bond:</td>
+        <td>
+            <select id="ironclad">
+                <option value="1.0">Not equipped (x1.0)</option>
+                <option value="1.1">0 archetypes of the same lineage (x1.1)</option>
+                <option value="1.2">1 archetype of the same lineage (x1.2)</option>
+                <option value="1.3">2 archetypes of the same lineage (x1.3)</option>
+                <option value="1.5">3 archetypes of the same lineage (x1.5)</option>
+            </select>
+        </td>
+    </tr>
+
+    </table>
+
+</div>
+
+<!-- Enemy Side -->
+<div id="enemy_side">
+
+    <table class="option_table">
+        
+        <tr>
+            <td class="option_name">Enemy:</td>
+            <td colspan="3">
+                <select id="enemy"></select>
+            </td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Rakukaja Multiplier:</td>
+            <td colspan="3">
+                <select id="enemy_defense_multiplier">
+                    <option value="1.5">-3 (x1.4)</option>
+                    <option value="1.3">-2 (x1.3)</option>
+                    <option value="1.2">-1 (x1.2)</option>
+                    <option value="1.0" selected>0 (x1.0)</option>
+                    <option value="0.8">+1 (x0.8)</option>
+                    <option value="0.7">+2 (x0.7)</option>
+                    <option value="0.6">+3 (x0.6)</option>
+                </select>
+            </td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Sukukaja Multiplier:</td>
+            <td colspan="3">
+                <select id="enemy_suku_multiplier">
+                    <option value="1.3">-3 (x1.3)</option>
+                    <option value="1.2">-2 (x1.2)</option>
+                    <option value="1.1">-1 (x1.1)</option>
+                    <option value="1.0" selected>0 (x1.0)</option>
+                    <option value="0.9">+1 (x0.9)</option>
+                    <option value="0.8">+2 (x0.8)</option>
+                    <option value="0.7">+3 (x0.7)</option>
+                </select>
+            </td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Enemy's Level:</td>
+            <td class="enemy_stat" id="enemy_level"></td>
+
+            <td class="enemy_attribute_name">Slash:</td>
+            <td id="enemy_slash"></td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Enemy's HP:</td>
+            <td class="enemy_stat" id="enemy_hp"></td>
+
+            <td class="enemy_attribute_name">Pierce:</td>
+            <td id="enemy_pierce"></td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Enemy's Strength:</td>
+            <td class="enemy_stat" id="enemy_strength"></td>
+
+            <td class="enemy_attribute_name">Strike:</td>
+            <td id="enemy_strike"></td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Enemy's Magic:</td>
+            <td class="enemy_stat" id="enemy_magic"></td>
+
+            <td class="enemy_attribute_name">Fire:</td>
+            <td id="enemy_fire"></td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Enemy's Endurance:</td>
+            <td class="enemy_stat" id="enemy_endurance"></td>
+
+            <td class="enemy_attribute_name">Ice:</td>
+            <td id="enemy_ice"></td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Enemy's Agility:</td>
+            <td class="enemy_stat" id="enemy_agility"></td>
+
+            <td class="enemy_attribute_name">Elec:</td>
+            <td id="enemy_elec"></td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Enemy's Luck:</td>
+            <td class="enemy_stat" id="enemy_luck"></td>
+
+            <td class="enemy_attribute_name">Wind:</td>
+            <td id="enemy_wind"></td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Enemy's Attack:</td>
+            <td class="enemy_stat" id="enemy_attack"></td>
+
+            <td class="enemy_attribute_name">Light:</td>
+            <td id="enemy_light"></td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Enemy's Defense:</td>
+            <td class="enemy_stat" id="enemy_defense"></td>
+
+            <td class="enemy_attribute_name">Dark:</td>
+            <td id="enemy_dark"></td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Enemy's Evasion:</td>
+            <td class="enemy_stat" id="enemy_evasion"></td>
+
+            <td class="enemy_attribute_name">Almighty:</td>
+            <td id="enemy_almighty"></td>
+        </tr>
+
+    </table>
+    
+    <table class="option_table">
+        <tr><td><br><br></td></tr><!-- blank row -->
+
+        <tr>
+            <td class="option_name">Your Weapon Attack:</td>
+            <td id="player_weapon_attack"></td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Your Attack:</td>
+            <td id="player_attack"></td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Your Armor Defense:</td>
+            <td id="player_armor_defense"></td>
+        </tr>
+
+        <!-- <tr>
+            <td class="option_name">Your Stat Multiplier:</td>
+            <td id="player_stat_multiplier"></td>
+        </tr> -->
+
+        <!-- <tr>
+            <td class="option_name">Raw Damage:</td>
+            <td id="raw_damage"></td>
+        </tr> -->
+
+        <!-- <tr>
+            <td class="option_name">Weakness Correction:</td>
+            <td id="weakness_correction"></td>
+        </tr> -->
+
+        <!-- <tr>
+            <td class="option_name">Level Correction:</td>
+            <td id="level_correction"></td>
+        </tr> -->
+
+        <!-- <tr>
+            <td class="option_name">Row Correction:</td>
+            <td id="row_correction"></td>
+        </tr> -->
+
+        <tr>
+            <td class="option_name">Base Damage:</td>
+            <td id="base_damage"></td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Difficulty Multiplier:</td>
+            <td id="difficulty_multiplier"></td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Buff Multiplier:</td>
+            <td id="buff_multiplier"></td>
+        </tr>
+
+        <tr>
+            <td class="option_name">Damage Multiplier:</td>
+            <td id="damage_multiplier"></td>
+        </tr>
+
+
+    </table>
+
+    <b>OUTPUT</b>
+    <div id="damage_result">0</div>
+    <div id="accuracy_result">0 accuracy</div>
+</div>
+
+</body>

@@ -1,0 +1,87 @@
+*
+{
+	font-family: "Arial", "Sans";
+	font-size: 14px;
+}
+
+#title_text
+{
+    padding-bottom: 10px;
+}
+
+.global_options
+{
+    width: 20%;
+    padding-bottom: 30px;
+}
+
+.global_options select
+{
+    width: 100%;
+}
+
+
+#player_side
+{
+    float: left;
+    width: 520px;
+}
+
+#enemy_side
+{
+    padding-left: 100px;
+    float: left;
+    width: 500px;
+}
+
+.option_table
+{
+    width: 100%;
+}
+
+.option_table tr
+{
+    width: 100%;
+}
+
+.option_table td
+{
+    padding-bottom: 10px;
+}
+
+#player_side .option_name
+{
+    width: 125px;
+}
+
+#enemy_side .option_name
+{
+    width: 140px;
+}
+
+.option_table select
+{
+    width: 100%;
+}
+
+#damage_result
+{
+    font-size: 24px;
+    font-weight: bold;
+}
+#accuracy_result
+{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.enemy_stat
+{
+    width: 100px;
+}
+
+.enemy_attribute_name
+{
+    width: 70px;
+}
+
