@@ -1275,27 +1275,27 @@ $(document).ready
     function()
     {
         // reset options to the default state on page load
-        $("#difficulty").val("hard").trigger('change');
-        // $('#player_is_attacking').prop("checked", true);
-        $('#player_strength').val(0);
-        $('#player_magic').val(0);
-        $('#player_endurance').val(0);
-        $('#player_agility').val(0);
-        $('#player_luck').val(0);
+        // $("#difficulty").val("hard").trigger('change');
 
-        $('#archetype_other').prop("checked", true);
+        // $('#player_strength').val(0);
+        // $('#player_magic').val(0);
+        // $('#player_endurance').val(0);
+        // $('#player_agility').val(0);
+        // $('#player_luck').val(0);
 
-        $('#player_front_row').prop("checked", true);
-        $("#attack_multiplier").val("1.0").trigger('change');
-        $("#suku_multiplier").val("1.0").trigger('change');
-        $('#player_focus_no').prop("checked", true);
-        $('#player_attacks_normal').prop("checked", true);
+        // $('#archetype_other').prop("checked", true);
 
-        $("#kinship").val("1.0").trigger('change');
-        $("#ironclad").val("1.0").trigger('change');
+        // $('#player_front_row').prop("checked", true);
+        // $("#attack_multiplier").val("1.0").trigger('change');
+        // $("#suku_multiplier").val("1.0").trigger('change');
+        // $('#player_focus_no').prop("checked", true);
+        // $('#player_attacks_normal').prop("checked", true);
+
+        // $("#kinship").val("1.0").trigger('change');
+        // $("#ironclad").val("1.0").trigger('change');
         
-        $("#enemy_defense_multiplier").val("1.0").trigger('change');
-        $("#enemy_suku_multiplier").val("1.0").trigger('change');
+        // $("#enemy_defense_multiplier").val("1.0").trigger('change');
+        // $("#enemy_suku_multiplier").val("1.0").trigger('change');
 
         // populate drop downs
         for (var i = 1; i < 100; i++)
@@ -1495,15 +1495,26 @@ $(document).ready
             }
         );
 
-        $("body").on("change", "input[type='radio'][name='player_focus_multiplier']", function()
-        {
-            calculate_damage();
-        });
-
         $("body").on("change", "input[type='radio'][name='attack_modifier']", function()
         {
             calculate_damage();
         });
+
+        $('#player_focus_multiplier').change
+        (
+            function()
+            {
+                calculate_damage();
+            }
+        );
+
+        $('#player_critical').change
+        (
+            function()
+            {
+                calculate_damage();
+            }
+        );
 
         $('#kinship').change
         (
@@ -1549,19 +1560,19 @@ $(document).ready
         {
             var magic = $('#player_magic').val();
 
-            if (magic > 90)
+            if (magic >= 90)
                 return 30;
             
-            else if (magic > 70)
+            else if (magic >= 70)
                 return 20;
 
-            else if (magic > 50)
+            else if (magic >= 50)
                 return 15;
 
-            else if (magic > 30)
+            else if (magic >= 30)
                 return 10;
 
-            else if (magic > 10)
+            else if (magic >= 10)
                 return 5;
 
             return 0;
@@ -1650,10 +1661,10 @@ $(document).ready
             var kinship = $('#kinship').val();
             var archetype_modifier = $("input[type='radio'][name='archetype_modifier']:checked").val();
             var weapon = weapons[$("#weapon").prop('selectedIndex')];
-            var true_weapon_attack = weapon.attack * archetype_modifier * kinship;
+            var true_weapon_attack = Math.floor(weapon.attack * archetype_modifier * kinship);
 
             $('#player_weapon_attack').empty();
-            $('#player_weapon_attack').append(weapon.attack + " x " + archetype_modifier + " x " + kinship + " = <b>" + true_weapon_attack + "</b>");
+            $('#player_weapon_attack').append("floor(" + weapon.attack + " x " + archetype_modifier + ") x " + kinship + " = <b>" + true_weapon_attack + "</b>");
 
             var true_attack;
             var skill = skills[$("#attack").prop('selectedIndex')];
@@ -1686,6 +1697,7 @@ $(document).ready
             $('#player_armor_defense').empty();
             $('#player_armor_defense').append("(" + armor.defense + " + " + gear.defense + ") x " + ironclad + " = <b>" + true_armor_defense + "</b>");
 
+            
             var stat_multiplier;
             var offense_correction;
             var offense;
@@ -1711,14 +1723,17 @@ $(document).ready
                 offense = magic;
             }
 
+            var intitial_power = Math.max(true_attack - 0.5 * enemy.defense, 10);
+            $('#player_initial_power').empty();
+            $('#player_initial_power').append("Math.max(" + true_attack + " - 0.5 x " + enemy.defense + ", 10) = <b>" + intitial_power + "</b>");
+
             stat_multiplier = (offense_correction * offense - 0.5 * enemy.endurance) * 0.01 + 1;
             $('#player_stat_multiplier').empty();
             $('#player_stat_multiplier').append("((" + offense_correction + " x " + offense + ") - (0.5 x " + enemy.endurance + ")) x 0.01 + 1 = <b>" + stat_multiplier + "</b>");
 
-            var raw_damage = (true_attack - 0.5 * enemy.defense) * stat_multiplier;
-
+            var raw_damage = intitial_power * stat_multiplier;
             $('#raw_damage').empty();
-            $('#raw_damage').append("(" + true_attack + " - 0.5 x " + enemy.defense + ") x " + stat_multiplier + " = <b>" + raw_damage + "</b>");
+            $('#raw_damage').append(intitial_power + " x " + stat_multiplier + " = <b>" + raw_damage + "</b>");
 
             var weakness_correction;
 
@@ -1797,14 +1812,14 @@ $(document).ready
                 weakness_correction = 1.5;
             }
 
-            if (attack_modifier == "crit")
+            // hide critical option if the enemy is weak to this attack
+            if (weakness_correction > 1.0)
             {
-                weakness_correction = 1.5;
-
-                if (accessory.name == "Gamblers' Manual")
-                {
-                    weakness_correction = 3.0;
-                }
+                $('#row_player_critical').addClass('hidden');
+            }
+            else
+            {
+                $('#row_player_critical').removeClass('hidden');
             }
 
             $('#weakness_correction').empty();
@@ -1846,7 +1861,6 @@ $(document).ready
                 }
             }
 
-
             $('#level_correction').empty();
             $('#level_correction').append(Number(level_correction).toFixed(2));
 
@@ -1869,7 +1883,7 @@ $(document).ready
 
             var multi_hit_correction = 1.0; // TODO: implement multihit stuff
 
-            var base_damage = (raw_damage * weakness_correction * level_correction * row_correction) / multi_hit_correction;
+            var base_damage = Math.floor(Math.floor(raw_damage * weakness_correction * level_correction * row_correction) / multi_hit_correction);
 
             if (base_damage < 1)
             {
@@ -1877,7 +1891,7 @@ $(document).ready
             }
 
             $('#base_damage').empty();
-            $('#base_damage').append(Math.floor(base_damage));
+            $('#base_damage').append(base_damage);
 
             var difficulty_multipliers = [2.0, 1.5, 1.0, 0.8, 0.8];
             var difficulty_multiplier = difficulty_multipliers[$("#difficulty").prop('selectedIndex')];
@@ -1887,7 +1901,18 @@ $(document).ready
 
             var attack_multiplier = $('#attack_multiplier').val();
             var defense_multiplier = $('#enemy_defense_multiplier').val();
-            var focus_multiplier = $("input[type='radio'][name='player_focus_multiplier']:checked").val();
+
+            var focus = $('#player_focus_multiplier').is(":checked");
+            var focus_multiplier = 1.0;
+            if (focus)
+            {
+                focus_multiplier = 2.25;
+            }
+
+            if ($('player_focus_multiplier:checked').val())
+            {
+                console.log("test");
+            }
 
             var buff_multiplier = attack_multiplier * defense_multiplier * focus_multiplier;
 
@@ -2075,7 +2100,20 @@ $(document).ready
             $('#damage_multiplier').empty();
             $('#damage_multiplier').append(Number(additive_multiplier * multiplicative).toFixed(2));
 
-            var average_damage = base_damage * difficulty_multiplier * buff_multiplier * additive_multiplier * multiplicative;
+            var crit = $('#player_critical').is(":checked");
+            var crit_multiplier = 1.0
+
+            if (weakness_correction <= 1.0 && crit)
+            {
+                crit_multiplier = 1.5;
+
+                if (accessory.name == "Gamblers' Manual")
+                {
+                    crit_multiplier = 3.0;
+                }
+            }
+
+            var average_damage = Math.floor(base_damage * crit_multiplier * difficulty_multiplier * buff_multiplier * additive_multiplier * multiplicative);
 
             if (average_damage >= 99999)
             {
@@ -2109,13 +2147,13 @@ $(document).ready
 
             // accuracy
             var agility = $('#player_agility').val();
-            var base_accuracy = (1 + agility / 400 - enemy.agility / 800) * (skill.accuracy - enemy.evasion);
+            var base_accuracy = Math.floor((1 + agility / 400 - enemy.agility / 800) * (skill.accuracy - enemy.evasion));
 
             var player_suku = $('#suku_multiplier').val();
             var enemy_suku = $('#enemy_suku_multiplier').val();
             var sukukaja_multiplier = player_suku * enemy_suku;
 
-            var final_accuracy = base_accuracy * sukukaja_multiplier;
+            var final_accuracy = Math.floor(base_accuracy * sukukaja_multiplier);
 
             if (final_accuracy > 99)
             {

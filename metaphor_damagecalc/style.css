@@ -85,3 +85,6 @@
     width: 70px;
 }
 
+.hidden {
+	display: none;
+}

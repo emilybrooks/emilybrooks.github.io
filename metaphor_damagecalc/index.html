@@ -153,17 +153,6 @@
     </tr>
 
     <tr>
-        <td class="option_name">Charge/Hyper:</td>
-        <td>
-            <input type="radio" name="player_focus_multiplier" id="player_focus_yes" value="2.25">
-            <label for="focus_yes">Yes (x2.25)</label>
-
-            <input type="radio" name="player_focus_multiplier" id="player_focus_no" value="1.0">
-            <label for="focus_no">No (x1.0)</label>
-        </td>
-    </tr>
-
-    <tr>
         <td class="option_name">Attack Modifier:</td>
         <td>
             <input type="radio" name="attack_modifier" id="player_attacks_normal" value="normal">
@@ -171,9 +160,20 @@
 
             <input type="radio" name="attack_modifier" id="player_attacks_weak" value="weak">
             <label for="player_attacks_weak">Override Weakness</label>
+        </td>
+    </tr>
 
-            <input type="radio" name="attack_modifier" id="player_attacks_crit" value="crit">
-            <label for="player_attacks_crit">Critical</label>
+    <tr id="row_player_critical">
+        <td class="option_name">Critical:</td>
+        <td>
+            <input type="checkbox" id="player_critical" value="on">
+        </td>
+    </tr>
+
+    <tr>
+        <td class="option_name">Charge/Hyper:</td>
+        <td>
+            <input type="checkbox" id="player_focus_multiplier">
         </td>
     </tr>
 
@@ -351,15 +351,20 @@
             <td id="player_armor_defense"></td>
         </tr>
 
-        <!-- <tr>
-            <td class="option_name">Your Stat Multiplier:</td>
-            <td id="player_stat_multiplier"></td>
-        </tr> -->
+        <tr>
+            <td class="option_name">Initial Power:</td>
+            <td id="player_initial_power"></td>
+        </tr>
 
-        <!-- <tr>
+        <tr>
+            <td class="option_name">Stat Multiplier:</td>
+            <td id="player_stat_multiplier"></td>
+        </tr>
+
+        <tr>
             <td class="option_name">Raw Damage:</td>
             <td id="raw_damage"></td>
-        </tr> -->
+        </tr>
 
         <!-- <tr>
             <td class="option_name">Weakness Correction:</td>
