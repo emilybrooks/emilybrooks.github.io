@@ -126,7 +126,7 @@ There are a couple of standalone .dbx files, but a ton of them are bundled toget
 
 The most interesting one is the first one, PID_ELAICE=saf2. saf2 is folder name for Ilyana's sage model! I immediately overwrote saf2 with mgf1, her mage model folder name and tested in game:
 
-<video controls>
+<video controls style="max-width: 100%;">
     <source src="/projects/assets/fe9patcher/ilyana_battle.webm" />
 </video>
 
@@ -159,7 +159,7 @@ There is a reason why Ilyana uses Calill's model. Unlike later Fire Emblem games
 If the map model doesn't have the right animation, it will try to play a different one as a fallback:
 
 <p class="fs-2">
-<video controls>
+<video controls style="max-width: 100%;">
     <source src="/projects/assets/fe9patcher/shove_heal.webm" />
 </video>
 <br>
@@ -213,7 +213,7 @@ I also replaced Calill with Sanaki:
 
 This was a little more involved. Leanne is a dancer and lacks the ability to attack, so I didn't need to worry about this with her, but Sanaki needs attack animations to function. She has a map model used in cutscenes, `ymu/sa_chibi`, but these lack battle animations. However, there is an unused map model for Sanaki, `ymu/sa_deka`, which does have battle animations left over!
 
-<video controls>
+<video controls style="max-width: 100%;">
     <source src="/projects/assets/fe9patcher/sanaki_map_animation.webm" />
 </video>
 
