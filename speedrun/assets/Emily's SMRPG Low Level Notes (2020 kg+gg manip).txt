@@ -1,0 +1,1778 @@
+Changelog:
+- Fixed some typos, expanded some of the notes that were confusing
+- Added the rock candy freebie manip in kg+gg that any% has been using for a while now.
+- You now get 2 fearless pins in rose town to make bundt free
+
+Thanks to DatXFire for figuring all this stuff out.
+
+Low Level Datasheet:
+https://docs.google.com/spreadsheets/d/1nyP7MLqDtlEKgD5qBKzlRFawLgwwcckZqL5_ArNd-nU
+
+KirkQ's rock candy probability testing:
+https://docs.google.com/spreadsheets/d/19FVw99pAVKN9s2bS_30uJjJLnW8bncIeFiZ4Tc6tRHw
+
+Abandon hope, all ye who enter here.
+
+	-- Bowser's Keep --
+
+===================================================
+Terapins 10 HP each
+Mario: None
+===================================================
+Mario: attack, then jump 3 times
+
+Notes: Attacks can be untimed
+
+===================================================
+Bowser
+Mario: None
+===================================================
+Mario: jump on kinklink twice
+
+Notes: Attacks can be untimed
+
+	-- Mario's Pad --
+
+Talk to toad 
+Leave the screen (the save tutorial is faster on jp)
+
+	-- Bowser's Keep --
+	
+Cutscene
+
+	-- Mushroom Way --
+
+Talk to toad in mario's house
+Leave the screen
+Second option for both text prompts
+
+Note: Safety save now if you expect to die to hammer bros
+
+	-- Mushroom Way --
+
+Flower on 2nd screen
+
+===================================================
+Hammer Bros. 50 HP each
+Mario: None
+===================================================
+Jump on left
+Jump on right
+Attack left
+Jump right
+
+Notes:
+When one is defeated, the other will use valor up
+If you timed the first 2 jumps correctly, untime the rest of the fight
+
+	-- Mushroom Kingdom --
+	
+Item shop
+2 flowers in basement
+	- one above the toad's head
+	- leave the room
+	- jump on the toad's head as he walks around, then jump to the chest in the right corner of the room
+Sell:
+		4 Mushrooms キノコ
+		1 Flower Jar フラワーセット
+Buy:
+		5 Honey Syrups ハニーシロップ
+		6 Pick Me Ups ふっかつドリンク
+		5 Able Juices リフレッシュジュース
+		1 Shirt ふつうのつなぎ
+		1 Jump Shoes かいてんシューズ
+Equip:
+Mario:
+		Hammer ハンマー
+		Shirt ふつうのつなぎ
+		Jump Shoes かいてんシューズ
+		
+Notes:
+Equipping here skips a tutorial when you talk to the chancellor
+
+Frog coin in castle
+- If you miss this one you can get a backup later in midas river
+First option for mallow text prompts
+
+Chancellor Cutscene
+- hold downleft while mashing text
+
+Talk to mallow
+- remember to press b to jump
+Camera manip when walking to the exit
+
+	-- Bandit's Way --
+
+KeroKeroCola on 2nd screen
+Do not get the star
+
+===================================================
+Croco 320 HP
+Mario: Hammer, Shirt, Jump Shoes
+Mallow: None
+===================================================
+Mario: jump 10 times
+Mallow: honey syrup after the 3rd and 6th jump
+
+Notes: 
+This fight has more jumps than the any% fight because mario's still level 1
+Revive with pick me ups if someone dies
+Croco will use a weird mushroom after the 6th jump
+Bombs cannot be blocked
+
+Safety save now if you expect to fail mack skip
+
+	-- Mushroom Kingdom --
+
+Mack Skip
+Exit left side of mushroom kindgom
+
+	-- Kero Sewers --
+
+Flower in pandorite room
+- Backtrack through the same pipe you entered
+Lower the water
+Hit mushroom chest before belome
+
+===================================================
+Belome 500 HP
+Mario: Hammer, Shirt, Jump Shoes
+Mallow: None
+===================================================
+Mario: Jump every turn
+Mallow:
+Turn 3 honey syrup
+After getting spit out use honey syrup
+Three jumps after that use honey syrup
+Otherwise defend
+
+Notes:
+Use an able juice if belome uses sleep sauce
+If mallow is asleep turn 3, defend with mario and skip the honey syrup
+
+Level up:
+		Mario: HP
+		Mallow: HP
+
+	-- Midas River --
+
+Note: if you missed the frog coin in mushroom castle, go in the tunnel to get the backup coin	
+
+Say no to the tutorials
+4 frog coins from water fall
+1 frog coin from collecting 60 coins
+Bottom path for the barrels
+
+	-- Tadpole Pond --
+
+Cutscene 
+- remember to press b to jump
+- say no to frogfucious
+Frog coin emporium (left tadpole)
+Buy:
+		1 Bracer カタクナール (1 total)
+		1 Energizer ツヨクナール (1 total)
+
+	-- Rose Way --
+
+Flower on 1st screen
+Try to grab the coins while on the moving platforms
+Hit each coin box once
+
+	-- Rose Town --
+
+Flower from item shop chimney
+Frog coin in item shop
+
+Pink toad
+Sell:
+		1 Flower Tab フラワーカプセル
+		1 Wallet サイフ
+Buy:
+		1 Trueform Pin へんしんふせぎ
+		2 Fearless Pins きょうふふせぎバッジ
+		
+Blue toad
+Buy:
+		Pick Me Ups ふっかつドリンク
+		(you should have 6 total)
+		
+2 flowers in elevated house
+Frog coin upstairs
+2nd option for text prompt in geno cutscene
+Return to the inn and stay the night
+Talk to toad for a flower tab
+
+	-- Forest Maze --
+
+KeroKeroCola 1st screen
+Frog coin 4th screen
+KeroKeroCola behind wiggler
+Red essence before forest maze
+
+Secret Area:
+top left
+bot left
+bot left
+top left
+
+Get all items, hit chest on left last
+(frog coin, 3 flowers, mushroom)
+
+bottom left to reset maze
+
+To boywer:
+bot right
+top right
+top right
+bot right
+top right
+top left
+
+===================================================
+Bowyer 720 HP
+Mario: Hammer, Shirt, Jump Shoes
+Mallow: None
+Geno: None
+===================================================
+Geno Beam
+Bracer Geno
+Energizer Geno
+
+Rest of fight:
+Geno: Geno beam until out of fp, then attack
+Mario and Mallow: Defend
+
+Notes:
+If geno is put to sleep, have mallow use an able juice on him
+
+Bowyer’s button locks is based on which attack menu you use
+
+A menu is +4
+Y menu is +2
+X menu is +0
+B menu is +0
+
+0-5 locks the X menu
+6-15 locks the Y menu
+16+ locks the A menu
+
+Level up:
+		Mario: HP
+
+	-- Tadpole Pond --
+
+Frog coin emporium (left tadpole)
+Buy:
+		1 Crystalline ミンナカタクナール (1 total)
+
+	-- Moleville --
+
+Item shop
+Sell:
+		2 KeroKeroColas ケロケロドリンク
+
+Buy:
+		1 Punch Glove パンチグローブ
+		1 Finger Shot フィンガーショット
+		1 Cymbals シンバル
+		3 Work Pants ばっちいパンツ
+Equip:
+Mario:
+		Punch Glove パンチグローブ
+		Work Pants ばっちいパンツ
+Mallow:
+		Cymbals シンバル
+		Work Pants ばっちいパンツ
+		Fearless Pin きょうふふせぎバッジ
+Geno:
+		Finger Shot フィンガーショット
+		Work Pants ばっちいパンツ
+		Fearless Pin きょうふふせぎバッジ
+
+Notes: don't equip noknok shell by accident
+
+	--	Moleville Mines --
+
+1st option for both text prompts
+Jump on the springboard
+Chase croco
+
+===================================================
+Croco 2 750 HP
+Mario: Punch Glove, Work Pants, Jump Shoes
+Mallow: Cymbals, Work Pants, Fearless Pin
+Geno: Finger Shot, Work Pants, Fearless Pin
+===================================================
+Geno: Attack
+Mario: Jump
+Mallow: Attack
+
+Notes:
+Revive with pick me ups if anyone dies before items are stolen
+25% chance of a flower box drop
+
+Blow up the wall
+Frog coin from shy guy minecart
+150 coins from chest
+Flower before punchinello
+
+===================================================
+Punchinello 1200 HP
+Mario: Punch Glove, Work Pants, Jump Shoes
+Mallow: Cymbals, Work Pants, Fearless Pin
+Geno: Finger Shot, Work Pants, Fearless Pin
+===================================================
+Mario: Jump, attack when out of fp
+Mallow and Geno: Attack
+
+Notes: 
+Revive with pick me ups if bad
+If sandstorm is used, have mario use an able juice on himself
+
+Minecart minigame
+- say no to the tutorial
+
+	-- Moleville --
+
+Item shop
+Buy the lucky jewel from the toad
+
+	-- Booster's Pass --
+
+Frog coin from 2nd bush
+Rock Candy 1st screen
+
+	-- Booster's Tower --
+
+Talk to the door
+Walk backwards
+Say no to the swap tutorial
+
+Frog coin 2nd screen
+Flower tab 3rd screen
+Hit green switch to open booster's pass secret
+2 frog coins in snifit room
+
+Checkerboard room:
+- 4 frog coins
+- Key
+- Open locked door
+- Zoom shoes
+
+Amulet from curtain minigame
+
+Open the item menu (so your item menu is sorted)
+
+Switch:
+		Mallow→Bowser
+Equip:
+Mario:
+		Amulet ブッキーのおまもり
+
+Armor Bowser→Geno
+Acc. Mallow→Bowser
+Armor Geno→Mallow
+
+Goodie bag in save room
+Frog coin in save room
+Jump on the save box at the peak of it's oscillation
+- I wait to see when it starts moving up, then jump on it
+Save
+Soft reset
+KG+GG manip
+
+===================================================
+Knife Guy 700 HP & Grate Guy 900 HP Luck 1/6
+Mario: Punch Glove, Work Pants, Amulet
+Bowser: None, Work Pants, Fearless Pin
+Geno: Finger Shot, Work Pants, Fearless Pin
+===================================================
+Geno Timed Attack Knife Guy
+Bowser Terrorize (hits both)
+Mario Rock Candy こんぺいとう (freebie)
+
+Geno Rock Candy こんぺいとう
+Bowser untimed attack Knife Guy
+--knife guy dies--
+Mario Lucky Jewel ラッキージュエル
+
+Rest of fight:
+(able juice/revive as needed)
+Geno Attack
+Bowser Attack
+Mario Jump
+
+	-- Booster's Hill --
+	
+say no to the tutorial
+
+You need 8 flowers from this minigame, 30 total for jump farming
+Backup flowers (grab before jump farming if you're short on flowers):
+Flower in booster's pass secret
+Flower on bush on top of booster's pass secret entrance
+Flower in booster's pass second screen
+Flower in pipe vault
+Flower in mushroom castle basement 
+
+	-- Marrymore --
+
+Talk to the yellow toad near the front of the church
+Sneak in the back
+Open the door with the snifit
+leave the room
+Save before bundt
+
+===================================================
+Bundt Luck 1/3
+Mario: Punch Glove, Work Pants, Amulet
+Bowser: None, Work Pants, Fearless Pin
+Geno: Finger Shot, Work Pants, Fearless Pin
+===================================================
+
+************************
+Phase 1 900 HP
+************************
+G Attack (timed is 138+ damage)
+B Attack (170)
+M Attack (120+)
+--chef attacks--
+G Attack
+B Attack
+M Jump (timed attack if the cake hasn't shaken yet)
+--chef attacks--
+G Lucky Jewel ラッキージュエル
+B Crystalline ミンナカタクナール
+M Red Essence レッドヨッシーエキス on Mario
+--chef attacks--
+G Attack (phase 2 starts)
+
+************************
+Phase 2
+************************
+Untimed attacks
+
+************************
+Phase 3 600 HP
+************************
+Repeat until bundt dies:
+Geno: Attack
+Bowser: Attack
+Mario: Jump
+
+Notes:
+Able juice on bowser/geno if they are slept
+Revive bowser/geno with pick me ups
+It's important to correctly time attacks for phase 1
+It's important to block the chef attacks
+The cake shakes in phase 1 when it's under 200 hp
+All pick me ups and able juices can be used here
+
+	-- Mushroom Kingdom --
+
+Cricket pie from item store
+
+Sell to make room for yoshi cookies
+
+You should absolutely keep:
+		1 KeroKeroCola ケロケロドリンク
+		Goodie bag ふくぶくろ
+		Lucky Jewel ラッキージュエル
+
+Your inventory can only have 7 items in it, 9 if you got the croco flower box
+Sell in this order until you have enough room:
+		All honey syrups ハニーシロップ
+		All pick me ups ふっかつドリンク
+		All able juices リフレッシュジュース
+		Flower tabs フラワーカプセル
+		Rock candy こんぺいとう
+		Crystalline ミンナカタクナール
+		Fire bomb かえんだま
+
+Go to the throne room
+Talk to peach
+Exit left side
+
+	-- Pipe Vault --
+
+Note: skip the minigame if you got the croco flower box
+Play minigame twice to get flower tab and flower jar
+(score 20 points, then 22)
+
+	-- Yo'ster Isle --
+
+Frog coin behind save block
+Get on yoshi
+3 cookies from pink yoshi
+Race boshi
+- say no to the tutorial
+
+Feed 27 cookies to baby yoshi
+- trade the 3 you have to baby yoshi
+- get three cookies from the pink yoshi
+- trade to baby yoshi
+- do this a total of 9 times
+
+Race until you have at least 125 cookies in storage
+- save before every race
+- reset when the odds are 1.5
+- bet 10 cookies each race
+
+Trade baby yoshi 20 cookies for a red essence
+
+	-- Tadpole Pond --
+
+Talk to frogfucious twice to open star hill
+Frog coin emporium (left tadpole)
+Buy:
+		2 Sleepy Bombs ねむりだま (2 total)
+		1 Power Blast ミンナツヨクナール (1 total)
+
+	-- Moleville --
+
+Item shop
+Buy:
+		15 Maple Syrups メイプルシロップ
+		1 Mid Mushroom スーパーキノコ
+Switch:
+		Bowser→Mallow
+Equip:
+		Unequip everything on mario
+		Unequip everything on mallow
+		Unequip everything on geno
+
+	-- Booster's Pass --
+
+Booster's pass secret
+Die to apprentice snifit
+- untimed attacks with everyone until dead
+
+Equip:
+Mario:
+		Work Pants ばっちいパンツ
+Special:
+Mallow:
+		HP Rain かいふくシャワー
+
+Fight red spiny
+
+===================================================
+Jump Farming
+===================================================
+Kill bottom enemy
+Let everyone except mario die
+Jump until out of fp, then use maple syrup
+Jump 200 times (19 maple syrups)
+Run away
+
+Notes: If mario is low on hp use the mushroom to heal
+
+Switch:
+		Mallow→Bowser
+		Geno→Peach
+
+Flower, frog coin, and kerokerocola from chests
+
+	-- Moleville --
+
+Sleep at inn to heal
+
+	-- Star Hill --
+
+Muku
+
+	-- Seaside Town --
+
+Talk to fake elder
+Item shop (bottom door)
+
+Sell:
+Get to 800 coins
+
+Things you can sell:
+		(start with less valuable items to free up inventory space)
+		Maple syrups メイプルシロップ
+		Mid mushroom スーパーキノコ
+		Flower tabs フラワーカプセル
+		KeroKeroColas ケロケロドリンク
+		Rock candies こんぺいとう
+		Flower jars フラワーセット
+		Flower boxes フラワーギフト
+
+Buy:
+		4 Fire Bombs かえんだま (4 total)
+
+Sell:
+		less valuable items to make room for yoshi cookies (flower tabs, kerokerocolas)
+		do not go over 480 coins
+
+!!! do not forget to get  yoshi cookies you moron !!!
+
+	-- Yo'ster Isle --
+
+Fill inventory with yoshi cookies
+
+	-- Sea --
+
+Shaman shop
+Buy:
+		Nautica Dress セーラードレス
+Equip:
+Mario:
+		Amulet ブッキーのおまもり
+Acc. Bowser→Peach
+Peach:
+		Equip Zoom Shoes シュビビンシューズ
+		Equip Nautica Dress セーラードレス
+		Unequip Slap Glove ビンタグローブ
+
+	-- Sunken Ship --
+
+Open door to king calamari
+Save before king calamari
+
+===================================================
+King Calamari 800 HP Luck 1/6
+Mario: None, Work Pants, Amulet
+Bowser: None, Work Pants, None
+Peach: None, Nautica Dress, Zoom Shoes
+===================================================
+P Power Blast ミンナツヨクナール
+B Fire Bomb かえんだま
+--first tentacle dies--
+M Fire Bomb かえんだま
+--second tentacles die--
+Rest of fight:
+Mario: Jump twice
+Peach: Fire bomb かえんだま, then defend
+Bowser: Lucky jewel ラッキージュエル, then defend
+
+Notes:
+If mario dies revive with pick me ups ふっかつドリンク
+Using a fire bomb freebie instead of jumping the second time is an option
+
+KeroKeroCola in mirror room
+Equip:
+Mario:
+		Unequip Amulet ブッキーのおまもり
+		(lets mario attack before bandanas)
+
+Save before bandanas
+Safety ring behind barrels
+
+===================================================
+Bandanas(1) 120 HP each
+===================================================
+Use yoshi cookies ヨッシーのクッキー until 1 bandana is left
+(the last one will run away)
+
+Notes: don't use yoshi candies or energizers by mistake
+
+===================================================
+Bandanas(2) 120 HP each
+===================================================
+Sleepy Bomb ねむりだま
+Use yoshi cookies ヨッシーのクッキー until 1 bandana is left
+(the last one will run away)
+
+Notes: don't use yoshi candies or energizers by mistake
+
+Backtrack
+4 frog coins underwater
+200 coins next to mirror room
+160 coins in puzzle room
+100 coins in rat room
+
+	-- Moleville --
+
+Trade all energizers for 1 ice bomb こおりだま
+
+	-- Seaside Town --
+
+Item shop
+
+Items you can sell:
+KeroKeroColas ケロケロドリンク
+Fire bombs かえんだま
+Flower tabs フラワーカプセル
+Flower jars フラワーセット
+Flower boxes フラワーギフト
+Goodie bag ふくぶくろ
+Yoshi candies ヨッシーキャンディー
+
+Equipment you can sell:
+Hammer ハンマー
+Froggie stick ケロケロのつえ
+NokNok shell ノコノコこうら
+Punch glove パンチグローブ
+Finger shot フィンガーショット
+Cymbals シンバル
+Slap glove ビンタグローブ
+Shirt ふつうのつなぎ
+Polka dress ラブラブドレス
+Fearless Pins きょうふふせぎバッジ
+
+Buy:
+		1 Bad Mushroom どくキノコ
+		1 Fright Bomb びびりだま
+		3 Ice Bombs こおりだま
+Sell:
+		850+ coins
+Buy:
+		1 Fright Bomb びびりだま
+		3 Ice Bombs こおりだま
+Sell:
+		As much as you can before 999 coins
+Buy:
+		1 Ice Bomb こおりだま
+		As many fright bombs as you can
+Sell:
+		Remaining items
+Buy:
+		As many fright bombs as you can
+Equip:
+Mario:
+		Amulet ブッキーのおまもり
+
+Notes:
+8 total ice bombs needed
+6 total fright bombs needed, 11 optimal
+you can get more in land's end
+
+	-- Sunken Ship --
+
+Save before johnny
+
+===================================================
+Johnny 820 HP Luck 1/6
+Mario: None, Work Pants, Amulet
+Bowser: None, Work Pants, None
+Peach: None, Nautica Dress, Zoom Shoes
+===================================================
+P Sleepy Bomb ねむりだま
+B Fright Bomb びびりだま
+M Jump
+
+P Lucky Jewel ラッキージュエル
+B Attack
+M Jump
+--get tough--
+P Fright Bomb びびりだま
+B Defend
+M Jump
+
+Rest of fight:
+Mario: Jump
+Bowser and Peach: Defend
+
+Notes:
+Johnny uses get tough after his hp drops below 400
+He will one on one mario when his turn comes and these following conditions are met:
+1. Mario is alive.
+2. No bandana blues are alive.
+3. Johnny used get tough
+
+Equip:
+Mario:
+		Jump Shoes かいてんシューズ
+Acc. Bowser→Peach
+Peach:
+		Safety Ring セーフティーリング
+
+	-- Tadpole Pond --
+
+Buy:
+		1 Crystalline ミンナカタクナール (1 total)
+		1 Power Blast ミンナツヨクナール (1 total)
+		1 Froggie Drink オタマドリンク (1 total)
+
+	-- Seaside Town --
+
+Save at the inn before yaridovich
+
+===================================================
+Yaridovich 1500 HP Luck 1/6
+Mario: None, Work Pants, Jump Shoes
+Bowser: None, Work Pants, Zoom Shoes
+Peach: None, Nautica Dress, Safety Ring
+===================================================
+B Power Blast ミンナツヨクナール
+P Crystalline ミンナカタクナール
+M Red Essence レッドヨッシーエキス on Mario
+--water blast--
+B Lucky Jewel ラッキージュエル
+P Froggie Drink オタマドリンク
+M Jump
+--yaridovich attack--
+B Bad Mushroom どくキノコ
+P Fright Bomb びびりだま
+M Jump
+--yaridovich attack--
+B Fright Bomb びびりだま
+P Fright Bomb びびりだま
+M Jump
+--yaridovich attack--
+B Fright Bomb びびりだま
+P Defend
+M Jump
+
+Notes:
+The cursor will always be on the real yaridovich after mirage attack
+
+Shed key
+Flower box from freeing the townsfolk
+Talk to elder
+Item shop (middle door pink toad)
+Buy:
+		Hammer ハンマー
+Sell:
+		Flower Box フラワーギフト
+		(check how many fright bombs you have, 5 is enough)
+
+Notes: It has the same name as the other hammer but this is the lucky hammer
+
+	-- Marrymore --
+
+Item shop (top option)
+Buy:
+		B'tub Ring ラブラブリング
+Equip:
+Mario:
+		Hammer ハンマー
+Peach
+		B’Tub Ring ラブラブリング
+
+	-- Moleville --
+
+Item shop
+Buy mystery egg from toad
+
+	-- Bandit's Way --
+
+Encounter goomba
+Kill all but one enemy
+Use mystery egg ふしぎなたまご with peach 10 times to turn it into lamb's lure
+Run away
+
+	-- Land's End --
+	
+Notes: using a yoshi cookie on chows will morph them into a fright bomb.
+if you were short on fright bombs, this is the place to get them
+if you don't have enough cookies in your inventory, 
+you should visit yo’ster island and grab more, plus 1-2 extras to be safe
+
+Red essence on 1st screen
+Pit with chows (fright bombs available)
+Save before desert whirlpools (can softlock)
+Use lamb's lure ひつじのゆうわく on each set of armored ants
+Use lamb's lure ひつじのゆうわく on 2 chows in front of door(2 fright bombs available)
+Pay 100 coins to trampoline shaman
+Talk to fortune teller and hit left, middle, right statues
+Hit belome tongue 15 times
+Backtrack to trampoline and use it
+Go back down quicksand and save for belome
+
+===================================================
+Belome 2 1200 HP Luck 1/6
+Mario: Hammer, Work Pants, Jump Shoes
+Bowser: None, Work Pants, Zoom Shoes
+Peach, None, Nautica Dress, B’tub Ring
+===================================================
+B Fright Bomb びびりだま
+M Lucky Hammer
+P Defend
+--clone--
+B Ice Bomb こおりだま
+M Jump
+P Defend
+--clone--
+B Ice Bomb こおりだま
+M Jump
+P Ice Bomb こおりだま
+
+Notes:
+The lucky hammer must be timed in every fight it’s used
+
+	-- Monstro Town --
+
+Talk to star upstairs
+Talk to monstermama
+Talk to thwomp 7 times
+Temple key outside
+
+	-- Belome Temple --
+
+Message for belome secret:
+Sorry, I’m not accepting visitors
+past my bedtime.
+ん～、もう　ねるじかんなんだから
+じゃましないで　ほしいんだな～。
+
+Grab everything in belome secret
+Backtrack to land's end
+	2 frog coins
+	100 coin chest
+	50 coin chest
+
+	-- Land's End --
+
+Troopa pin from sky troopa minigame
+Farm for frog coins until you have 75 total
+Backups if you're 1-2 short:
+Frog coin in nimbus land shop
+Frog coin in marrymore inn
+
+	-- Tadpole Pond --
+
+Frog coin emporium (left tadpole)
+Buy:
+		1 Crystalline ミンナカタクナール (1 total)
+		1 Power Blast ミンナツヨクナール (1 total)
+
+	-- Moleville --
+
+Check ice bomb count, you need 7 total
+Trade royal syrup, max mushroom, and buy mid mushrooms to trade if you need additional ice bombs
+
+	-- Seaside Town --
+
+Frog disciple in elder's house
+Buy:
+		1 See Ya さよならはとつぜんに
+Mole shop
+Buy:
+		3 Pick Me Ups ふっかつドリンク
+Equip:
+Mario:
+		Amulet ブッキーのおまもり
+Bowser:
+		Trueform Pin へんしんふせぎ
+Peach:
+		Safety Ring セーフティーリング
+
+	-- Bean Valley --
+
+Save before megasmilax
+
+===================================================
+Megasmilax 1000 HP Luck 1/3
+Mario: Hammer, Work Pants, Amulet
+Bowser: None, Work Pants, Trueform Pin
+Peach, None, Nautica Dress, Safety Ring
+===================================================
+
+************************
+1 smilax phase
+************************
+P Crystalline ミンナカタクナール
+B Power Blast ミンナツヨクナール
+M Lucky Hammer
+--smilax attack--
+P Therapy if anyone was attacked or put to sleep, or defend
+B Defend
+M Jump
+
+************************
+2 smilax phase
+************************
+(if anyone is asleep you should group hug and defend with bowser and mario to reset turn order)
+P Ice Bomb こおりだま
+
+************************
+3 smilax phase
+************************
+B Ice Bomb こおりだま
+
+************************
+megasmilax phase
+************************
+M Ice Bomb
+--petal blast, mario dies--
+P Pick Me Up ふっかつドリンク on Mario
+B Ice Bomb こおりだま
+M Jump
+--megasmilax attack--
+P Defend
+B Attack
+(If bowser died you can jump with mario instead)
+
+--
+
+Seed
+Yellow vine 2nd screen
+Green vine 3rd screen
+Rare scarf
+Frog coin next to rare scarf
+Jump on spring to exit to overworld
+
+	--	Tadpole Pond --
+Buy:
+	1 Crystalline ミンナカタクナール (1 total)
+	2 Power Blasts ミンナツヨクナール (2 total)
+	
+Your inventory should have:
+1 Red Essence レッドヨッシーエキス
+1 Fire Bomb かえんだま
+3 Ice Bombs こおりだま
+4 Fright Bombs びびりだま
+1 Crystalline ミンナカタクナール
+2 Power Blasts ミンナツヨクナール
+1 See Ya さよならはとつぜんに
+1 Lambs Lure ひつじのゆうわく
+1 Lucky Jewel ラッキージュエル
+1 Seed たね
+
+Sell everything else
+
+	-- Yo'ster Isle --
+
+Withdraw 12 yoshi cookies
+
+	-- Nimbus Land --
+
+Item shop
+Buy:
+	1 Mid Mushroom スーパーキノコ
+	1 War Fan センス
+
+Equip:
+Bowser:
+	Unequip Work Pants ばっちいパンツ
+Peach:
+	War Fan センス
+	Troopa Pin パタパタくんしょう
+	
+Notes: These equips make bowser slower than mario, important for the birdo fight
+
+Feather from dodo minigame
+Castle key from red shirt guy
+Heavy troopa skip
+Watch cutscene, then backtrack to the castle key room
+Save
+Rock candy manip (12 times)
+	https://youtu.be/kfCJjyuApCI
+Save before birdo
+
+===================================================
+Birdo 777 HP Luck 1/6
+Mario: Hammer, Work Pants, Amulet
+Bowser: None
+Peach: War Fan, Nautica Dress, Troopa Pin
+===================================================
+P Power Blast ミンナツヨクナール
+M Jump
+B Attack
+
+P Attack
+M Lucky Hammer
+B Attack
+
+P Attack (egg opens)
+(if peach doesn’t break the egg, defend with mario and bowser to fix turn order)
+M Jump
+B Fright Bomb びびりだま
+--birdo attack--
+P Fright Bomb びびりだま
+M Jump
+B Fright Bomb びびりだま
+
+Notes:
+The egg cracks when it’s hp is below 400, 300, 200, and 100
+The egg must crack 4 times before it opens
+Blocking the egg attack is important
+Birdo starts using a different attack when damaged 3 times
+
+	-- Land's End (from the front) --
+
+Equip:
+Bowser:
+		Work Pants ばっちいパンツ
+		Acc. Bowser→Peach
+Peach:
+		Safety Ring セーフティーリング
+
+Save before valentina
+
+	-- Nimbus Land --
+
+===================================================
+Valentina 1200 HP Luck 1/6
+Mario: Hammer, Work Pants, Amulet
+Bowser: None, Work Pants, troopa pin
+Peach: War Fan, Nautica Dress, Safety Ring
+===================================================
+
+************************
+Dodo phase 400 HP
+************************
+Fright Bomb びびりだま
+Lucky Jewel ラッキージュエル
+Red essence レッドヨッシーエキス
+Fire Bomb かえんだま
+
+Notes:
+Use the mid mushroom to heal if necessary
+The person in the middle of your party fights here, bowser should be there
+
+************************
+Valentina phase 1 800 HP
+************************
+P Crystalline ミンナカタクナール
+M Power Blast ミンナツヨクナール
+
+If mario dies turn 1:
+Peach: Therapy if she takes damage, otherwise throw 3 rock candies こんぺいとう
+
+If mario is alive after turn 1:
+Mario: Jump once (he will probably die next turn)
+Peach: Therapy if she takes damage, otherwise throw 2 rock candies こんぺいとう
+
+************************
+Valentina Phase 2 1200 HP
+************************
+Throw 4 rock candies こんぺいとう, group hug with peach if you take a ton of damage
+
+--
+
+Fertilizer
+Signal Ring
+
+	-- Rose Town --
+
+Give the seed and fertilizer to the gardener
+Lazy shell (weapon and armor)
+
+Equip:
+Acc. Mario→Bowser
+Bowser:
+		Rare Scarf ぼうぎょスカーフ
+		Lazy Shell (Armor) ひまんパタこうら
+Peach:
+		Feather ドドのはね
+
+	-- Tadpole Pond --
+	
+Frog coin emporium (left tadpole)
+Buy:
+		2 Energizers ツヨクナール (2 total)
+		1 Power Blast ミンナツヨクナール (1 total)
+
+	-- Barrel Volcano --
+
+Jitanda skip
+Stump skip (use lamb's lure if you miss it)
+Hinopio's shop(top desk)
+Buy:
+		7 Pick Me Ups ふっかつドリンク
+
+Notes: 
+You should have:
+2 Energizers ツヨクナール
+3 Ice Bombs こおりだま
+1 See Ya さよならはとつぜんに
+N Rock Candies こんぺいとう
+1 Lamb’s Lure ひつじのゆうわく
+1 Lucky Jewel ラッキージュエル
+1 Power Blast ミンナツヨクナール
+
+You can sell everything else for space
+
+Save before czar
+
+===================================================
+Czar Dragon 1400 HP Luck 1/3
+Mario: Hammer, Work Pants, Troopa Pin
+Bowser: None, Lazy Shell, Rare Scarf
+Peach: War Fan, Nautica Dress, Feather
+===================================================
+
+M Jump
+P Energizer on Bowser
+Throw 3 ice bombs こおりだま with bowser and mario
+(When mario and peach die don’t revive them)
+
+************************
+Zombone phase 1800 HP
+************************
+B Pick Me Up ふっかつドリンク on Mario
+M Lucky Hammer
+
+Rest of fight:
+Bowser: Revive mario or defend
+Mario: Jump
+
+Notes:
+If mario is feared, let him die
+
+Watch axem rangers cutscene (go to where they jump up the spring)
+Backtrack to save box
+Check pick me up count (if you have less than 5, buy more from hinopio)
+Save before axems
+
+===================================================
+Axem Rangers Luck 1 / 3
+Mario: Hammer, Work Pants, Troopa Pin
+Bowser: None, Lazy Shell, Rare Scarf
+Peach: War Fan, Nautica Dress, Feather
+===================================================
+
+************************
+Phase 1 (red has 800 hp)
+************************
+M Rock Candy こんぺいとう
+P Energizer ツヨクナール on Bowser
+--axems attack--
+B Rock Candy こんぺいとう
+--axems attack--
+B Pick Me Up ふっかつドリンク on Mario
+M Jump on Red
+(if one of them was healed by pink, jump on them first)
+
+************************
+Phase 2 999 HP
+************************
+B Rock Candy こんぺいとう
+--axems attack--
+B Pick Me Up ふっかつドリンク on Mario
+M Lucky Hammer
+B Rock Candy こんぺいとう
+--axems attack--
+B Pick Me Up ふっかつドリンク on Mario
+M Jump
+B Rock Candy こんぺいとう
+
+	-- Nimbus Land --
+
+Check rock candy and pick me up count (need 4 rock candies and 2 pick me ups)
+(If you're short, take an extra trip to seaside before doing mario's pad manip)
+Royal bus
+
+	-- Mario's Pad --
+
+Mario's pad manip
+
+	-- Bowser's Keep --
+
+Door 1 (quiz)
+		Rock candy at end
+Door 2 (puzzle)
+		Rock candy at end
+Door 4 (donkey kong)
+		Fright bomb 1st screen
+		Ice bomb 1st screen
+		Rock candy 1st screen
+		Red essence 2nd screen
+		Super slap at end
+Door 5 (platforming)
+		Rock candy 2nd screen
+		Sonic Cymbals at end
+	
+Equip:
+Acc. Mario→Bowser
+Acc. Bowser→Peach
+
+Save before magikoopa
+
+===================================================
+Magikoopa 1600 HP Luck 1/6
+Mario: Hammer, Work Pants, Rare Scarf
+Bowser: None, Lazy Shell, Feather
+Peach: War Fan, Nautica Dress, Troopa Pin
+===================================================
+P Fright Bomb びびりだま
+M Lucky Hammer
+B Rock Candy こんぺいとう
+--magikoopa attack--
+Rock candies こんぺいとう until next phase starts
+
+************************
+If big bomb
+************************
+Wait for it to explode, it will stun magikoopa, and you can finish.
+
+************************ 
+If dragon
+************************
+Bowser and Peach: Revive mario with pick me up ふっかつドリンク, then use 1 ice bomb こおりだま
+Mario: Jump
+
+************************
+If jinx
+************************
+Bowser and Peach: Revive mario with pick me up ふっかつドリンク, then defend
+Mario: 2 jumps
+
+Throw rock candies こんぺいとう until dead
+
+--
+
+Croco Shop
+Sell:
+		All Fire Bombs かえんだま 
+		All Fright Bombs びびりだま
+Buy:
+		Royal Dress プリンセスドレス
+		Pick Me Ups ふっかつドリンク (12 total)
+Equip:
+Acc. Mario→Peach
+Acc.Peach→Bowser
+Peach
+		Safety Ring セーフティーリング
+		Royal Dress プリンセスドレス
+
+Save before boomer
+
+===================================================
+Boomer 2000 HP Luck 1/6
+Mario: Hammer, Work Pants, Troopa Pin
+Bowser: None, Lazy Shell, Rare Scarf
+Peach: War Fan, Royal Dress, Safety Ring
+===================================================
+M Jump
+P Power Blast ミンナツヨクナール
+B Revive mario or rock candy こんぺいとう
+
+Rest of fight:
+Mario: Jump twice, lucky hammer (when boomer changes color), jump
+Bowser and Peach: revive mario, rock candies こんぺいとう (need to use 3 total), or defend
+
+Notes:
+leave peach dead
+かわいそうなブーマーちゃん・・・
+
+===================================================
+Exor 1800 HP Luck 1/3
+Mario: Hammer, Work Pants, Troopa Pin
+Bowser: None, Lazy Shell, Rare Scarf
+Peach: War Fan, Royal Dress, Safety Ring
+===================================================
+
+!!! Remember to Lucky Hammer !!!
+
+M Jump on “Right Eye" みぎめ (500 hp)
+P ice bomb こおりだま, or defend
+--exor attacks(peach will likely die)--
+B Revive mario, ice bomb こおりだま, or defend
+M Lucky hammer
+
+Rest of fight:
+Mario: Jump on exor
+Bowser: Revive mario, ice bomb こおりだま, or defend
+
+Notes:
+Use up all ice bombs if you can
+If exor becomes protected, jump on eye again
+
+O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo AAE-O-A-A-U-U-A- E-eee-ee-eee AAAAE-A-E-I-E-A- JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA
+
+	-- Seaside Town --
+
+Mole shop
+Your inventory should have:
+1 Red Essence レッドヨッシーエキス
+N Rock Candies こんぺいとう
+1 Lamb’s Lure ひつじのゆうわく
+1 Lucky Jewel ラッキージュエル
+1 See Ya さよならはとつぜんに
+
+Sell everything else
+Farm for 11 total rock candies こんぺいとう
+After farming, buy mid mushrooms スーパーキノコ (as many as you can hold)
+
+	-- Moleville --
+
+Trade 30 mid mushrooms スーパーキノコ for 3 ice bombs こおりだま
+
+	-- Tadpole Pond --
+
+Frog coin emporium (left tadpole)
+Buy:
+		3 Sleepy Bombs ねむりだま (3 total)
+		2 Energizers ツヨクナール (2 total)
+		2 Power Blasts ミンナツヨクナール (2 total)
+
+	-- Mushroom Kingdom (enter from the right) --
+
+Item shop
+Buy:
+		4 Pick Me Ups ふっかつドリンク
+
+	-- Abyss --
+
+Ultra hammer
+Equip:
+Acc. Peach→Mario
+Acc. Mario→Bowser
+Mario:
+		Amulet ブッキーのおまもり
+
+Save before countdown
+
+===================================================
+Countdown 2400 HP Ding-A-Lings 1200 HP Luck 1/3
+Mario: Hammer, Work Pants, Amulet
+Bowser: None, Lazy Shell, Safety Ring
+Peach: War Fan, Royal Dress, Troopa Pin
+===================================================
+P Power Blast ミンナツヨクナール
+M Jump on countdown
+--countdown attack--
+(peach likely dies, leave her dead)
+(if mario dies here reset)
+B Red Essence レッドヨッシーエキス on mario
+
+Rest of fight:
+Mario: Jump until countdown is dead, then lucky hammer
+Bowser: Rock candies こんぺいとう
+
+Notes:
+Killing the ding-a-lings last forces exp only
+If one dingaling is left, revive mario and jump
+
+Equip: 
+Acc. Mario→Peach
+Acc. Peach→Bowser
+Bowser:
+		Rare Scarf ぼうきょスカーフ
+
+Save before yaridovich clone
+
+===================================================
+Yaridovich Clone 800 HP
+Mario: Hammer, Work Pants, Troopa Pin
+Bowser: None, Lazy Shell, Rare Scarf
+Peach: War Fan, Royal Dress, Safety Ring
+===================================================
+Defend until he multiplies, then use lamb’s lure ひつじのゆうわく
+
+--
+
+Use peach to heal
+Save before cloaker and domino
+
+===================================================
+Cloaker 1200 HP & Domino 900 HP Luck 1/3
+Mario: Hammer, Work Pants, Troopa Pin
+Bowser: None, Lazy Shell, Rare Scarf
+Peach: War Fan, Royal Dress, Safety Ring
+===================================================
+Power Blast ミンナツヨクナール
+Use 3 rock candies こんぺいとう
+
+************************
+Earth Link 2500 HP
+************************
+M Jump on snake
+P Heal bowser
+B Lucky Jewel ラッキージュエル
+
+Rest of fight:
+Mario: Jump on snake
+Bowser: Revive mario or defend
+
+Notes: Blocking against physical and poison are pretty important, pick me ups are limited
+
+Equip:
+Bowser:
+		Work Pants ばっちいパンツ
+Acc. Bowser→Mario
+Acc. Mario→Peach
+Peach:
+		Amulet ブッキーのおまもり
+
+Backtrack to save block
+
+===================================================
+Hammers 200 HP each
+Mario: Hammer, Work Pants, Safety Ring
+Bowser: None, Work Pants Troopa Pin
+Peach: War Fan, Royal Dress, Amulet
+===================================================
+Lamb’s lure ひつじのゆうわく twice, last hammer runs away
+
+===================================================
+Clerk 500 HP Luck 1/6
+Mario: Hammer, Work Pants, Safety Ring
+Bowser: None, Work Pants Troopa Pin
+Peach: War Fan, Royal Dress, Amulet
+===================================================
+B Rock Candy こんぺいとう
+M Lucky Hammer
+P Rock Candy こんぺいとう
+
+--
+
+Equip:
+Acc. Peach→Mario
+Acc. Mario→Bowser
+Bowser:
+		Feather ドドのはね
+
+Toad shop
+Buy:
+		4 Pick Me Ups ふっかつドリンク (4 total)
+
+Notes: You recieve 1 rock candy after talking to toad
+
+Backtrack to save block
+Save before manager
+
+===================================================
+Manager 800 HP Luck 1/6
+Mario: Hammer, Work Pants, Troopa Pin
+Bowser: None, Work Pants Feather
+Peach: War Fan, Royal Dress, Safety Ring
+===================================================
+
+************************
+If peach survives turn 1
+************************
+M Jump
+B Sleepy Bomb ねむりだま
+P Energizer ツヨクナール on Bowser
+
+M Jump
+B Rock Candy こんぺいとう
+P Lucky Jewel ラッキージュエル
+
+M Jump
+
+************************
+If peach dies turn 1
+************************
+M Jump
+B Sleepy Bomb ねむりだま
+
+M Energizer ツヨクナール on Bowser
+B Lucky jewel ラッキージュエル
+
+M Jump
+B Rock candy こんぺいとう
+
+M Jump
+
+Notes: If Mario dies, revive with a pick me up
+
+Backtrack to save before director
+
+===================================================
+Director 1000 HP Luck 1/6
+Mario: Hammer, Work Pants, Troopa Pin
+Bowser: None, Work Pants Feather
+Peach: War Fan, Royal Dress, Safety Ring
+===================================================
+M Jump
+B Sleepy Bomb ねむりだま
+P Energizer ツヨクナール on Bowser
+
+M Jump
+B Rock Candy こんぺいとう
+P Lucky Jewel ラッキージュエル
+
+M Jump
+B Defend
+P Defend
+
+M Jump
+
+Notes:
+If peach dies turn 1 do the same thing as manager
+If peach or bowser die after turn 2, leave dead
+
+Equip:
+Peach:
+		Work Pants ばっちいパンツ
+Acc. Peach→Bowser
+Bowser:
+		Lazy Shell ひまんパタこうら
+Acc. Bowser→Mario
+Mario:
+		Amulet ブッキーのおまもり
+
+Save before gunyolk
+
+===================================================
+Gunyolk 1500 HP & Factory Chief 1000 HP Luck 1/6
+Mario: Hammer, Work Pants, Amulet
+Bowser: None, Lazy Shell, Troopa Pin
+Peach: War Fan, Work Pants, Feather
+===================================================
+
+************************
+3 ice bombs (no 1st turn freebie)
+************************
+P Sleepy Bomb ねむりだま
+B Ice Bomb こおりだま
+M Jump on Gunyolk ラスダーン
+
+P Lucky Jewel ラッキージュエル
+B Ice Bomb こおりだま
+M Jump on Gunyolk ラスダーン
+
+P Defend
+B Ice Bomb こおりだま (gunyolk dead)
+M Jump
+
+P Defend
+B Ice Bomb(Rock Candy if no freebie)
+
+************************
+4 ice bombs (1st turn freebie)
+************************
+P Sleepy Bomb ねむりだま
+B Ice bomb こおりだま
+M Jump on Gunyolk
+
+P Ice Bomb こおりだま
+B Ice Bomb こおりだま
+M Jump
+
+P Lucky Jewel ラッキージュエル
+B Ice Bomb こおりだま
+M Jump
+
+Notes: Use pick me up on mario with peach if he dies
+
+Backtrack out of factory and abyss
+
+	--  Mushroom Kingdom (enter from the right) --
+
+Item shop
+
+You should have:
+1 Lamb’s Lure ひつじのゆうわく
+1 See Ya さよならはとつぜんに
+4 Bombs (prioritize rock candies over ice bombs)
+
+Sell:
+		everything else
+Equip:
+Mario:
+		Lazy Shell (Weapon) ひまんパタこうら
+Acc. Mario→Bowser
+Bowser:
+		Safety Ring セーフティーリング
+Peach:
+		Unequip War Fan センス
+		Equip Royal Dress プリンセスドレス
+
+Notes: This gives 23 free slots for trading in yoshi cookies
+
+	-- Yo'ster Isle --
+	
+Feed baby yoshi cookies (20, 3, 20, 20, 10, 20)
+Get 4 red essences
+
+	--	Moleville --
+
+(assuming 19 slots free)
+Buy 19 mid mushrooms スーパーキノコ
+Trade in for 1 ice bomb こおりだま
+Buy 18 mid mushrooms スーパーキノコ
+Trade in for 2 ice bombs こおりだま
+Buy 16 mid mushrooms スーパーキノコ
+Trade in for 2 ice bombs こおりだま
+Buy 14 mid mushrooms スーパーキノコ
+Trade in for 1 ice bomb こおりだま
+
+Notes:
+If this doesn’t work because of money, space, or freebies, just figure out how to sell 67 super mushrooms
+You come back to trade in the last 3 mushrooms for a fire bomb, so have at least 70 points in the shop
+Sell your unused equipment if you need money
+
+	-- Seaside Town --
+
+Farm until you have 12 total rock candies (5 slots left)
+Buy 3 mid mushrooms スーパーキノコ after
+
+Notes: Sell your unused equipment if you need money
+
+	--	Moleville --
+
+Trade in 3 mid mushrooms スーパーキノコ for 1 fire bomb かえんだま
+
+	-- Bean Valley --
+
+On the screen with 6 pipes, get into an encounter with the far right piranha plant
+If you don't get the formation with 2 piranha plants, use See Ya さよならはとつぜんに to run away until you do
+Use lamb's lure ひつじのゆうわく on both enemies
+Red essence down pipe
+
+	-- Tadpole Pond --
+
+Frog coin emporium (left tadpole)
+Buy:
+		1 Crystalline ミンナカタクナール (1 total)
+		2 Power Blast ミンナツヨクナール (2 total)
+
+Inventory should look like this:
+12 Rock Candies こんぺいとう
+6 Ice Bombs こおりだま
+1 Fire Bomb かえんだま
+5 Red Essences レッドヨッシーエキス
+2 Power Blasts ミンナカタクナール
+1 Crystalline ミンナツヨクナール
+1 See Ya さよならはとつぜんに
+1 Lambs Lure ひつじのゆうわく
+
+	-- Factory --
+
+Toad shop
+Sell:
+		1 Lamb’s Lure ひつじのゆうわく
+		1 See Ya さよならはとつぜんに
+Buy:
+		1 Pick Me Up ふっかつドリンク
+		1 Max Mushroom ウルトラキノコ
+
+Save before smithy
+
+===================================================
+Smithy
+Mario: Lazy Shell, Work Pants, Troopa Pin
+Bowser: None, Lazy Shell, Safety Ring
+Peach: None, Royal Dress, Feather
+===================================================
+
+************************
+Smithy 1 2000 HP
+************************
+M Power Blast ミンナツヨクナール
+P Crystalline ミンナカタクナール 
+B Ice Bomb こおりだま
+Throw 6 rock candies こんぺいとう
+
+************************
+Smithy 2 8000 HP
+************************
+M Jump
+P Group Hug
+B Red Essence レッドヨッシーエキス on mario
+
+Use red essences レッドヨッシーエキス on mario as soon as they run out
+Heal with peach until she’s dead (do not use items with her)
+Bowser should use power blast ミンナツヨクナール after shredder
+
+************************
+Tank Head
+************************
+Mario: Jump
+Bowser: Rock Candies こんぺいとう
+
+************************
+Mage Head
+************************
+Mario: Attack
+Bowser: Rock Candies こんぺいとう
+
+************************
+Chest Head
+************************
+Mario: Jump
+Bowser: Fire Bombs かえんだま or Rock Candies こんぺいとう
+
+************************
+Safe Head
+************************
+Mario: Ice Bombs こおりだま
+Bowser: Ice Bombs こおりだま

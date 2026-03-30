@@ -2,7 +2,7 @@
 title: Blue Reflection Tie Notes
 layout: default
 permalink: /bluereflectiontie/
-nav_order: 2
+parent: Speedrun Notes
 ---
 
 Note: This route is now somewhat out of date.
@@ -143,7 +143,7 @@ enemy shields reset every time they attack. When you go for knockdowns its best 
 enter second layer
 stealth section
 
-![94dfb59decf382819f8026ba46706550.png](94dfb59decf382819f8026ba46706550.png)
+![94dfb59decf382819f8026ba46706550.png](/speedrun/assets/bluereflectiontie/94dfb59decf382819f8026ba46706550.png)
 
 After collecting the item after the crawlspace, you need to pay attention to the large enemy. when he is moving to the left, pass by the right side of him. then just take a straight line to the last item.
 
@@ -489,7 +489,7 @@ When you load a save file, you get a short period of time where enemies can't se
 stand just outside of the red enemy circle, close to the barrel
 line up in this direction (when you load your save, the camera will face where ao is facing)
 
-<img src="54e0269d94b6b2ff034a995f139ca432.png" width=600>
+<img src="/speedrun/assets/bluereflectiontie/54e0269d94b6b2ff034a995f139ca432.png" width=600>
 
 save, and load this save file again
 hold forward
@@ -557,7 +557,7 @@ enter second layer
 return to school
 enter hinako's heartscape second layer
 
-![aaaab260cdae656afe1713de0a446c5d.png](aaaab260cdae656afe1713de0a446c5d.png)
+![aaaab260cdae656afe1713de0a446c5d.png](/speedrun/assets/bluereflectiontie/aaaab260cdae656afe1713de0a446c5d.png)
 
 >Wailbranch and Sorrowful Persona
 >
@@ -936,7 +936,7 @@ enter final layer
 return to school
 enter kirara's heartscape final layer
 
-![2d828fa3fb113119ccac9f8c806a0d6a.png](2d828fa3fb113119ccac9f8c806a0d6a.png)
+![2d828fa3fb113119ccac9f8c806a0d6a.png](/speedrun/assets/bluereflectiontie/2d828fa3fb113119ccac9f8c806a0d6a.png)
 
 do this menu right before Leporem, because the crepe only works for one battle, and you don't want to waste it with an enemy encounter
 
@@ -1302,7 +1302,7 @@ notes:
 enter final layer
 leave, reenter
 
-![503b07ecd726bf8cd63f01bf08a823ea.png](503b07ecd726bf8cd63f01bf08a823ea.png)
+![503b07ecd726bf8cd63f01bf08a823ea.png](/speedrun/assets/bluereflectiontie/503b07ecd726bf8cd63f01bf08a823ea.png)
 
 >The One Who Came from Nothing
 >
@@ -1459,7 +1459,7 @@ leave and re-enter
 
 top left door
 
-![85140e2560267cf0e2e1020744834716.png](85140e2560267cf0e2e1020744834716.png)
+![85140e2560267cf0e2e1020744834716.png](/speedrun/assets/bluereflectiontie/85140e2560267cf0e2e1020744834716.png)
 
 >Fear Zone  Wraith
 >
@@ -1707,7 +1707,7 @@ craft origin gate
 
 enter origin route
 
-![ddbbb9435de39562bceeb120b64eb9a4.png](ddbbb9435de39562bceeb120b64eb9a4.png)
+![ddbbb9435de39562bceeb120b64eb9a4.png](/speedrun/assets/bluereflectiontie/ddbbb9435de39562bceeb120b64eb9a4.png)
 
 rotate center 3 times
 terminal 1
@@ -1731,7 +1731,7 @@ return to school
 warp to roof
 enter origin route
 
-![898c094199ac932eb9696f9513bd6eb2.png](898c094199ac932eb9696f9513bd6eb2.png)
+![898c094199ac932eb9696f9513bd6eb2.png](/speedrun/assets/bluereflectiontie/898c094199ac932eb9696f9513bd6eb2.png)
 
 slide
 
@@ -1752,7 +1752,7 @@ terminal 3
 zipline
 terminal 4
 
-![15714a176e5404789faf7e05dad69e69.png](15714a176e5404789faf7e05dad69e69.png)
+![15714a176e5404789faf7e05dad69e69.png](/speedrun/assets/bluereflectiontie/15714a176e5404789faf7e05dad69e69.png)
 
 crawlspace
 terminal 5
@@ -1760,7 +1760,7 @@ return to school
 warp to roof
 enter origin route
 
-![c2c65d525a085b87142fd287b9486574.png](c2c65d525a085b87142fd287b9486574.png)
+![c2c65d525a085b87142fd287b9486574.png](/speedrun/assets/bluereflectiontie/c2c65d525a085b87142fd287b9486574.png)
 
 up the stairs
 

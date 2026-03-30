@@ -2,7 +2,7 @@
 title: Majora's Mask Japanese Keaton Quiz  Reference
 layout: default
 permalink: /keaton/
-nav_order: 2
+parent: Speedrun Notes
 ---
 
 <style>
@@ -19,7 +19,7 @@ This is a compact reference incase you need to look up a question in the middle
 of a speedrun. It lists just the red keywords and the correct answer.
 
 For studying the questions I made an anki deck with the full sentences.
-[jp_keaton_quiz.apkg](jp_keaton_quiz.apkg)
+[jp_keaton_quiz.apkg](/speedrun/assets/jp_keaton_quiz.apkg)
 
 <span class="highlight">ロマニー　眠る　時間</span>　8時
 

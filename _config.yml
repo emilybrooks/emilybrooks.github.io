@@ -4,7 +4,7 @@ markdown: kramdown
 kramdown:
     hard_wrap: true
 
-remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs@v0.10.1 # before they started changing the theme
 
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/assets/images/just-the-docs.png"
@@ -19,8 +19,8 @@ heading_anchors: true
 aux_links:
   "twitch.tv/emilybrooks":
     - "//twitch.tv/emilybrooks"
-  "GitHub":
-    - "//github.com/emilybrooks/emilybrooks.github.io"
+  "github.com/emilybrooks":
+    - "//github.com/emilybrooks"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
