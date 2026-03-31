@@ -237,5 +237,5 @@ At first I tried implementing compression in Python, but I found that it was rea
 ## Links
 - [FE9 Character Editor and Randomizer](https://feuniverse.us/t/fe9-character-editor-and-randomizer-v1-3-2/4979) by Jespoke
 - [[FE9] File structure notes](https://feuniverse.us/t/fe9-file-structure-notes/5020) by Jespoke
-- [system.cmp notes](https://feuniverse.us/t/path-of-radiance-modding/3106) by kirb
+- [system.cmp notes](https://feuniverse.us/t/path-of-radiance-modding/3106/2) by Kirb
 - [PyFastGBALZ77](https://github.com/LagoLunatic/PyFastGBALZ77) by LagoLunatic
