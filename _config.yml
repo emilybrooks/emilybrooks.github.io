@@ -15,13 +15,6 @@ search_enabled: false
 # Enable or disable heading anchors
 heading_anchors: true
 
-# Aux links for the upper right navigation
-aux_links:
-  "twitch.tv/emilybrooks":
-    - "//twitch.tv/emilybrooks"
-  "github.com/emilybrooks":
-    - "//github.com/emilybrooks"
-
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
 
@@ -37,3 +30,26 @@ callouts:
   items:
     title: Collect
     color: yellow
+
+# External navigation links
+nav_external_links:
+  - title: Github
+    url: http://github.com/emilybrooks
+    hide_icon: false 
+    opens_in_new_tab: false
+
+  - title: Youtube
+    url: http://youtube.com/@EmilyBrooksSpeedruns/videos
+    hide_icon: false 
+    opens_in_new_tab: false
+
+  - title: Twitch
+    url: http://twitch.tv/emilybrooks
+    hide_icon: false 
+    opens_in_new_tab: false
+
+  - title: Bluesky
+    url: http://bsky.app/profile/brooksemily.bsky.social
+    hide_icon: false 
+    opens_in_new_tab: false
+  

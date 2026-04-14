@@ -5,14 +5,14 @@ permalink: /
 has_toc: false
 ---
 
-<a href="https://github.com/magcius/noclip.website/tree/main/src/TokyoMirageSessionsSharpFE">
+<a href="tmslevelviewer">
     Tokyo Mirage Sessions ♯FE Level Viewer (2026)
-    <img src="/projects/assets/tms_noclip.webp">
+    <img src="/projects/assets/tms_noclip.jpg">
 </a>
 
 <a href="https://github.com/zeldaret/af/blob/website/docs/index.html">
     Animal Forest Website (2024)
-    <img src="/projects/assets/animal_forest_website.webp">
+    <img src="/projects/assets/animal_forest_website.jpg">
 </a>
 
 <a href="https://github.com/zeldaret/af">
@@ -22,7 +22,7 @@ has_toc: false
 
 <a href="https://github.com/emilybrooks/gc-to-n64-adapter">
     GameCube Controller to N64 Adapter (2021)
-    <img src="/projects/assets/gc_n64_adapter.webp">
+    <img src="/projects/assets/gc_n64_adapter.jpg">
 </a>
 
 <a href="https://github.com/zeldaret/oot">
@@ -32,5 +32,5 @@ has_toc: false
 
 <a href="fe9patcher">
     FE9 Game Data Patcher (2020)
-    <img src="/projects/assets/fe9patcher.webp">
+    <img src="/projects/assets/fe9patcher.jpg">
 </a>
