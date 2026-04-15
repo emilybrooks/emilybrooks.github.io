@@ -194,7 +194,7 @@ But absolutely nothing was working. I've seen too many horrifically stretched tr
 At best they were in completely different spots, sometimes floating in the air:
 
 <a href="https://noclip.website/#TokyoMirageSessionsSharpFE/d007_01;ShareData=AEJdST1M/d9kd8!Uvtid+1ISDQ171*Uqd8lUe:MeV2PUB95@ac8:qV?T/Lra+d">
-![](/projects/assets/tms_level_viewer/floating_Trees.jpg)
+![](/projects/assets/tms_level_viewer/floating_trees.jpg)
 </a>
 
 My suffering was due to a fundamental misunderstanding of how skinned meshes work. Consider a mesh with only one bone. Its vertices are stored near the origin. Wherever the bone goes, they go. You can think of them in a coordinate space where the bone is the center of the world. Let's call this bone local space.
